@@ -1,0 +1,92 @@
+A,B
+Doxorubicin,H-7
+H-7,Mitomycin
+Etoposide,Mitomycin
+Doxorubicin,Mitomycin
+Camptothecin,Mitomycin
+Etoposide,H-7
+Blebbistatin,H-7
+Doxorubicin,Trichostatin A
+Cycloheximide,H-7
+Camptothecin,H-7
+Etoposide,Trichostatin A
+Cycloheximide,Monastrol
+Mitomycin,Trichostatin A
+H-7,Monastrol
+Camptothecin,Etoposide
+Camptothecin,Doxorubicin
+Cycloheximide,Mitomycin
+Monastrol,Trichostatin A
+H-7,Trichostatin A
+Monastrol,Vincristine
+Blebbistatin,Monastrol
+Aclacinomycin A,Mitomycin
+Aclacinomycin A,Monastrol
+Doxorubicin,Etoposide
+Methotrexate,Vincristine
+Aclacinomycin A,H-7
+H-7,Sirolimus
+Methotrexate,Mitomycin
+Geldanamycin,Vincristine
+Blebbistatin,Vincristine
+Geldanamycin,H-7
+Etoposide,Vincristine
+Aclacinomycin A,Cycloheximide
+Blebbistatin,Mitomycin
+Methotrexate,Monastrol
+H-7,Methotrexate
+Cycloheximide,Trichostatin A
+Cycloheximide,Vincristine
+Blebbistatin,Geldanamycin
+Methotrexate,Sirolimus
+Doxorubicin,Vincristine
+Sirolimus,Vincristine
+H-7,Vincristine
+Etoposide,Geldanamycin
+Aclacinomycin A,Etoposide
+Doxorubicin,Geldanamycin
+Geldanamycin,Sirolimus
+Monastrol,Sirolimus
+Aclacinomycin A,Vincristine
+Trichostatin A,Vincristine
+Camptothecin,Vincristine
+Blebbistatin,Methotrexate
+Aclacinomycin A,Doxorubicin
+Geldanamycin,Methotrexate
+Methotrexate,Trichostatin A
+Camptothecin,Trichostatin A
+Blebbistatin,Sirolimus
+Geldanamycin,Trichostatin A
+Camptothecin,Cycloheximide
+Sirolimus,Trichostatin A
+Aclacinomycin A,Geldanamycin
+Camptothecin,Methotrexate
+Geldanamycin,Mitomycin
+Cycloheximide,Methotrexate
+Aclacinomycin A,Sirolimus
+Mitomycin,Sirolimus
+Camptothecin,Monastrol
+Cycloheximide,Doxorubicin
+Cycloheximide,Etoposide
+Mitomycin,Vincristine
+Camptothecin,Geldanamycin
+Blebbistatin,Doxorubicin
+Doxorubicin,Methotrexate
+Aclacinomycin A,Blebbistatin
+Geldanamycin,Monastrol
+Etoposide,Methotrexate
+Aclacinomycin A,Methotrexate
+Cycloheximide,Sirolimus
+Blebbistatin,Etoposide
+Blebbistatin,Trichostatin A
+Cycloheximide,Geldanamycin
+Mitomycin,Monastrol
+Etoposide,Sirolimus
+Aclacinomycin A,Trichostatin A
+Blebbistatin,Cycloheximide
+Aclacinomycin A,Camptothecin
+Doxorubicin,Sirolimus
+Blebbistatin,Camptothecin
+Camptothecin,Sirolimus
+Etoposide,Monastrol
+Doxorubicin,Monastrol

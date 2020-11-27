@@ -1,0 +1,7473 @@
+Drug	DEG	logFC
+Geldanamycin	PRICKLE3	1
+Geldanamycin	SYTL3	1
+Geldanamycin	ZNF496	1
+Geldanamycin	MBNL2	1
+Geldanamycin	HSF2	1
+Geldanamycin	VLDLR	1
+Geldanamycin	GBA2	1
+Geldanamycin	MEAF6	1
+Geldanamycin	ARHGAP28	1
+Geldanamycin	SYT3	1
+Geldanamycin	MTMR11	1
+Geldanamycin	ABCB6 /// ATG9A	1
+Geldanamycin	LOC729020 /// RPE	1
+Geldanamycin	SLC20A2	1
+Geldanamycin	SUMF2	1
+Geldanamycin	NGFR	1
+Geldanamycin	TMEM106C	1
+Geldanamycin	GRB2	1
+Geldanamycin	STK39	1
+Geldanamycin	PDCD5	1
+Geldanamycin	HMGN3	1
+Geldanamycin	ZNF394	1
+Geldanamycin	RFC4	1
+Geldanamycin	GAA	1
+Geldanamycin	PDCL	1
+Geldanamycin	TNPO2	1
+Geldanamycin	C1orf122	1
+Geldanamycin	AMD1	1
+Geldanamycin	AIFM3	1
+Geldanamycin	C1orf103	1
+Geldanamycin	PSENEN	1
+Geldanamycin	PPIB	1
+Geldanamycin	C17orf58	1
+Geldanamycin	PPP2R2B	1
+Geldanamycin	CCL3	1
+Geldanamycin	ARF6	1
+Geldanamycin	DUT	1
+Geldanamycin	CCDC58	1
+Geldanamycin	OGG1	1
+Geldanamycin	THUMPD3	1
+Geldanamycin	DFNB31	1
+Geldanamycin	HLA-DRB1 /// HLA-DRB3 /// HLA-DRB4 /// HLA-DRB5	1
+Geldanamycin	CCNB2	1
+Geldanamycin	CAPN5	1
+Geldanamycin	PLP2	1
+Geldanamycin	PFDN6	1
+Geldanamycin	PPP1R7	1
+Geldanamycin	TOMM5	1
+Geldanamycin	ETFB	1
+Geldanamycin	SS18L2	1
+Geldanamycin	MRPL52	1
+Geldanamycin	USP1	1
+Geldanamycin	CCDC90A	1
+Geldanamycin	TEX14	1
+Geldanamycin	TRMT11	1
+Geldanamycin	CLDN15	1
+Geldanamycin	TUBE1	1
+Geldanamycin	AURKA	1
+Geldanamycin	EXOSC6	1
+Geldanamycin	ARHGAP17	1
+Geldanamycin	MTP18	1
+Geldanamycin	STX4	1
+Geldanamycin	FZR1	1
+Geldanamycin	TYMS	1
+Geldanamycin	C6orf129	1
+Geldanamycin	ALG3	1
+Geldanamycin	BTG1	1
+Geldanamycin	C11orf31	1
+Geldanamycin	ZNF536	1
+Geldanamycin	HSPA5	1
+Geldanamycin	AK3L1	1
+Geldanamycin	PPDPF	1
+Geldanamycin	CDK4	1
+Geldanamycin	FZD7	1
+Geldanamycin	H2AFZ	1
+Geldanamycin	NOTCH2 /// NOTCH2NL	1
+Geldanamycin	MCM7	1
+Geldanamycin	PPA1	1
+Geldanamycin	TRIM65	1
+Geldanamycin	POLR1C	1
+Geldanamycin	LBH	1
+Geldanamycin	PCNA	1
+Geldanamycin	JAKMIP2	1
+Geldanamycin	IL2RG	1
+Geldanamycin	TCTN1	1
+Vincristine	KIF18A	1
+Vincristine	PBK	1
+Vincristine	KIF20A	1
+Vincristine	CCNB2	1
+Vincristine	NEK2	1
+Vincristine	KIF11	1
+Vincristine	CDC20	1
+Vincristine	SGOL1	1
+Vincristine	SGOL2	1
+Vincristine	NUF2	1
+Vincristine	TTK	1
+Vincristine	AURKA	1
+Vincristine	SKA1	1
+Vincristine	KIF20B	1
+Vincristine	HMMR	1
+Vincristine	PRICKLE3	1
+Vincristine	CCNB1	1
+Vincristine	CKAP2	1
+Vincristine	CDKN3	1
+Vincristine	ANLN	1
+Vincristine	KIFC1	1
+Vincristine	CCNA2	1
+Vincristine	DEPDC1	1
+Vincristine	PPP2R2B	1
+Vincristine	PTTG1 /// PTTG3P	1
+Vincristine	CCDC99	1
+Vincristine	APOBEC3B	1
+Vincristine	BUB1B	1
+Vincristine	BIRC5	1
+Vincristine	DLGAP5	1
+Vincristine	PLK1	1
+Vincristine	DCP2	1
+Vincristine	ARHGAP11A	1
+Vincristine	KIF2C	1
+Vincristine	C12orf48	1
+Vincristine	NCAPG	1
+Vincristine	CEP55	1
+Vincristine	ARHGAP20	1
+Vincristine	SKA3	1
+Vincristine	PRC1	1
+Vincristine	MTSS1	1
+Vincristine	FOXM1	1
+Vincristine	KIF14	1
+Vincristine	KIF23	1
+Vincristine	FAM72A /// FAM72B /// FAM72C /// FAM72D	1
+Vincristine	SPAG5	1
+Vincristine	METTL4	1
+Vincristine	OIP5	1
+Vincristine	SHCBP1	1
+Vincristine	MAD2L1	1
+Vincristine	AURKB	1
+Vincristine	GPSM2	1
+Vincristine	C1orf107	1
+Vincristine	CCDC117	1
+Vincristine	TACC3	1
+Vincristine	TRIP13	1
+Vincristine	CENPA	1
+Vincristine	C11orf82	1
+Vincristine	FBXO30	1
+Vincristine	MOV10L1	1
+Vincristine	RFC3	1
+Vincristine	PCMT1	1
+Vincristine	TMEM25	1
+Vincristine	CENPN	1
+Vincristine	CDC25B	1
+Vincristine	C13orf37	1
+Vincristine	RAD51	1
+Vincristine	MOBKL1A	1
+Vincristine	PCDHA7	1
+Vincristine	CKS1B	1
+Vincristine	THUMPD3	1
+Vincristine	KCNMB2	1
+Vincristine	PNRC2	1
+Vincristine	HCST	1
+Vincristine	ANKRD13C	1
+Vincristine	GABPB1	1
+Vincristine	CKAP2L	1
+Vincristine	SFPQ	1
+Vincristine	CKAP5	1
+Vincristine	ARHGAP17	1
+Vincristine	MPHOSPH9	1
+Vincristine	RBM15	1
+Vincristine	ATL2	1
+Vincristine	GTSE1	1
+Vincristine	GLIPR1L1	1
+Vincristine	VSTM1	1
+Vincristine	FBXW7	1
+Vincristine	C20orf72	1
+Vincristine	IPO11	1
+Vincristine	BIK	1
+Vincristine	SMC4	1
+Vincristine	PPP1R15B	1
+Vincristine	SLC38A9	1
+Vincristine	TCERG1L	1
+Vincristine	DBN1	1
+Vincristine	NIF3L1	1
+Vincristine	FANCD2	1
+Vincristine	RNF38	1
+Vincristine	CCDC150	1
+Vincristine	MTO1	1
+Vincristine	DIAPH3	1
+Vincristine	PKNOX1	1
+Vincristine	C10orf84	1
+Vincristine	KIF4A	1
+Vincristine	C20orf194	1
+Vincristine	NLN	1
+Vincristine	TTC9B	1
+Vincristine	C21orf45	1
+Vincristine	SAMD9L	1
+Vincristine	TWF1	1
+Vincristine	MASTL	1
+Vincristine	ZBTB41	1
+Vincristine	SULF2	1
+Vincristine	TUBB	1
+Vincristine	BRD8	1
+Vincristine	RACGAP1	1
+Vincristine	MKI67	1
+Vincristine	PKP2	1
+Vincristine	RAD50	1
+Vincristine	SF3B4	1
+Vincristine	PRNP	1
+Vincristine	PDCL	1
+Vincristine	ANXA9	1
+Vincristine	BMPR1A /// LOC283155	1
+Vincristine	MTMR10	1
+Vincristine	MLF1IP	1
+Vincristine	RAD54B	1
+Vincristine	MX2	1
+Vincristine	RTDR1	1
+Vincristine	ZNF828	1
+Vincristine	NUP133	1
+Vincristine	TRAF3IP2	1
+Vincristine	CADM3	1
+Vincristine	DTX3L	1
+Vincristine	ERCC6L	1
+Vincristine	SHOC2	1
+Vincristine	SPC25	1
+Vincristine	MGMT	1
+Vincristine	ASGR2	1
+Vincristine	NWD1	1
+Vincristine	NCS1	1
+Vincristine	HMGCR	1
+Vincristine	KIF22	1
+Vincristine	PSRC1	1
+Vincristine	ZNF860	1
+Vincristine	TWISTNB	1
+Vincristine	RRP1B	1
+Vincristine	MSN	1
+Vincristine	ADAMTSL2	1
+Vincristine	GP1BA	1
+Vincristine	TROAP	1
+Vincristine	ANKRD28	1
+Vincristine	SYS1	1
+Vincristine	CNOT3	1
+Vincristine	EFR3B	1
+Vincristine	INCENP	1
+Vincristine	NPTXR	1
+Vincristine	C11orf58	1
+Vincristine	PIK3CD	1
+Vincristine	MDFI	1
+Vincristine	USMG5	1
+Vincristine	CXCL5 /// GLYR1	1
+Vincristine	CHADL	1
+Vincristine	ZNF76	1
+Vincristine	TLN2	1
+Vincristine	KLF4	1
+Vincristine	ARHGAP19	1
+Vincristine	MEOX1	1
+Vincristine	HIRIP3	1
+Vincristine	PHF21A	1
+Vincristine	AP1M2	1
+Vincristine	STIL	1
+Vincristine	ABCB6 /// ATG9A	1
+Vincristine	CDCA3	1
+Vincristine	TMEM204	1
+Vincristine	ZNF653	1
+Vincristine	SMTN	1
+Vincristine	CDYL	1
+Vincristine	NUP98	1
+Vincristine	C1orf9	1
+Vincristine	MIS12	1
+Vincristine	NARG2	1
+Vincristine	ATP6V0D2	1
+Vincristine	H1FX	1
+Vincristine	TRUB1	1
+Vincristine	DDX39	1
+Vincristine	TMCO1	1
+Vincristine	BCL11B	1
+Vincristine	C1orf135	1
+Vincristine	ADD1	1
+Vincristine	MAGEB18	1
+Vincristine	GRK6	1
+Vincristine	PTPRK	1
+Vincristine	P2RY14	1
+Vincristine	TIMP1	1
+Vincristine	ZPLD1	1
+Vincristine	PLP1	1
+Vincristine	AHNAK	1
+Vincristine	CCR8	1
+Vincristine	FOXL1	1
+Vincristine	FUCA1	1
+Vincristine	SPRR2D	1
+Vincristine	TMEM133	1
+Vincristine	LDLR	1
+Vincristine	FHL5	1
+Vincristine	PDZRN3	1
+Vincristine	SOS1	1
+Vincristine	CNKSR3	1
+Vincristine	USP54	1
+Vincristine	CCNF	1
+Vincristine	ARHGAP15	1
+Vincristine	TNFSF12	1
+Vincristine	FLJ10213	1
+Vincristine	PTCD1	1
+Vincristine	CLK1	1
+Vincristine	CLEC1B	1
+Vincristine	SMYD5	1
+Vincristine	DFNA5	1
+Vincristine	ZCCHC14	1
+Vincristine	UNC13B	1
+Vincristine	C1orf186	1
+Vincristine	NXT1	1
+Vincristine	WDR41	1
+Vincristine	SPRED2	1
+Vincristine	STBD1	1
+Vincristine	NUDT12	1
+Vincristine	MAPK1IP1L	1
+Vincristine	PSMD9	1
+Vincristine	EXOC1	1
+Vincristine	AGPAT3	1
+Vincristine	MT1H	1
+Vincristine	PRG4	1
+Vincristine	FOS	1
+Vincristine	C6orf127	1
+Vincristine	SPRR2A	1
+Vincristine	WDR47	1
+Vincristine	PLXND1	1
+Vincristine	LRRC4B	1
+Vincristine	KIAA1244	1
+Vincristine	UNG	1
+Vincristine	RERE	1
+Vincristine	BCORL1	1
+Vincristine	CDCA5	1
+Vincristine	MARK1	1
+Vincristine	SLC25A44	1
+Vincristine	SYT1	1
+Vincristine	SEMA4B	1
+Vincristine	COL5A1	1
+Vincristine	HAGHL	1
+Vincristine	TMPRSS3	1
+Vincristine	FAM108C1	1
+Vincristine	PDK2	1
+Vincristine	DNAJB5	1
+Vincristine	OCM /// OCM2	1
+Vincristine	ZBTB45	1
+Vincristine	PRUNE	1
+Vincristine	USP14	1
+Vincristine	UBE2S	1
+Vincristine	FAM64A	1
+Vincristine	TDRKH	1
+Vincristine	KRAS	1
+Vincristine	PFKFB3	1
+Vincristine	ATG4B	1
+Vincristine	SCARB2	1
+Vincristine	C9orf144 /// C9orf144B	1
+Vincristine	IFT80	1
+Vincristine	FRZB	1
+Vincristine	SYTL3	1
+Vincristine	C20orf117	1
+Vincristine	WWC2	1
+Vincristine	C17orf71	1
+Vincristine	KIF1C	1
+Vincristine	NEDD4L	1
+Vincristine	ZC3H3	1
+Vincristine	KCND1	1
+Vincristine	RANGAP1	1
+Vincristine	FAM47B	1
+Vincristine	PNLIP	1
+Vincristine	CLK2	1
+Vincristine	RAB11FIP1	1
+Vincristine	C2orf73	1
+Vincristine	ZNF189	1
+Vincristine	STXBP6	1
+Vincristine	IFFO2	1
+Vincristine	BAI1	1
+Vincristine	ATP13A2	1
+Vincristine	RAB5A	1
+Vincristine	TRIOBP	1
+Vincristine	SERPINA10	1
+Vincristine	LRRTM2	1
+Vincristine	SCGB3A1	1
+Vincristine	EDARADD	1
+Vincristine	DOCK9	1
+Vincristine	ADAM33	1
+Camptothecin	EGR4	1
+Camptothecin	LCE1C	1
+Camptothecin	GADD45A	1
+Camptothecin	CDKN1A	1
+Camptothecin	PLAU	1
+Camptothecin	OTP	1
+Camptothecin	PHLDA3	1
+Camptothecin	SULF2	1
+Camptothecin	SESN2	1
+Camptothecin	DDB2	1
+Camptothecin	FDXR	1
+Camptothecin	FAM172A	1
+Camptothecin	RRM2B	1
+Camptothecin	FAS	1
+Camptothecin	IER3	1
+Camptothecin	LRDD	1
+Camptothecin	TRIM22	1
+Camptothecin	PVRL4	1
+Camptothecin	IKBIP	1
+Camptothecin	CYFIP2	1
+Camptothecin	EXO1	1
+Camptothecin	C12orf45	1
+Camptothecin	ATF3	1
+Camptothecin	TRIAP1	1
+Camptothecin	SAC3D1	1
+Camptothecin	CLDN1	1
+Camptothecin	C1orf183	1
+Camptothecin	SERTAD1	1
+Camptothecin	RAP2B	1
+Camptothecin	CDC20	1
+Camptothecin	CCNB1	1
+Camptothecin	SESN1	1
+Camptothecin	KIAA0247	1
+Camptothecin	PLK1	1
+Camptothecin	ESCO2	1
+Camptothecin	EPHA2	1
+Camptothecin	LSS	1
+Camptothecin	DACH2	1
+Camptothecin	DSCAML1	1
+Camptothecin	ID3	1
+Camptothecin	TRIM26	1
+Camptothecin	LIG1	1
+Camptothecin	TRAF4	1
+Camptothecin	C6orf48	1
+Camptothecin	SLC3A2	1
+Camptothecin	GNA15	1
+Camptothecin	RABGAP1L	1
+Camptothecin	ZNF28 /// ZNF468	1
+Camptothecin	SDF2L1	1
+Camptothecin	NKX2-5	1
+Camptothecin	NEURL1B	1
+Camptothecin	TYMS	1
+Camptothecin	ITPKC	1
+Camptothecin	RGS19	1
+Camptothecin	EGR1	1
+Camptothecin	SAT2	1
+Camptothecin	RFC3	1
+Camptothecin	ISG15	1
+Camptothecin	MFAP3	1
+Camptothecin	ZNF600	1
+Camptothecin	INPP1	1
+Camptothecin	CDCA5	1
+Camptothecin	ABHD4	1
+Camptothecin	NLRP1	1
+Camptothecin	CCNB1IP1	1
+Camptothecin	FBXO22	1
+Camptothecin	PTTG1 /// PTTG3P	1
+Camptothecin	DCTN4	1
+Camptothecin	PMAIP1	1
+Camptothecin	PTP4A1	1
+Camptothecin	ZNF302	1
+Camptothecin	SKA1	1
+Camptothecin	IL1A	1
+Camptothecin	E2F8	1
+Camptothecin	FOS	1
+Camptothecin	AMOTL1	1
+Camptothecin	C21orf56	1
+Camptothecin	C9orf3	1
+Camptothecin	NCAPG2	1
+Camptothecin	ALAS1	1
+Camptothecin	PHPT1	1
+Camptothecin	CITED2	1
+Camptothecin	ATP2B1	1
+Camptothecin	ZNF136	1
+Camptothecin	FOSB	1
+Camptothecin	GAS2L3	1
+Camptothecin	SOCS2	1
+Camptothecin	PRKAB1	1
+Camptothecin	ANXA4	1
+Camptothecin	ANKRA2	1
+Camptothecin	KRT17	1
+Camptothecin	FANCI	1
+Camptothecin	SLC30A1	1
+Camptothecin	PCNA	1
+Camptothecin	TRIB2	1
+Camptothecin	KIAA0513	1
+Camptothecin	ZNF181 /// ZNF302	1
+Camptothecin	C19orf48	1
+Camptothecin	C14orf4	1
+Camptothecin	DUSP5	1
+Camptothecin	XPC	1
+Camptothecin	PPIL2	1
+Camptothecin	JUN	1
+Camptothecin	E2F7	1
+Camptothecin	MDM2	1
+Camptothecin	BBC3	1
+Camptothecin	IER5	1
+Camptothecin	GPSM2	1
+Camptothecin	C12orf5	1
+Camptothecin	KCTD11	1
+Camptothecin	YPEL3	1
+Camptothecin	C3orf21	1
+Camptothecin	POLH	1
+Camptothecin	ARHGAP15	1
+Camptothecin	FBLN2	1
+Camptothecin	C17orf103	1
+Camptothecin	RTN4IP1	1
+Camptothecin	LRRC40	1
+Camptothecin	SLC39A11	1
+Camptothecin	PERP	1
+Camptothecin	C3orf19	1
+Camptothecin	KLF4	1
+Camptothecin	FOSL1	1
+Camptothecin	C20orf72	1
+Camptothecin	EIF4G3	1
+Camptothecin	TNFRSF10B	1
+Camptothecin	CHRNA5	1
+Camptothecin	PRIC285	1
+Camptothecin	ACADM	1
+Camptothecin	DNAJB11	1
+Camptothecin	NINJ1	1
+Camptothecin	CEP70	1
+Camptothecin	GRIN2A	1
+Camptothecin	D4S234E /// FOXP1	1
+Camptothecin	ABHD2	1
+Camptothecin	PSMC3IP	1
+Camptothecin	CEL	1
+Camptothecin	C10orf10	1
+Camptothecin	CCNG1	1
+Camptothecin	SGPP1	1
+Camptothecin	PPP2R3B	1
+Camptothecin	BTN3A2	1
+Camptothecin	PPP1R15B	1
+Camptothecin	DDX10	1
+Camptothecin	POM121 /// POM121C	1
+Camptothecin	RAD51C	1
+Camptothecin	GXYLT2	1
+Camptothecin	LRFN4	1
+Camptothecin	COMTD1	1
+Camptothecin	SYNE2	1
+Camptothecin	LARGE	1
+Camptothecin	CD40	1
+Camptothecin	CDC45	1
+Camptothecin	SAMSN1	1
+Camptothecin	ZNF16	1
+Camptothecin	SPRR2D	1
+Camptothecin	FGGY	1
+Camptothecin	IL8	1
+Camptothecin	KLF10	1
+Camptothecin	ZNF654	1
+Camptothecin	TES	1
+Camptothecin	BCL10	1
+Camptothecin	IER5L	1
+Camptothecin	B4GALT4	1
+Camptothecin	ZNF296	1
+Camptothecin	KNTC1	1
+Camptothecin	ZFP90	1
+Camptothecin	SMAD5	1
+Camptothecin	ZNF564	1
+Camptothecin	OR51E2	1
+Camptothecin	TAX1BP3	1
+Camptothecin	ABCG2	1
+Camptothecin	MDM1	1
+Camptothecin	SDC1	1
+Camptothecin	PTK2	1
+Camptothecin	RNF19B	1
+Camptothecin	CASP4	1
+Camptothecin	ZNF441	1
+Camptothecin	OBFC2A	1
+Camptothecin	BAI3	1
+Camptothecin	CDK5RAP1	1
+Camptothecin	ZCCHC8	1
+Camptothecin	PLD6	1
+Camptothecin	FAM110A	1
+Camptothecin	HNMT	1
+Camptothecin	PRMT3	1
+Camptothecin	CXCL10	1
+Camptothecin	FHL3	1
+Camptothecin	PODXL	1
+Camptothecin	DDX11 /// DDX12 /// LOC642846	1
+Camptothecin	GIGYF2	1
+Camptothecin	ZNF282	1
+Camptothecin	SURF2	1
+Camptothecin	APOBEC3G	1
+Camptothecin	SDCBP2	1
+Camptothecin	APOBEC3C	1
+Camptothecin	ABHD3	1
+Camptothecin	BHLHE40	1
+Camptothecin	LCE1F	1
+Camptothecin	ARL5B	1
+Camptothecin	KCTD13	1
+Camptothecin	RELA	1
+Camptothecin	C17orf71	1
+Camptothecin	UVRAG	1
+Camptothecin	UST	1
+Camptothecin	CAPN2	1
+Camptothecin	HRAS	1
+Camptothecin	CD97	1
+Camptothecin	CHRAC1	1
+Camptothecin	CKAP2	1
+Camptothecin	SMPD3	1
+Camptothecin	C20orf106 /// C20orf107	1
+Camptothecin	MTO1	1
+Camptothecin	EI24	1
+Camptothecin	GAK	1
+Camptothecin	SYS1	1
+Camptothecin	TOR1A	1
+Camptothecin	NR4A1	1
+Camptothecin	OCIAD2	1
+Camptothecin	BARX2	1
+Camptothecin	TRIB1	1
+Camptothecin	RHBDD2	1
+Camptothecin	COL4A2	1
+Camptothecin	ZMAT3	1
+Camptothecin	PVRL1	1
+Camptothecin	KIF14	1
+Camptothecin	GLIS2	1
+Camptothecin	ATAD2	1
+Camptothecin	TBC1D5	1
+Camptothecin	GEM	1
+Camptothecin	C1orf135	1
+Camptothecin	SLC28A1	1
+Camptothecin	ZNF30	1
+Camptothecin	UBE2C	1
+Camptothecin	PITPNM1	1
+Camptothecin	PRIM1	1
+Camptothecin	TNFSF9	1
+Camptothecin	C9orf156	1
+Camptothecin	DDX20	1
+Camptothecin	BACH1	1
+Camptothecin	MANF	1
+Camptothecin	ODZ3	1
+Camptothecin	HSPE1	1
+Camptothecin	CCDC91	1
+Camptothecin	PAGE5	1
+Camptothecin	CDC42EP3	1
+Camptothecin	TRAPPC6B	1
+Camptothecin	C16orf5	1
+Camptothecin	ZNF79	1
+Camptothecin	CD70	1
+Camptothecin	SH3BP5	1
+Camptothecin	HINT3	1
+Camptothecin	FAM155A	1
+Camptothecin	CP110	1
+Camptothecin	PHKB	1
+Camptothecin	PIPOX	1
+Camptothecin	ZNF777	1
+Camptothecin	TMEM187	1
+Camptothecin	DEPDC1	1
+Camptothecin	SNRK	1
+Camptothecin	ZNF134	1
+Camptothecin	SLC38A9	1
+Camptothecin	REEP2	1
+Camptothecin	ZNF561	1
+Camptothecin	ZFP36L2	1
+Camptothecin	C16orf48	1
+Camptothecin	ACD	1
+Camptothecin	TMEM25	1
+Camptothecin	ZNF689	1
+Camptothecin	RMI1	1
+Camptothecin	EIF2AK2	1
+Camptothecin	BTG1	1
+Camptothecin	TCTEX1D2	1
+Camptothecin	CCNB2	1
+Camptothecin	ZFYVE1	1
+Camptothecin	FEM1A	1
+Camptothecin	SDHAF1	1
+Camptothecin	UBE2S	1
+Camptothecin	OSTF1	1
+Camptothecin	TESC	1
+Camptothecin	RRN3	1
+Camptothecin	MFGE8	1
+Camptothecin	DEF6	1
+Camptothecin	PAFAH1B3	1
+Camptothecin	SH3RF2	1
+Camptothecin	C2orf82	1
+Camptothecin	STX6	1
+Camptothecin	STK19	1
+Camptothecin	MEX3B	1
+Camptothecin	TBL1XR1	1
+Camptothecin	SLC26A11	1
+Camptothecin	ALAD	1
+Camptothecin	HCCS	1
+Camptothecin	TRUB1	1
+Camptothecin	OGFOD1	1
+Camptothecin	LONRF1	1
+Camptothecin	ZP3	1
+Camptothecin	SLC9A1	1
+Camptothecin	IMPA1	1
+Camptothecin	BAK1	1
+Camptothecin	EMB /// LOC647121	1
+Camptothecin	WDR19	1
+Camptothecin	ZBTB11	1
+Camptothecin	LBH	1
+Camptothecin	GPC1	1
+Camptothecin	ZFP82	1
+Camptothecin	MFSD4	1
+Camptothecin	PTGER4	1
+Camptothecin	SELM	1
+Camptothecin	KIAA0913	1
+Camptothecin	FN3KRP	1
+Camptothecin	PTPRG	1
+Camptothecin	CCDC101	1
+Camptothecin	C16orf79	1
+Camptothecin	MLF1IP	1
+Camptothecin	C16orf45	1
+Camptothecin	FAM13C	1
+Camptothecin	POLR3C	1
+Camptothecin	CXCL13	1
+Camptothecin	TRIM68	1
+Camptothecin	TMEM68	1
+Camptothecin	DPYD	1
+Camptothecin	XRCC3	1
+Camptothecin	MPP6	1
+Camptothecin	RNF25	1
+Camptothecin	DVL3	1
+Camptothecin	ZNF706	1
+Camptothecin	BCAS3	1
+Camptothecin	VPS37B	1
+Camptothecin	SERPINE1	1
+Camptothecin	CADM1	1
+Camptothecin	C15orf33	1
+Camptothecin	RNF11	1
+Camptothecin	C4orf41	1
+Camptothecin	C17orf95	1
+Camptothecin	SMAD7	1
+Camptothecin	SGK1	1
+Doxorubicin	FDXR	1
+Doxorubicin	DDB2	1
+Doxorubicin	OTP	1
+Doxorubicin	CDKN1A	1
+Doxorubicin	PHLDA3	1
+Doxorubicin	SULF2	1
+Doxorubicin	RRM2B	1
+Doxorubicin	TRIM22	1
+Doxorubicin	IKBIP	1
+Doxorubicin	LCE1C	1
+Doxorubicin	CYFIP2	1
+Doxorubicin	JUN	1
+Doxorubicin	SESN2	1
+Doxorubicin	PPP2R2B	1
+Doxorubicin	GADD45A	1
+Doxorubicin	KLF4	1
+Doxorubicin	NEURL1B	1
+Doxorubicin	FAS	1
+Doxorubicin	ANKRA2	1
+Doxorubicin	LRDD	1
+Doxorubicin	TRIAP1	1
+Doxorubicin	HMX1	1
+Doxorubicin	UNG	1
+Doxorubicin	ZMAT3	1
+Doxorubicin	PTP4A1	1
+Doxorubicin	C12orf5	1
+Doxorubicin	PRKX	1
+Doxorubicin	DRAM1	1
+Doxorubicin	XPC	1
+Doxorubicin	ANXA4	1
+Doxorubicin	KCTD11	1
+Doxorubicin	CLDN1	1
+Doxorubicin	C1orf183	1
+Doxorubicin	FBXO22	1
+Doxorubicin	STARD8	1
+Doxorubicin	EGR2	1
+Doxorubicin	KIAA0247	1
+Doxorubicin	SESN1	1
+Doxorubicin	TNFRSF10B	1
+Doxorubicin	PLCL2	1
+Doxorubicin	VLDLR	1
+Doxorubicin	DYNC1I1	1
+Doxorubicin	EGR4	1
+Doxorubicin	IMPA2	1
+Doxorubicin	INPP1	1
+Doxorubicin	POLH	1
+Doxorubicin	CDC20	1
+Doxorubicin	CCNE2	1
+Doxorubicin	KIF20A	1
+Doxorubicin	SDF2L1	1
+Doxorubicin	PHGDH	1
+Doxorubicin	YPEL3	1
+Doxorubicin	DUSP5	1
+Doxorubicin	ACTA2	1
+Doxorubicin	GAS2L3	1
+Doxorubicin	LSS	1
+Doxorubicin	OBFC2A	1
+Doxorubicin	NINJ1	1
+Doxorubicin	CISD2	1
+Doxorubicin	NCOA4	1
+Doxorubicin	TUBB2A	1
+Doxorubicin	TRAF4	1
+Doxorubicin	UBE2S	1
+Doxorubicin	PHPT1	1
+Doxorubicin	SIK1	1
+Doxorubicin	IL1A	1
+Doxorubicin	SAC3D1	1
+Doxorubicin	C14orf4	1
+Doxorubicin	EI24	1
+Doxorubicin	FAM47B	1
+Doxorubicin	SLC7A11	1
+Doxorubicin	HSPA5	1
+Doxorubicin	CD97	1
+Doxorubicin	APOBEC3G	1
+Doxorubicin	EFNA4	1
+Doxorubicin	NR4A1	1
+Doxorubicin	CD3D	1
+Doxorubicin	APOBEC3C	1
+Doxorubicin	MCM7	1
+Doxorubicin	TFDP1	1
+Doxorubicin	UBE2T	1
+Doxorubicin	BCL9L	1
+Doxorubicin	NTN1	1
+Doxorubicin	MAGEB18	1
+Doxorubicin	DUSP21	1
+Doxorubicin	TNFRSF1B	1
+Doxorubicin	MARK1	1
+Doxorubicin	MDM2	1
+Doxorubicin	IER5	1
+Doxorubicin	AIFM3	1
+Doxorubicin	SRC	1
+Doxorubicin	MORC3	1
+Doxorubicin	DKKL1	1
+Doxorubicin	WBP2	1
+Doxorubicin	P2RY14	1
+Doxorubicin	FOSB	1
+Doxorubicin	TCF19	1
+Doxorubicin	D4S234E /// FOXP1	1
+Doxorubicin	TAX1BP3	1
+Doxorubicin	RAD21	1
+Doxorubicin	SERTAD1	1
+Doxorubicin	DUT	1
+Doxorubicin	ITPKC	1
+Doxorubicin	DEFB106A /// DEFB106B	1
+Doxorubicin	BBC3	1
+Doxorubicin	MYOG	1
+Doxorubicin	HLA-DOA	1
+Doxorubicin	REEP2	1
+Doxorubicin	PTGER4	1
+Doxorubicin	ZBTB7A	1
+Doxorubicin	PRNP	1
+Doxorubicin	PRKY	1
+Doxorubicin	ZBED2	1
+Doxorubicin	PTTG1 /// PTTG3P	1
+Doxorubicin	PDIA6	1
+Doxorubicin	TYMS	1
+Doxorubicin	NINJ2	1
+Doxorubicin	APOBEC3B	1
+Doxorubicin	CITED2	1
+Doxorubicin	PLXNB2	1
+Doxorubicin	ZNF30	1
+Doxorubicin	ICAM1	1
+Doxorubicin	POLR1C	1
+Doxorubicin	IER3	1
+Doxorubicin	HSPA1B	1
+Doxorubicin	NPAS2	1
+Doxorubicin	PRR14	1
+Doxorubicin	KDM4C	1
+Doxorubicin	FAM113B	1
+Doxorubicin	GTF2E1	1
+Doxorubicin	PRSS54	1
+Doxorubicin	PVRIG /// STAG3	1
+Doxorubicin	CKLF	1
+Doxorubicin	GPX1	1
+Doxorubicin	CSRP1	1
+Doxorubicin	ZNF564	1
+Doxorubicin	ATXN7L3	1
+Doxorubicin	CLP1	1
+Doxorubicin	FSCN1	1
+Doxorubicin	MCM6	1
+Doxorubicin	CDH5	1
+Doxorubicin	C16orf42	1
+Doxorubicin	March 10	1
+Doxorubicin	PIGO	1
+Doxorubicin	TGS1	1
+Doxorubicin	SOCS2	1
+Doxorubicin	C2orf71	1
+Doxorubicin	CAV1	1
+Doxorubicin	PDAP1	1
+Doxorubicin	KLF1	1
+Doxorubicin	SLC37A1	1
+Doxorubicin	NEUROD6	1
+Doxorubicin	PCF11	1
+Doxorubicin	MAN1B1	1
+Doxorubicin	TP53INP1	1
+Doxorubicin	PAGE5	1
+Doxorubicin	IGSF1	1
+Doxorubicin	SH3PXD2A	1
+Doxorubicin	PTCD1	1
+Doxorubicin	ARID3A	1
+Doxorubicin	RNF185	1
+Doxorubicin	KIAA1609	1
+Doxorubicin	CLCN5	1
+Doxorubicin	CUZD1	1
+Doxorubicin	ZFP36L1	1
+Doxorubicin	C17orf107	1
+Doxorubicin	PREX1	1
+Doxorubicin	FBLN2	1
+Doxorubicin	ILF3	1
+Doxorubicin	RFC4	1
+Doxorubicin	SCRG1	1
+Doxorubicin	CEACAM1	1
+Doxorubicin	PHF21A	1
+Doxorubicin	PLK1	1
+Doxorubicin	MICALL1	1
+Doxorubicin	DDX10	1
+Doxorubicin	SIGLEC7	1
+Doxorubicin	AMPH	1
+Doxorubicin	NT5E	1
+Doxorubicin	KRTAP9-9	1
+Doxorubicin	NT5DC1	1
+Doxorubicin	EXOC1	1
+Doxorubicin	STK38L	1
+Doxorubicin	IFLTD1	1
+Doxorubicin	PTCRA	1
+Doxorubicin	RAI1	1
+Doxorubicin	NBAS	1
+Doxorubicin	PABPC3	1
+Doxorubicin	AMD1	1
+Doxorubicin	SPATA2L	1
+Doxorubicin	HAND1	1
+Aclacinomycin A	DOCK8	1
+Aclacinomycin A	BAI3	1
+Aclacinomycin A	CCNJ	1
+Aclacinomycin A	WFDC2	1
+Aclacinomycin A	THUMPD3	1
+Aclacinomycin A	NWD1	1
+Aclacinomycin A	SPRED2	1
+Aclacinomycin A	P2RY14	1
+Aclacinomycin A	FERD3L	1
+Aclacinomycin A	DNAJC12	1
+Aclacinomycin A	ISLR2	1
+Aclacinomycin A	SLC24A3	1
+Aclacinomycin A	ZFP36L1	1
+Aclacinomycin A	PSEN2	1
+Aclacinomycin A	METTL4	1
+Aclacinomycin A	GRIK1	1
+Aclacinomycin A	C22orf30	1
+Aclacinomycin A	CHAD	1
+Aclacinomycin A	PPIP5K1	1
+Aclacinomycin A	C1orf111	1
+Aclacinomycin A	TSPYL6	1
+Aclacinomycin A	CAMSAP1	1
+Aclacinomycin A	SMAD2	1
+Aclacinomycin A	RCHY1	1
+Aclacinomycin A	JAKMIP1	1
+Aclacinomycin A	ZFPM2	1
+Aclacinomycin A	TPRA1	1
+Aclacinomycin A	BRWD1	1
+Aclacinomycin A	KLF4	1
+Aclacinomycin A	C21orf56	1
+Aclacinomycin A	CADM2	1
+Aclacinomycin A	CCDC37	1
+Aclacinomycin A	RG9MTD3	1
+Aclacinomycin A	TNXA /// TNXB	1
+Aclacinomycin A	PLS1	1
+Aclacinomycin A	MORC3	1
+Aclacinomycin A	PYY	1
+Aclacinomycin A	KDM4D	1
+Aclacinomycin A	TNNI3K	1
+Aclacinomycin A	NUS1	1
+Aclacinomycin A	CDH5	1
+Trichostatin A	ENPP2	1
+Trichostatin A	MPDU1	1
+Trichostatin A	EGR4	1
+Trichostatin A	C11orf67	1
+Trichostatin A	EXOSC10	1
+Trichostatin A	TMEM155	1
+Trichostatin A	TYMS	1
+Trichostatin A	C6orf108	1
+Trichostatin A	CDK2AP1	1
+Trichostatin A	ASMTL	1
+Trichostatin A	RGS2	1
+Trichostatin A	HNRNPL	1
+Trichostatin A	PIGB	1
+Trichostatin A	MYOF	1
+Trichostatin A	CD5	1
+Trichostatin A	FAS	1
+Trichostatin A	PRDM10	1
+Trichostatin A	CCDC102A	1
+Trichostatin A	NR4A2	1
+Trichostatin A	RAI1	1
+Trichostatin A	ITIH4	1
+Trichostatin A	CHRAC1	1
+Trichostatin A	MRPL54	1
+Trichostatin A	CTRL /// PSMB10	1
+Trichostatin A	PHF19	1
+Trichostatin A	HLA-F	1
+Trichostatin A	ARG2	1
+Trichostatin A	YARS2	1
+Trichostatin A	RFTN1	1
+Trichostatin A	PRKCDBP	1
+Trichostatin A	IL4R	1
+Trichostatin A	SERPINI1	1
+Trichostatin A	NDUFS2	1
+Trichostatin A	THOC4	1
+Trichostatin A	STAT5A	1
+Trichostatin A	PMF1	1
+Trichostatin A	TUBB	1
+Trichostatin A	HPCAL1	1
+Trichostatin A	ZBED5	1
+Trichostatin A	FAIM	1
+Trichostatin A	CCL20	1
+Trichostatin A	CXorf26	1
+Trichostatin A	ISG15	1
+Trichostatin A	AKR1C3	1
+Trichostatin A	KDSR	1
+Trichostatin A	IL8	1
+Trichostatin A	IRF5	1
+Trichostatin A	RBM5	1
+Trichostatin A	MAN2A2	1
+Trichostatin A	FMNL1	1
+Trichostatin A	GAL3ST4	1
+Trichostatin A	NQO1	1
+Trichostatin A	SOCS2	1
+Trichostatin A	TIMP1	1
+Trichostatin A	PIGO	1
+Trichostatin A	ASAP3	1
+Trichostatin A	CCL3	1
+Trichostatin A	LSP1	1
+Trichostatin A	TPMT	1
+Trichostatin A	C10orf32	1
+Trichostatin A	BAIAP2	1
+Trichostatin A	DOCK10	1
+Trichostatin A	WASF1	1
+Trichostatin A	KIAA0513	1
+Trichostatin A	PCBD1	1
+Trichostatin A	ADCY1	1
+Trichostatin A	PRCP	1
+Trichostatin A	UHRF1	1
+Trichostatin A	ECHDC2	1
+Trichostatin A	LGMN	1
+Trichostatin A	DSG2	1
+Trichostatin A	NUCKS1	1
+Trichostatin A	CMTM3	1
+Trichostatin A	CD52	1
+Trichostatin A	CREBBP	1
+Trichostatin A	IL15	1
+Trichostatin A	NDUFC1	1
+Trichostatin A	ALCAM	1
+Trichostatin A	NQO2	1
+Trichostatin A	USE1	1
+Trichostatin A	GLRX	1
+Trichostatin A	FSCN1	1
+Trichostatin A	SH3PXD2B	1
+Trichostatin A	ARL6IP5	1
+Trichostatin A	DNAJC7	1
+Trichostatin A	DCPS	1
+Trichostatin A	RAET1L /// ULBP2	1
+Trichostatin A	AVPI1	1
+Trichostatin A	ULBP2	1
+Trichostatin A	BTBD6	1
+Trichostatin A	CLEC2D	1
+Trichostatin A	HEATR2	1
+Trichostatin A	TSPAN8	1
+Trichostatin A	CCNB1IP1	1
+Trichostatin A	PTTG1 /// PTTG3P	1
+Trichostatin A	ODZ3	1
+Trichostatin A	ANP32B	1
+Trichostatin A	FAM83H	1
+Trichostatin A	CD58	1
+Trichostatin A	EIF4G2	1
+Trichostatin A	NPC2	1
+Trichostatin A	TIGIT	1
+Trichostatin A	MGLL	1
+Trichostatin A	CYP1B1	1
+Trichostatin A	HSPA1A /// HSPA1B	1
+Trichostatin A	STK39	1
+Trichostatin A	IDH1	1
+Trichostatin A	MCCC2	1
+Trichostatin A	FAM117A	1
+Trichostatin A	GSS	1
+Trichostatin A	C1orf31	1
+Trichostatin A	HSPA1B	1
+Trichostatin A	WIPI1	1
+Trichostatin A	CCDC28A	1
+Trichostatin A	GPATCH4	1
+Trichostatin A	IFI6	1
+Trichostatin A	AGPHD1	1
+Trichostatin A	STAT4	1
+Trichostatin A	ANAPC13	1
+Trichostatin A	COMMD7	1
+Trichostatin A	SLC31A1	1
+Trichostatin A	MGST1	1
+Trichostatin A	VWA5A	1
+Trichostatin A	DNLZ	1
+Trichostatin A	PNMA1	1
+Trichostatin A	PUF60	1
+Trichostatin A	PFKM	1
+Trichostatin A	GNB1	1
+Trichostatin A	KIAA1797	1
+Trichostatin A	TXNDC15	1
+Trichostatin A	PHPT1	1
+Trichostatin A	CSRP1	1
+Trichostatin A	UBE2C	1
+Trichostatin A	EMG1	1
+Trichostatin A	CXCL13	1
+Trichostatin A	HIGD2A	1
+Trichostatin A	RCN1	1
+Trichostatin A	PLEKHB2	1
+Trichostatin A	NRAS	1
+Trichostatin A	PLXNB2	1
+Trichostatin A	ZMIZ1	1
+Trichostatin A	CD55	1
+Trichostatin A	NRARP	1
+Trichostatin A	PRUNE2	1
+Trichostatin A	ABCB1	1
+Trichostatin A	NAE1	1
+Trichostatin A	HMGN2	1
+Trichostatin A	DNER	1
+Trichostatin A	SGK1	1
+Trichostatin A	SFRS18	1
+Trichostatin A	FAM171A1	1
+Trichostatin A	GPC2	1
+Trichostatin A	PTPN7	1
+Trichostatin A	ID1	1
+Trichostatin A	BCL6	1
+Trichostatin A	TBL1XR1	1
+Trichostatin A	U2AF2	1
+Trichostatin A	GALM	1
+Trichostatin A	JARID2	1
+Trichostatin A	SRRM2	1
+Trichostatin A	MDFIC	1
+Trichostatin A	SFRS2	1
+Trichostatin A	EXTL2	1
+Trichostatin A	KIAA0368	1
+Trichostatin A	FLVCR2	1
+Trichostatin A	KIF21B	1
+Trichostatin A	ANKRD35	1
+Trichostatin A	TTC27	1
+Trichostatin A	C1orf53	1
+Trichostatin A	CDK6	1
+Trichostatin A	BARX2	1
+Trichostatin A	GRIN2A	1
+Trichostatin A	ASAH1	1
+Trichostatin A	ZBED2	1
+Trichostatin A	G6PD	1
+Trichostatin A	ALDOC	1
+Trichostatin A	JAK3	1
+Trichostatin A	SDC4	1
+Trichostatin A	C4orf33	1
+Trichostatin A	SSSCA1	1
+Trichostatin A	UBE2D4	1
+Trichostatin A	C17orf58	1
+Trichostatin A	GM2A	1
+Trichostatin A	WDYHV1	1
+Trichostatin A	VGLL2	1
+Trichostatin A	ALAS1	1
+Trichostatin A	AGPAT4	1
+Trichostatin A	NDUFS4	1
+Trichostatin A	MSC	1
+Trichostatin A	WIBG	1
+Trichostatin A	SYN1	1
+Trichostatin A	ASPSCR1	1
+Trichostatin A	KDM5D	1
+Trichostatin A	ERRFI1	1
+Trichostatin A	CYFIP2	1
+Trichostatin A	C9orf85	1
+Trichostatin A	MAP2	1
+Trichostatin A	ZBED1	1
+Trichostatin A	FAM136A	1
+Trichostatin A	RUNDC3B	1
+Trichostatin A	FGD6	1
+Trichostatin A	WDR6	1
+Trichostatin A	TAP1	1
+Trichostatin A	RHOC	1
+Trichostatin A	MRPL23	1
+Trichostatin A	SLC27A1	1
+Trichostatin A	C17orf61	1
+Trichostatin A	CSDE1	1
+Trichostatin A	MON1A	1
+Trichostatin A	SLC43A2	1
+Trichostatin A	ETV5	1
+Trichostatin A	RELB	1
+Trichostatin A	RBM22	1
+Trichostatin A	SUMO3	1
+Trichostatin A	EMP3	1
+Trichostatin A	CR2	1
+Trichostatin A	MYO3B	1
+Trichostatin A	EMP2	1
+Trichostatin A	UBE2Z	1
+Trichostatin A	PPP2R4	1
+Trichostatin A	RCC2	1
+Trichostatin A	BEX4	1
+Trichostatin A	PDCD2L	1
+Trichostatin A	CAPN2	1
+Trichostatin A	TLR7	1
+Trichostatin A	GDF11	1
+Trichostatin A	IMPA2	1
+Trichostatin A	TST	1
+Trichostatin A	GYPC	1
+Trichostatin A	SPATS2L	1
+Trichostatin A	NUP205	1
+Trichostatin A	MCM7	1
+Trichostatin A	MAPRE2	1
+Trichostatin A	MYO19	1
+Trichostatin A	L3MBTL2	1
+Trichostatin A	DNAJC12	1
+Trichostatin A	C19orf61	1
+Trichostatin A	PGM2L1	1
+Trichostatin A	LAT /// SPNS1	1
+Trichostatin A	HNRNPAB	1
+Trichostatin A	USF2	1
+Trichostatin A	UFC1	1
+Trichostatin A	ZFP91	1
+Trichostatin A	STAG2	1
+Trichostatin A	TMEM126A	1
+Trichostatin A	B3GALT6	1
+Trichostatin A	COMT	1
+Trichostatin A	IFNGR2	1
+Trichostatin A	ALDH16A1	1
+Trichostatin A	SCCPDH	1
+Trichostatin A	APLP1	1
+Trichostatin A	STX7	1
+Trichostatin A	CTSZ	1
+Trichostatin A	PLCXD1	1
+Trichostatin A	FANCI	1
+Trichostatin A	PRRX1	1
+Trichostatin A	MAP2K7	1
+Trichostatin A	CD69	1
+Trichostatin A	ACADSB	1
+Trichostatin A	RNF213	1
+Trichostatin A	FAH	1
+Trichostatin A	HOOK2	1
+Trichostatin A	TOE1	1
+Trichostatin A	PAIP2B	1
+Trichostatin A	XIAP	1
+Trichostatin A	HNRNPR	1
+Trichostatin A	RAPGEF1	1
+Trichostatin A	HNRNPA3 /// HNRNPA3P1	1
+Trichostatin A	MGST3	1
+Trichostatin A	THUMPD1	1
+Trichostatin A	CFH	1
+Trichostatin A	MSL1	1
+Trichostatin A	RNASET2	1
+Trichostatin A	FDX1L	1
+Trichostatin A	NUDT19	1
+Trichostatin A	CDK17	1
+Trichostatin A	CREG1	1
+Trichostatin A	TIA1	1
+Trichostatin A	SFRS5	1
+Trichostatin A	BRD2	1
+Trichostatin A	USP5	1
+Trichostatin A	CAMK2G	1
+Trichostatin A	YDJC	1
+Trichostatin A	C5orf32	1
+Trichostatin A	NOSIP	1
+Trichostatin A	C12orf45	1
+Trichostatin A	ZNF764	1
+Trichostatin A	PDLIM2	1
+Trichostatin A	GBP2	1
+Trichostatin A	TOMM40L	1
+Trichostatin A	STX11	1
+Trichostatin A	NHEDC2	1
+Trichostatin A	ZFAND6	1
+Trichostatin A	CUL1	1
+Trichostatin A	SSR3	1
+Trichostatin A	MBNL2	1
+Trichostatin A	PCBP3	1
+Trichostatin A	TMED1	1
+Trichostatin A	EPC2	1
+Trichostatin A	DHRSX	1
+Trichostatin A	CDK3	1
+Trichostatin A	VPS52	1
+Trichostatin A	NOL4	1
+Trichostatin A	HOMER1	1
+Trichostatin A	C9orf116	1
+Trichostatin A	TMEM41B	1
+Trichostatin A	SMS	1
+Trichostatin A	DCI	1
+Trichostatin A	NXN	1
+Trichostatin A	ETHE1	1
+Trichostatin A	FAM162A	1
+Trichostatin A	LRMP	1
+Trichostatin A	RANBP1	1
+Trichostatin A	P4HA2	1
+Trichostatin A	CD24	1
+Trichostatin A	PRDM15	1
+Trichostatin A	TESK2	1
+Trichostatin A	CD200R1	1
+Trichostatin A	PDE6D	1
+Trichostatin A	IRAK1	1
+Trichostatin A	ZCCHC24	1
+Trichostatin A	PDS5A	1
+Trichostatin A	ARSB	1
+Trichostatin A	MTMR2	1
+Trichostatin A	USP16	1
+Trichostatin A	RBM16	1
+Trichostatin A	FAM101B	1
+Trichostatin A	MORN4	1
+Trichostatin A	DUSP1	1
+Trichostatin A	SAMD9	1
+Trichostatin A	GPR65	1
+Trichostatin A	CD59	1
+Trichostatin A	ARL4A	1
+Trichostatin A	CETN2	1
+Trichostatin A	DAZAP2	1
+Trichostatin A	COMMD4 /// LOC440292 /// LOC646670	1
+Trichostatin A	GABARAPL2	1
+Trichostatin A	HLA-DMA	1
+Trichostatin A	PSMA4	1
+Trichostatin A	LNP1	1
+Trichostatin A	MYO7A	1
+Trichostatin A	LOC642869 /// LOC646817 /// SET	1
+Trichostatin A	SURF2	1
+Trichostatin A	C19orf36	1
+Trichostatin A	DNASE2	1
+Trichostatin A	RCCD1	1
+Trichostatin A	ATF5	1
+Trichostatin A	PTPMT1	1
+Trichostatin A	MTHFS	1
+Trichostatin A	WSB2	1
+Trichostatin A	KCNH2	1
+Trichostatin A	PTPN9	1
+Trichostatin A	RAN	1
+Trichostatin A	UNC119	1
+Trichostatin A	TSPAN18	1
+Trichostatin A	RBX1	1
+Trichostatin A	BANF1	1
+Trichostatin A	ORC4L	1
+Trichostatin A	BCL2	1
+Trichostatin A	CHRNA5	1
+Trichostatin A	PABPN1	1
+Trichostatin A	SENP6	1
+Trichostatin A	BATF	1
+Trichostatin A	PNN	1
+Trichostatin A	BCAT2	1
+Trichostatin A	SMARCAD1	1
+Trichostatin A	SET	1
+Trichostatin A	VAMP8	1
+Trichostatin A	HSF2	1
+Trichostatin A	IRF6	1
+Trichostatin A	TXNDC16	1
+Trichostatin A	MCRS1	1
+Trichostatin A	CEBPG	1
+Trichostatin A	C1orf77	1
+Trichostatin A	TM2D2	1
+Trichostatin A	UBTF	1
+Trichostatin A	EHD1	1
+Trichostatin A	MAPKAPK5	1
+Trichostatin A	ATG3	1
+Trichostatin A	TPPP	1
+Trichostatin A	C9orf103	1
+Trichostatin A	RBM39	1
+Trichostatin A	BCKDHB	1
+Trichostatin A	CITED2	1
+Trichostatin A	FAM53C	1
+Trichostatin A	ERAP1	1
+Trichostatin A	CD44	1
+Trichostatin A	HIRIP3	1
+Trichostatin A	NAIF1	1
+Trichostatin A	UNC13B	1
+Trichostatin A	ACSL5	1
+Trichostatin A	COTL1	1
+Trichostatin A	FIG4	1
+Trichostatin A	UNG	1
+Trichostatin A	GCH1	1
+Trichostatin A	IFNAR1	1
+Trichostatin A	GPN1	1
+Trichostatin A	PHYH	1
+Trichostatin A	CASC1	1
+Trichostatin A	RRAS	1
+Trichostatin A	ANKRD13A	1
+Trichostatin A	RASSF4	1
+Trichostatin A	UCHL3	1
+Trichostatin A	BTN3A2	1
+Trichostatin A	KEAP1	1
+Trichostatin A	NCSTN	1
+Trichostatin A	PSD4	1
+Trichostatin A	ZCCHC10	1
+Trichostatin A	SFRS4	1
+Trichostatin A	FAM20C	1
+Trichostatin A	ENSA	1
+Trichostatin A	TMEM131	1
+Trichostatin A	UPF3B	1
+Trichostatin A	ZMYND8	1
+Trichostatin A	PRKCI	1
+Trichostatin A	ID3	1
+Trichostatin A	GLA	1
+Trichostatin A	CLK4	1
+Trichostatin A	ADD3	1
+Trichostatin A	MRPS15	1
+Trichostatin A	SYK	1
+Trichostatin A	PPIG	1
+Trichostatin A	TRIAP1	1
+Trichostatin A	UAP1	1
+Trichostatin A	PIGW	1
+Trichostatin A	VPS16	1
+Trichostatin A	LANCL2	1
+Trichostatin A	METRN	1
+Trichostatin A	DDX39	1
+Trichostatin A	NGFR	1
+Trichostatin A	DARS2	1
+Trichostatin A	C9orf86	1
+Trichostatin A	CCDC59	1
+Trichostatin A	LGALS3	1
+Trichostatin A	TCOF1	1
+Trichostatin A	ZNF407	1
+Trichostatin A	PPCS	1
+Trichostatin A	BCAT1	1
+Trichostatin A	CBR1	1
+Trichostatin A	PLS1	1
+Trichostatin A	ZNF329	1
+Trichostatin A	SKP1	1
+Trichostatin A	URM1	1
+Trichostatin A	PUM2	1
+Trichostatin A	CTSB	1
+Trichostatin A	MPP7	1
+Trichostatin A	C14orf129	1
+Trichostatin A	HSD17B8	1
+Trichostatin A	DTD1	1
+Trichostatin A	RASL10A	1
+Trichostatin A	E2F1	1
+Trichostatin A	FNBP1L	1
+Trichostatin A	C17orf49	1
+Trichostatin A	MRPL9	1
+Trichostatin A	ACVR2A	1
+Trichostatin A	ZZZ3	1
+Trichostatin A	SYNGR3	1
+Trichostatin A	EXOSC8	1
+Trichostatin A	IFFO2	1
+Trichostatin A	SLC2A6	1
+Trichostatin A	DPF1	1
+Trichostatin A	FAM89B	1
+Trichostatin A	CTBP1	1
+Trichostatin A	MCOLN2	1
+Trichostatin A	RABIF	1
+Trichostatin A	IKBKB	1
+Trichostatin A	PSMB5	1
+Trichostatin A	HDHD1A	1
+Trichostatin A	PPCDC	1
+Trichostatin A	SELL	1
+Trichostatin A	RNF144B	1
+Trichostatin A	FBXW7	1
+Trichostatin A	TFRC	1
+Trichostatin A	FNDC4	1
+Trichostatin A	DDX17	1
+Trichostatin A	PLEKHF1	1
+Trichostatin A	ATP6V0D1	1
+Trichostatin A	PSMC3	1
+Trichostatin A	ITGAL	1
+Trichostatin A	ENOSF1	1
+Trichostatin A	CCDC94	1
+Trichostatin A	PSMB8	1
+Trichostatin A	AHSA2	1
+Trichostatin A	PBX2	1
+Trichostatin A	CASD1	1
+Trichostatin A	AHRR	1
+Trichostatin A	SPRYD4	1
+Trichostatin A	HRNBP3	1
+Trichostatin A	NGFRAP1	1
+Trichostatin A	NCOR1	1
+Trichostatin A	TIMELESS	1
+Trichostatin A	TADA1	1
+Trichostatin A	CDC42EP3	1
+Trichostatin A	SLC25A39	1
+Trichostatin A	ITPA	1
+Trichostatin A	UBE3A	1
+Trichostatin A	POLR1C	1
+Trichostatin A	C2orf7	1
+Trichostatin A	IFT52	1
+Trichostatin A	MTDH	1
+Trichostatin A	CDH2	1
+Trichostatin A	SRD5A3	1
+Trichostatin A	IGHMBP2	1
+Trichostatin A	BCAS1	1
+Trichostatin A	ELOVL4	1
+Trichostatin A	ANKRD27	1
+Trichostatin A	DFNB31	1
+Trichostatin A	CYP2R1	1
+Trichostatin A	RRAGD	1
+Trichostatin A	TRAPPC6A	1
+Trichostatin A	MMAB	1
+Trichostatin A	PPP5C	1
+Trichostatin A	EIF4EBP1	1
+Trichostatin A	SERPINB2	1
+Trichostatin A	TXNDC12	1
+Trichostatin A	C16orf57	1
+Trichostatin A	DRAM1	1
+Trichostatin A	PIGM	1
+Trichostatin A	GRWD1	1
+Trichostatin A	MKNK1	1
+Trichostatin A	TCEAL3 /// TCEAL6	1
+Trichostatin A	INTS7	1
+Trichostatin A	C7orf23	1
+Trichostatin A	MMD	1
+Trichostatin A	PPP3CA	1
+Trichostatin A	PCMT1	1
+Trichostatin A	ZNF362	1
+Trichostatin A	B3GNTL1	1
+Trichostatin A	CLPP	1
+Trichostatin A	AVEN	1
+Trichostatin A	CDC37	1
+Trichostatin A	SLC48A1	1
+Trichostatin A	NSMAF	1
+Trichostatin A	CCDC43	1
+Trichostatin A	SFRS12IP1	1
+Trichostatin A	March 9	1
+Trichostatin A	C16orf61	1
+Trichostatin A	CHKB-CPT1B /// CPT1B	1
+Trichostatin A	C20orf108	1
+Trichostatin A	COX7A2L	1
+Trichostatin A	C9orf119	1
+Trichostatin A	RAB3A	1
+Trichostatin A	EPB41L5	1
+Trichostatin A	TMEM170B	1
+Trichostatin A	RARRES3	1
+Trichostatin A	CALU	1
+Trichostatin A	LASS2	1
+Trichostatin A	FAM108A1 /// FAM108A4	1
+Trichostatin A	KRT7	1
+Trichostatin A	MAGED2	1
+Trichostatin A	C16orf93	1
+Trichostatin A	C1orf144	1
+Trichostatin A	ZNF277	1
+Trichostatin A	HCP5	1
+Trichostatin A	IGF2R	1
+Trichostatin A	LOC150776 /// SMPD4	1
+Trichostatin A	DDX23	1
+Trichostatin A	C9orf69	1
+Trichostatin A	CCNH	1
+Trichostatin A	GOLGA2B	1
+Trichostatin A	RBMS3	1
+Trichostatin A	SRCAP	1
+Trichostatin A	AHNAK2	1
+Trichostatin A	TNKS1BP1	1
+Trichostatin A	BCOR	1
+Trichostatin A	WDR54	1
+Trichostatin A	NEU1	1
+Trichostatin A	PTPN18	1
+Trichostatin A	ENO3	1
+Trichostatin A	TMEM116	1
+Trichostatin A	CD40	1
+Trichostatin A	ARAF	1
+Trichostatin A	ATL3	1
+Trichostatin A	DAPK1	1
+Trichostatin A	RWDD1	1
+Trichostatin A	AKAP8	1
+Trichostatin A	RND1	1
+Trichostatin A	ANO10	1
+Trichostatin A	APOLD1	1
+Trichostatin A	GGCX	1
+Trichostatin A	GRN	1
+Trichostatin A	C6orf26 /// MSH5	1
+Trichostatin A	FAM196A	1
+Trichostatin A	UHRF1BP1	1
+Trichostatin A	RNF135	1
+Trichostatin A	GIPC1	1
+Trichostatin A	RBBP4	1
+Trichostatin A	GCET2	1
+Trichostatin A	CD70	1
+Trichostatin A	NMI	1
+Trichostatin A	MLLT10	1
+Trichostatin A	TAOK3	1
+Trichostatin A	FXN	1
+Trichostatin A	C9orf167	1
+Trichostatin A	DDX47	1
+Trichostatin A	SRXN1	1
+Trichostatin A	HIST1H2BK	1
+Trichostatin A	POLB	1
+Trichostatin A	C6orf162	1
+Trichostatin A	ARL4C	1
+Trichostatin A	TNFSF4	1
+Trichostatin A	FKBP11	1
+Trichostatin A	ATP8A1	1
+Trichostatin A	CCL22	1
+Trichostatin A	GNPAT	1
+Trichostatin A	NSMCE2	1
+Trichostatin A	TAF1	1
+Trichostatin A	GBE1	1
+Trichostatin A	RRS1	1
+Trichostatin A	PRIM2	1
+Trichostatin A	TRIM65	1
+Trichostatin A	PNRC2	1
+Trichostatin A	TCF25	1
+Trichostatin A	TTC21A	1
+Trichostatin A	LOR	1
+Trichostatin A	DUSP2	1
+Trichostatin A	ANKLE2	1
+Trichostatin A	GBAS	1
+Trichostatin A	ZNF251	1
+Trichostatin A	METTL4	1
+Trichostatin A	FOS	1
+Trichostatin A	ERP44	1
+Trichostatin A	DPH1 /// OVCA2	1
+Trichostatin A	AP2S1	1
+Trichostatin A	CCDC107	1
+Trichostatin A	MTMR1	1
+Trichostatin A	UBA7	1
+Trichostatin A	SNX15	1
+Trichostatin A	LRFN4	1
+Trichostatin A	LUC7L2	1
+Trichostatin A	QSER1	1
+Trichostatin A	FOXD4 /// FOXD4L1 /// FOXD4L3 /// FOXD4L6	1
+Trichostatin A	GADD45GIP1	1
+Trichostatin A	MTX1	1
+Trichostatin A	TTC38	1
+Trichostatin A	TP63	1
+Trichostatin A	C8orf33	1
+Trichostatin A	DAD1	1
+Trichostatin A	AIFM2	1
+Trichostatin A	ROPN1L	1
+Trichostatin A	CYB561	1
+Trichostatin A	IFI35	1
+Trichostatin A	IL15RA	1
+Trichostatin A	PPIL1	1
+Trichostatin A	ATOX1	1
+Trichostatin A	SAMSN1	1
+Trichostatin A	CORO1C	1
+Trichostatin A	PSMD8	1
+Trichostatin A	HNRNPH3	1
+Trichostatin A	CD86	1
+Trichostatin A	HSF1	1
+Trichostatin A	SAR1A	1
+Trichostatin A	IQGAP2	1
+Trichostatin A	BMP7	1
+Trichostatin A	NUP50	1
+Trichostatin A	March 3	1
+Trichostatin A	ARMCX1	1
+Trichostatin A	GADD45A	1
+Trichostatin A	FSTL1	1
+Trichostatin A	NME1 /// NME1-NME2	1
+Trichostatin A	NDUFA7	1
+Trichostatin A	PRKAR2B	1
+Trichostatin A	GABBR1 /// UBD	1
+Trichostatin A	CSE1L	1
+Trichostatin A	SLC43A3	1
+Trichostatin A	STK17B	1
+Trichostatin A	RSAD1	1
+Trichostatin A	LYSMD3	1
+Trichostatin A	CCDC12	1
+Trichostatin A	NPRL3	1
+Trichostatin A	ORC5L	1
+Trichostatin A	TNFSF13B	1
+Trichostatin A	ITM2C	1
+Trichostatin A	WDR13	1
+Trichostatin A	EFR3B	1
+Trichostatin A	OPTN	1
+Trichostatin A	SND1	1
+Trichostatin A	MICB	1
+Trichostatin A	MCM2	1
+Trichostatin A	P2RX5	1
+Trichostatin A	MT1X	1
+Trichostatin A	FAM128B	1
+Trichostatin A	MRPS28	1
+Trichostatin A	LRRC8B	1
+Trichostatin A	HN1	1
+Trichostatin A	TM2D1	1
+Trichostatin A	NLRX1	1
+Trichostatin A	NAA10	1
+Trichostatin A	AP2A1	1
+Trichostatin A	ACTR3	1
+Trichostatin A	FAM32A	1
+Trichostatin A	SLC22A4	1
+Trichostatin A	DNAJA1	1
+Trichostatin A	EVI5L	1
+Trichostatin A	COQ9	1
+Trichostatin A	VOPP1	1
+Trichostatin A	FBXO33	1
+Trichostatin A	INO80	1
+Trichostatin A	DSEL	1
+Trichostatin A	TLE6	1
+Trichostatin A	ATP6V1D	1
+Trichostatin A	MNAT1	1
+Trichostatin A	ESYT2	1
+Trichostatin A	PBLD	1
+Trichostatin A	TBC1D5	1
+Trichostatin A	C11orf75	1
+Trichostatin A	COIL	1
+Trichostatin A	RAB7A	1
+Trichostatin A	ACTA2	1
+Trichostatin A	SDHAF2	1
+Trichostatin A	STX4	1
+Trichostatin A	ZNF692	1
+Trichostatin A	DERA	1
+Trichostatin A	LSM7	1
+Trichostatin A	RLTPR	1
+Trichostatin A	CHCHD6	1
+Trichostatin A	AIFM1	1
+Trichostatin A	CDKL3	1
+Trichostatin A	SHQ1	1
+Trichostatin A	ZNF394	1
+Trichostatin A	HNRNPUL1	1
+Trichostatin A	PIM2	1
+Trichostatin A	DPM2	1
+Trichostatin A	LAMA5	1
+Trichostatin A	EIF4E3	1
+Trichostatin A	STX5	1
+Trichostatin A	ATP8B4	1
+Trichostatin A	INPP5K	1
+Trichostatin A	ITGBL1	1
+Trichostatin A	XBP1	1
+Trichostatin A	DDRGK1	1
+Trichostatin A	ZADH2	1
+Trichostatin A	IFT80	1
+Trichostatin A	SLC26A6	1
+Trichostatin A	ANKMY2	1
+Trichostatin A	NVL	1
+Trichostatin A	GIMAP5	1
+Trichostatin A	PSMG3	1
+Trichostatin A	LBH	1
+Trichostatin A	IDH3B	1
+Trichostatin A	APLP2	1
+Trichostatin A	TMEM168	1
+Trichostatin A	C9orf25	1
+Trichostatin A	EFEMP2	1
+Trichostatin A	HMG20B	1
+Trichostatin A	TMEM45A	1
+Trichostatin A	SLC1A5	1
+Trichostatin A	BRD1	1
+Trichostatin A	MAPRE3	1
+Trichostatin A	IFT20	1
+Trichostatin A	DOPEY2	1
+Trichostatin A	ZSCAN16	1
+Trichostatin A	NMT1	1
+Trichostatin A	SUV420H1	1
+Trichostatin A	SLC22A3	1
+Trichostatin A	EPHB3	1
+Trichostatin A	LSM3	1
+Trichostatin A	PDCL3	1
+Trichostatin A	LRRN3	1
+Trichostatin A	RSU1	1
+Trichostatin A	PHLDA3	1
+Trichostatin A	SFRS7	1
+Trichostatin A	BRP44	1
+Trichostatin A	C16orf62	1
+Trichostatin A	WDR19	1
+Trichostatin A	C2orf74	1
+Trichostatin A	DCTD	1
+Trichostatin A	OXSM	1
+Trichostatin A	GLRX5	1
+Trichostatin A	ADCY3	1
+Trichostatin A	NOMO2	1
+Trichostatin A	USP20	1
+Trichostatin A	LHFPL3	1
+Trichostatin A	CTNS	1
+Trichostatin A	ZBTB7C	1
+Trichostatin A	CAPN5	1
+Trichostatin A	ICT1	1
+Trichostatin A	EIF5	1
+Trichostatin A	JUNB	1
+Trichostatin A	BZW2	1
+Trichostatin A	ATG2A	1
+Trichostatin A	NSUN4	1
+Trichostatin A	SMYD5	1
+Trichostatin A	PEF1	1
+Trichostatin A	CCS	1
+Trichostatin A	DEXI	1
+Trichostatin A	NUDT3	1
+Trichostatin A	CFLAR	1
+Trichostatin A	GOLGA4	1
+Trichostatin A	GALK2	1
+Trichostatin A	ERGIC2	1
+Trichostatin A	HIPK2	1
+Trichostatin A	ENAH	1
+Trichostatin A	POLR2L	1
+Trichostatin A	SH3GL2	1
+Trichostatin A	GOLGA7	1
+Trichostatin A	RPS6KA2	1
+Trichostatin A	EPAS1	1
+Trichostatin A	CABC1	1
+Trichostatin A	SFRS6	1
+Trichostatin A	NRGN	1
+Trichostatin A	EXOG	1
+Trichostatin A	MFF	1
+Trichostatin A	EIF3A	1
+Trichostatin A	UBA52	1
+Trichostatin A	GCHFR	1
+Trichostatin A	NT5C3	1
+Trichostatin A	MYBL1	1
+Trichostatin A	SLC27A2	1
+Trichostatin A	STAG3L4	1
+Trichostatin A	PDGFA	1
+Trichostatin A	CYTH2	1
+Trichostatin A	DACT3	1
+Trichostatin A	KLF7	1
+Trichostatin A	C9orf23	1
+Trichostatin A	MUTED /// TXNDC5	1
+Trichostatin A	TES	1
+Trichostatin A	PHC3	1
+Trichostatin A	SYP	1
+Trichostatin A	ELP2	1
+Trichostatin A	CALCOCO1	1
+Trichostatin A	HIP1R /// LOC100294412	1
+Trichostatin A	RGS6	1
+Trichostatin A	TMEM187	1
+Trichostatin A	CENPBD1	1
+Trichostatin A	ATP6V1E1	1
+Trichostatin A	RAP1A	1
+Trichostatin A	SAP30BP	1
+Trichostatin A	QTRT1	1
+Trichostatin A	TMEM149	1
+Trichostatin A	ZC3H11A	1
+Trichostatin A	ELOVL5	1
+Trichostatin A	HYLS1	1
+Trichostatin A	CXorf57	1
+Trichostatin A	MITF	1
+Trichostatin A	LMNA	1
+Trichostatin A	MRPS27	1
+Trichostatin A	LOC652346 /// PML	1
+Trichostatin A	C21orf91	1
+Trichostatin A	C22orf39	1
+Trichostatin A	RAD23A	1
+Trichostatin A	ARFGAP2	1
+Trichostatin A	WARS2	1
+Trichostatin A	SLC45A1	1
+Trichostatin A	POLE4	1
+Trichostatin A	NDUFS8	1
+Trichostatin A	FAM46A	1
+Trichostatin A	TSPAN33	1
+Trichostatin A	PLCD1	1
+Trichostatin A	INO80C	1
+Trichostatin A	ZNF24	1
+Trichostatin A	STXBP2	1
+Trichostatin A	DUSP10	1
+Trichostatin A	BBS2	1
+Trichostatin A	MXD1	1
+Trichostatin A	LNX2	1
+Trichostatin A	CDKN3	1
+Trichostatin A	ECE1	1
+Trichostatin A	TMEM60	1
+Trichostatin A	IRF2BP2	1
+Trichostatin A	ALAD	1
+Trichostatin A	NRBF2	1
+Trichostatin A	MYO1C	1
+Trichostatin A	CPM	1
+Trichostatin A	C12orf43	1
+Trichostatin A	GPR107	1
+Trichostatin A	PRDX2	1
+Trichostatin A	GATM	1
+Trichostatin A	PANK4	1
+Trichostatin A	TXNRD2	1
+Trichostatin A	EFNB2	1
+Trichostatin A	CXADR	1
+Trichostatin A	PGK1	1
+Trichostatin A	RAB26	1
+Trichostatin A	ZFP41	1
+Trichostatin A	RCAN1	1
+Trichostatin A	TOX4	1
+Trichostatin A	STX3	1
+Trichostatin A	SGPL1	1
+Trichostatin A	PHLDA1	1
+Trichostatin A	SYNCRIP	1
+Trichostatin A	CDKN2D	1
+Trichostatin A	MYB	1
+Trichostatin A	PEMT	1
+Trichostatin A	CASC4	1
+Trichostatin A	NETO2	1
+Trichostatin A	HUWE1	1
+Trichostatin A	GART	1
+Trichostatin A	FLYWCH2	1
+Trichostatin A	LOC392288 /// MAP1LC3B	1
+Trichostatin A	SNRNP40	1
+Trichostatin A	TRRAP	1
+Trichostatin A	NLN	1
+Trichostatin A	DAP3	1
+Trichostatin A	ADCY7	1
+Trichostatin A	FLOT2	1
+Trichostatin A	DOCK2	1
+Trichostatin A	SIRT5	1
+Trichostatin A	SLC4A2	1
+Trichostatin A	SDF2	1
+Trichostatin A	EFNA3	1
+Trichostatin A	CARS	1
+Trichostatin A	DCAF8	1
+Trichostatin A	GTF2B	1
+Trichostatin A	IFNGR1	1
+Trichostatin A	PEX16	1
+Trichostatin A	N4BP2	1
+Trichostatin A	EPB41L2	1
+Trichostatin A	ISOC2	1
+Trichostatin A	PIGN	1
+Trichostatin A	GAMT	1
+Trichostatin A	BNIP3L	1
+Trichostatin A	SPP1	1
+Trichostatin A	LYPLAL1	1
+Trichostatin A	VEZF1	1
+Trichostatin A	CARKD	1
+Trichostatin A	LRRC1	1
+Trichostatin A	CHTF8	1
+Trichostatin A	STUB1	1
+Trichostatin A	TIGD2	1
+Trichostatin A	TNFAIP3	1
+Trichostatin A	PER1	1
+Trichostatin A	RIMBP3 /// RIMBP3B /// RIMBP3C	1
+Trichostatin A	PDK3	1
+Trichostatin A	TXN2	1
+Trichostatin A	ICA1	1
+Trichostatin A	HDAC5	1
+Trichostatin A	C9orf21	1
+Trichostatin A	TMCC2	1
+Trichostatin A	WDR59	1
+Trichostatin A	SURF1	1
+Trichostatin A	RAF1	1
+Trichostatin A	CNNM4	1
+Trichostatin A	ITM2B	1
+Trichostatin A	C19orf40	1
+Trichostatin A	BIRC3	1
+Trichostatin A	HADH	1
+Trichostatin A	KIAA1683	1
+Trichostatin A	XRCC5	1
+Trichostatin A	SHOC2	1
+Trichostatin A	POR	1
+Trichostatin A	FUNDC1	1
+Trichostatin A	POLR3E	1
+Trichostatin A	STXBP1	1
+Trichostatin A	TRNP1	1
+Trichostatin A	RAB22A	1
+Trichostatin A	ATP5J2	1
+Trichostatin A	C1orf74	1
+Trichostatin A	RPAIN	1
+Trichostatin A	ALDH5A1	1
+Trichostatin A	PCCB	1
+Trichostatin A	SH2D1A	1
+Trichostatin A	TCERG1	1
+Trichostatin A	USP53	1
+Trichostatin A	PCNT	1
+Trichostatin A	NDUFA6	1
+Trichostatin A	SLC9A3R1	1
+Trichostatin A	RABGGTA	1
+Trichostatin A	CLK2	1
+Trichostatin A	DYNLRB1	1
+Trichostatin A	C1orf43	1
+Trichostatin A	C20orf11	1
+Trichostatin A	NUP153	1
+Trichostatin A	FBXO15	1
+Trichostatin A	OASL	1
+Trichostatin A	CHMP6	1
+Trichostatin A	KCTD6	1
+Trichostatin A	ZCCHC3	1
+Trichostatin A	CCND2	1
+Trichostatin A	TRIM26	1
+Trichostatin A	DYRK3	1
+Trichostatin A	CAB39L	1
+Trichostatin A	AGL	1
+Trichostatin A	C19orf10	1
+Trichostatin A	ZAP70	1
+Trichostatin A	TMEM169	1
+Trichostatin A	TBPL1	1
+Trichostatin A	CTSA	1
+Trichostatin A	ILF3	1
+Trichostatin A	C10orf10	1
+Trichostatin A	PPM1G	1
+Trichostatin A	TOMM22	1
+Trichostatin A	ZAK	1
+Trichostatin A	UBE2D1	1
+Trichostatin A	BIN3	1
+Trichostatin A	VPS37B	1
+Trichostatin A	CTNNA1	1
+Trichostatin A	PHF10	1
+Trichostatin A	MPND	1
+Trichostatin A	HEATR5A	1
+Trichostatin A	QPRT	1
+Trichostatin A	PRPF8	1
+Trichostatin A	DSTN	1
+Trichostatin A	SPSB2	1
+Trichostatin A	HLA-DPB1	1
+Trichostatin A	C19orf62	1
+Trichostatin A	INTS3	1
+Trichostatin A	PUM1	1
+Trichostatin A	CNOT2	1
+Trichostatin A	ULBP1	1
+Trichostatin A	ZG16B	1
+Trichostatin A	PFDN6	1
+Trichostatin A	TMEM2	1
+Trichostatin A	EIF4G1	1
+Trichostatin A	MPZL1	1
+Trichostatin A	FUT10	1
+Trichostatin A	MRPL49	1
+Trichostatin A	RAB21	1
+Trichostatin A	YPEL3	1
+Trichostatin A	POLR1D	1
+Trichostatin A	KIF1B	1
+Trichostatin A	ARID1B	1
+Trichostatin A	RUNX2	1
+Trichostatin A	AURKB	1
+Trichostatin A	FMNL2	1
+Trichostatin A	March 2	1
+Trichostatin A	AIM1	1
+Trichostatin A	SGK3	1
+Trichostatin A	C6orf203	1
+Trichostatin A	MAN2C1	1
+Trichostatin A	SLC35A4	1
+Trichostatin A	RPS15A	1
+Trichostatin A	RILPL2	1
+Trichostatin A	UBA2	1
+Trichostatin A	DOT1L	1
+Trichostatin A	CHCHD7	1
+Trichostatin A	NDUFS6	1
+Trichostatin A	CEP110	1
+Trichostatin A	CSRP2	1
+Trichostatin A	TMPPE	1
+Trichostatin A	ATP6AP2	1
+Trichostatin A	ZNF469	1
+Trichostatin A	OGDHL	1
+Trichostatin A	NPTN	1
+Trichostatin A	TSPAN9	1
+Trichostatin A	CDYL	1
+Trichostatin A	UBE2H	1
+Trichostatin A	SLC22A1	1
+Trichostatin A	C12orf75	1
+Trichostatin A	COPZ1	1
+Trichostatin A	ATP5D	1
+Trichostatin A	RPUSD4	1
+Trichostatin A	TSEN54	1
+Trichostatin A	LAPTM4A	1
+Trichostatin A	SPIN1	1
+Trichostatin A	BAT1	1
+Trichostatin A	MPRIP	1
+Trichostatin A	TRIM27	1
+Trichostatin A	RPRD1B	1
+Trichostatin A	ERO1LB	1
+Trichostatin A	TMTC3	1
+Trichostatin A	HDAC3	1
+Trichostatin A	NAP1L4	1
+Trichostatin A	PRKCD	1
+Trichostatin A	SASH3	1
+Trichostatin A	HEY1	1
+Trichostatin A	NFKB2	1
+Trichostatin A	IL10RA	1
+Trichostatin A	ZFP36	1
+Trichostatin A	DOM3Z	1
+Trichostatin A	PTPN6	1
+Trichostatin A	AMDHD1	1
+Trichostatin A	ALDH6A1	1
+Trichostatin A	ZNF330	1
+Trichostatin A	PDGFRL	1
+Trichostatin A	GPS1	1
+Trichostatin A	SNPH	1
+Trichostatin A	PATL1	1
+Trichostatin A	ATP6V1A	1
+Trichostatin A	TSR2	1
+Trichostatin A	LSS	1
+Trichostatin A	TUBA4A	1
+Trichostatin A	SRPR	1
+Trichostatin A	PMS1	1
+Trichostatin A	PFKFB3	1
+Trichostatin A	SF3B5	1
+Trichostatin A	PTMS	1
+Trichostatin A	EIF3D	1
+Trichostatin A	CNOT10	1
+Trichostatin A	ISCA2	1
+Trichostatin A	CPNE2	1
+Trichostatin A	KLHL24	1
+Trichostatin A	STK17A	1
+Trichostatin A	METTL3	1
+Trichostatin A	CAD	1
+Trichostatin A	STAT5B	1
+Trichostatin A	RPS19BP1	1
+Trichostatin A	THY1	1
+Trichostatin A	GPCPD1	1
+Trichostatin A	GCA	1
+Trichostatin A	TBC1D15	1
+Trichostatin A	OCIAD2	1
+Trichostatin A	MRPS7	1
+Trichostatin A	CHCHD8	1
+Trichostatin A	SERPINB9	1
+Trichostatin A	SGTB	1
+Trichostatin A	TUBB6	1
+Trichostatin A	TPCN1	1
+Trichostatin A	TDRKH	1
+Trichostatin A	TSG101	1
+Trichostatin A	ESYT1	1
+Trichostatin A	CAMK2D	1
+Trichostatin A	PPP3CC	1
+Trichostatin A	BEX5	1
+Trichostatin A	SSBP1	1
+Trichostatin A	ZBTB8A	1
+Trichostatin A	RDH10	1
+Trichostatin A	C11orf31	1
+Trichostatin A	PPP2R2B	1
+Trichostatin A	CCNE1	1
+Trichostatin A	TOMM34	1
+Trichostatin A	PTAR1	1
+Trichostatin A	TRIP13	1
+Trichostatin A	C18orf25	1
+Trichostatin A	CHST2	1
+Trichostatin A	SAP130	1
+Trichostatin A	GYS1	1
+Trichostatin A	ZNF689	1
+Trichostatin A	CSNK2A2	1
+Trichostatin A	SRPRB	1
+Trichostatin A	CDO1	1
+Trichostatin A	DDX56	1
+Trichostatin A	GABPB1	1
+Trichostatin A	LEPRE1	1
+Trichostatin A	OBFC2B	1
+Trichostatin A	HSPB11	1
+Trichostatin A	FKBP1B	1
+Trichostatin A	WASF3	1
+Trichostatin A	TCEAL1	1
+Trichostatin A	ASPH	1
+Trichostatin A	IER3	1
+Trichostatin A	SQRDL	1
+Trichostatin A	YIPF5	1
+Trichostatin A	DOK3	1
+Trichostatin A	BLOC1S1	1
+Trichostatin A	CARNS1	1
+Trichostatin A	GLMN	1
+Trichostatin A	PIM1	1
+Trichostatin A	OXNAD1	1
+Trichostatin A	PLEKHJ1	1
+Trichostatin A	TOR2A	1
+Trichostatin A	TIFA	1
+Trichostatin A	HNRNPU	1
+Trichostatin A	CLN6	1
+Trichostatin A	RAD51C	1
+Trichostatin A	SH2D3A	1
+Trichostatin A	UBAP1	1
+Trichostatin A	C16orf42	1
+Trichostatin A	TEX14	1
+Trichostatin A	GRAMD1A	1
+Trichostatin A	MFAP1	1
+Trichostatin A	BNIP1	1
+Trichostatin A	ZNF367	1
+Trichostatin A	ACSF2	1
+Trichostatin A	CDKN1C	1
+Trichostatin A	TMEM44	1
+Trichostatin A	RXRB	1
+Trichostatin A	STRN4	1
+Trichostatin A	ALDH3A2	1
+Trichostatin A	NOMO1 /// NOMO2 /// NOMO3	1
+Trichostatin A	C2orf79	1
+Trichostatin A	TFDP1	1
+Trichostatin A	DENND3	1
+Trichostatin A	TMEM106A	1
+Trichostatin A	BLOC1S2	1
+Trichostatin A	LRP11	1
+Trichostatin A	TTC1	1
+Trichostatin A	C9orf95	1
+Trichostatin A	FKBP3	1
+Trichostatin A	ESPL1	1
+Trichostatin A	PTS	1
+Trichostatin A	WDR83	1
+Trichostatin A	INTS12	1
+Trichostatin A	CYLD	1
+Trichostatin A	PI4KA	1
+Trichostatin A	ADRBK1	1
+Trichostatin A	REEP6	1
+Trichostatin A	LOC441722 /// U2AF1	1
+Trichostatin A	PIK3R4	1
+Trichostatin A	U2AF1L4	1
+Trichostatin A	SPATA20	1
+Trichostatin A	CDK1	1
+Trichostatin A	PRMT1	1
+Trichostatin A	MRPL50	1
+Trichostatin A	LARP7	1
+Trichostatin A	SLC38A9	1
+Trichostatin A	SNRK	1
+Trichostatin A	ASF1A	1
+Trichostatin A	FOXD1	1
+Trichostatin A	TNFSF9	1
+Trichostatin A	SETD7	1
+Trichostatin A	SVIL	1
+Trichostatin A	CENPM	1
+Trichostatin A	PKM2	1
+Trichostatin A	NAP1L5	1
+Trichostatin A	RAD9A	1
+Trichostatin A	GLRX2	1
+Trichostatin A	BBS7	1
+Trichostatin A	DOCK4	1
+Trichostatin A	RAD21	1
+Trichostatin A	GTF2A2	1
+Trichostatin A	C16orf79	1
+Trichostatin A	SPTAN1	1
+Trichostatin A	CLCNKA /// CLCNKB	1
+Trichostatin A	ARHGAP17	1
+Trichostatin A	MEIS1	1
+Trichostatin A	ZNF33A /// ZNF33B	1
+Trichostatin A	C11orf82	1
+Trichostatin A	MLST8	1
+Trichostatin A	TMEM80	1
+Trichostatin A	AGTRAP	1
+Trichostatin A	BCORL1	1
+Trichostatin A	HECA	1
+Trichostatin A	TM9SF1	1
+Trichostatin A	SMU1	1
+Trichostatin A	GPN3	1
+Trichostatin A	ACD	1
+Trichostatin A	ARID3A	1
+Trichostatin A	TOM1L2	1
+Trichostatin A	PTPN1	1
+Trichostatin A	NMB	1
+Trichostatin A	RAB40A	1
+Trichostatin A	CLP1	1
+Trichostatin A	PAIP2	1
+Trichostatin A	TPR	1
+Trichostatin A	SRR	1
+Trichostatin A	CCDC28B	1
+Trichostatin A	SOD2	1
+Trichostatin A	GPR183	1
+Trichostatin A	XRCC4	1
+Trichostatin A	SPATC1	1
+Trichostatin A	CD9	1
+Trichostatin A	CEP70	1
+Trichostatin A	KIF21A	1
+Trichostatin A	FBXL14	1
+Trichostatin A	OCIAD1	1
+Trichostatin A	C1orf93	1
+Trichostatin A	CDC42EP4	1
+Trichostatin A	PGPEP1	1
+Trichostatin A	CUL7	1
+Trichostatin A	STAT3	1
+Trichostatin A	ERGIC3	1
+Trichostatin A	KIAA1407	1
+Trichostatin A	SPOCK2	1
+Trichostatin A	MIPEP	1
+Trichostatin A	BAZ1A	1
+Trichostatin A	MTMR6	1
+Trichostatin A	C1orf183	1
+Trichostatin A	WDR70	1
+Trichostatin A	UTP20	1
+Trichostatin A	FBN1	1
+Trichostatin A	ADNP	1
+Trichostatin A	AIP	1
+Trichostatin A	MAP4K1	1
+Trichostatin A	AMPH	1
+Trichostatin A	RAB39B	1
+Trichostatin A	COPA	1
+Trichostatin A	UBL5	1
+Trichostatin A	DNM1	1
+Trichostatin A	CHMP4A	1
+Trichostatin A	CDC37L1	1
+Trichostatin A	TARDBP	1
+Trichostatin A	PTP4A3	1
+Trichostatin A	ISL2	1
+Trichostatin A	POGK	1
+Trichostatin A	PLEKHG2	1
+Trichostatin A	ZNF320	1
+Trichostatin A	SORT1	1
+Trichostatin A	SLC25A44	1
+Trichostatin A	OSBPL9	1
+Trichostatin A	FAM108B1	1
+Trichostatin A	S1PR4	1
+Trichostatin A	C7orf60	1
+Trichostatin A	C11orf10	1
+Trichostatin A	NIT1	1
+Trichostatin A	ATXN10	1
+Trichostatin A	PSMG1	1
+Trichostatin A	NUDT6	1
+Trichostatin A	TRAPPC9	1
+Trichostatin A	CDC16	1
+Trichostatin A	PDCD2	1
+Trichostatin A	H1FX	1
+Trichostatin A	CD320	1
+Trichostatin A	KLHL25	1
+Trichostatin A	DHRS1	1
+Trichostatin A	FERMT2	1
+Trichostatin A	VPS37A	1
+Trichostatin A	RAB1B	1
+Trichostatin A	NXT1	1
+Trichostatin A	AKIRIN2	1
+Trichostatin A	ZNF784	1
+Trichostatin A	MED12	1
+Trichostatin A	PITPNA	1
+Trichostatin A	CD6	1
+Trichostatin A	PITPNB	1
+Trichostatin A	SYT11	1
+Trichostatin A	INSIG1	1
+Trichostatin A	CLIC4	1
+Trichostatin A	TOP2A	1
+Trichostatin A	PRDX3	1
+Trichostatin A	NLRC5	1
+Trichostatin A	LDOC1L	1
+Trichostatin A	DDX46	1
+Trichostatin A	PARM1	1
+Trichostatin A	C6orf192	1
+Trichostatin A	TUT1	1
+Trichostatin A	TMC4	1
+Trichostatin A	IDH3G	1
+Trichostatin A	KDM1A	1
+Trichostatin A	RAB11B	1
+Trichostatin A	TSPO	1
+Trichostatin A	SLC41A2	1
+Trichostatin A	BCL3	1
+Trichostatin A	CD81	1
+Trichostatin A	HDAC7	1
+Trichostatin A	VCAM1	1
+Trichostatin A	MAGI3	1
+Trichostatin A	HNRNPK	1
+Trichostatin A	USP7	1
+Trichostatin A	LARP1	1
+Trichostatin A	UCHL5	1
+Trichostatin A	MAPK10	1
+Trichostatin A	NCKAP1	1
+Trichostatin A	FOXM1	1
+Trichostatin A	HNRNPD	1
+Trichostatin A	MYCBP	1
+Trichostatin A	GSTP1	1
+Trichostatin A	KRAS	1
+Trichostatin A	PEX6	1
+Trichostatin A	IFT57	1
+Trichostatin A	SH3BGRL3	1
+Trichostatin A	TMX2	1
+Trichostatin A	C14orf142	1
+Trichostatin A	MTMR14	1
+Trichostatin A	ANKRD57	1
+Trichostatin A	C10orf35	1
+Trichostatin A	FOXD4L1	1
+Trichostatin A	SIAE	1
+Trichostatin A	SRPK2	1
+Trichostatin A	CYB5R4	1
+Trichostatin A	MRPL34	1
+Trichostatin A	SPN	1
+Trichostatin A	MAP2K1	1
+Trichostatin A	STAC	1
+Trichostatin A	VCP	1
+Trichostatin A	SLC41A1	1
+Trichostatin A	PIAS3	1
+Trichostatin A	C22orf36	1
+Trichostatin A	GTF2I /// GTF2IP1 /// LOC100093631	1
+Trichostatin A	C5orf33	1
+Trichostatin A	UBE2L6	1
+Trichostatin A	RAB15	1
+Trichostatin A	FEM1A	1
+Trichostatin A	TUBA1A	1
+Trichostatin A	PDK2	1
+Trichostatin A	DUSP5	1
+Trichostatin A	C15orf37	1
+Trichostatin A	BPGM	1
+Trichostatin A	HLA-DRB1 /// HLA-DRB3 /// HLA-DRB4 /// HLA-DRB5	1
+Trichostatin A	PPP1R8	1
+Trichostatin A	NSUN5	1
+Trichostatin A	NDUFAF3	1
+Trichostatin A	OSBPL7	1
+Trichostatin A	BHLHE22	1
+Trichostatin A	HK1	1
+Trichostatin A	DDAH2	1
+Trichostatin A	SLC17A5	1
+Trichostatin A	QSOX1	1
+Trichostatin A	CYTH4	1
+Trichostatin A	MRPS5	1
+Trichostatin A	CTSK	1
+Trichostatin A	SLC24A3	1
+Trichostatin A	CCBL2	1
+Trichostatin A	MXI1	1
+Trichostatin A	HES7	1
+Trichostatin A	ABHD3	1
+Trichostatin A	CHST12	1
+Trichostatin A	SPOP	1
+Trichostatin A	C22orf28	1
+Trichostatin A	TBC1D4	1
+Trichostatin A	GNS	1
+Trichostatin A	PPIC	1
+Trichostatin A	PRR13	1
+Trichostatin A	SERPINB8	1
+Trichostatin A	MAPK14	1
+Trichostatin A	ZNF260	1
+Trichostatin A	CHRNA10	1
+Trichostatin A	CLN8	1
+Trichostatin A	INTS6	1
+Trichostatin A	PFN1	1
+Trichostatin A	EZH1	1
+Trichostatin A	THADA	1
+Trichostatin A	PSMD6	1
+Trichostatin A	AMY1A /// AMY1B /// AMY1C /// AMY2A /// AMY2B	1
+Trichostatin A	C1orf103	1
+Trichostatin A	TWISTNB	1
+Trichostatin A	PPIL2	1
+Trichostatin A	PCSK7	1
+Trichostatin A	PSMA1	1
+Trichostatin A	DGKA	1
+Trichostatin A	TIPARP	1
+Trichostatin A	CTDSP1	1
+Trichostatin A	SERP1	1
+Trichostatin A	EMILIN2	1
+Trichostatin A	TMEM222	1
+Trichostatin A	KIAA1324	1
+Trichostatin A	CHCHD1	1
+Trichostatin A	XPOT	1
+Trichostatin A	WWC3	1
+Trichostatin A	AMICA1	1
+Trichostatin A	ARRDC2	1
+Trichostatin A	LRBA	1
+Trichostatin A	CTNNAL1	1
+Trichostatin A	DDX59	1
+Trichostatin A	ZNF193	1
+Trichostatin A	FAM120B	1
+Trichostatin A	SAMD10	1
+Trichostatin A	DNMBP	1
+Trichostatin A	Septin 6	1
+Trichostatin A	WEE1	1
+Trichostatin A	HCFC1R1	1
+Trichostatin A	PARL	1
+Trichostatin A	ATP8B5P /// ZFAND6	1
+Trichostatin A	ZC3H4	1
+Trichostatin A	GNG7	1
+Trichostatin A	MRPL13	1
+Trichostatin A	PLCG2	1
+Trichostatin A	SORBS1	1
+Trichostatin A	ANKRD52	1
+Trichostatin A	LITAF	1
+Trichostatin A	ERMP1	1
+Trichostatin A	NBN	1
+Trichostatin A	MAPT	1
+Trichostatin A	EBI3	1
+Trichostatin A	CHGB	1
+Trichostatin A	COMMD6	1
+Trichostatin A	FUCA1	1
+Trichostatin A	NAGS	1
+Trichostatin A	WDR90	1
+Trichostatin A	ABCA5	1
+Trichostatin A	MARK1	1
+Trichostatin A	TWSG1	1
+Trichostatin A	PCDHGA1 /// PCDHGA10 /// PCDHGA11 /// PCDHGA12 /// PCDHGA2 /// PCDHGA3 /// PCDHGA4 /// PCDHGA5 /// PCDHGA6 /// PCDHGA7 /// PCDHGA8 /// PCDHGA9 /// PCDHGB1 /// PCDHGB2 /// PCDHGB3 /// PCDHGB4 /// PCDHGB5 /// PCDHGB6 /// PCDHGB7 /// PCDHGC3 /// PCDHGC4 /// PCDHGC5	1
+Trichostatin A	BCL2L12	1
+Trichostatin A	CNN2	1
+Trichostatin A	C6orf58	1
+Trichostatin A	GEMIN4	1
+Trichostatin A	TRIM22	1
+Trichostatin A	HADHB	1
+Trichostatin A	TBCEL	1
+Trichostatin A	FOXF1	1
+Trichostatin A	ANKDD1A	1
+Trichostatin A	ZNHIT1	1
+Trichostatin A	ENTPD1	1
+Trichostatin A	LCMT1	1
+Trichostatin A	CTBS	1
+Trichostatin A	POLDIP3	1
+Trichostatin A	ZCCHC17	1
+Trichostatin A	URGCP	1
+Trichostatin A	LOC728622 /// SKP1	1
+Trichostatin A	NDFIP2	1
+Trichostatin A	ITSN1	1
+Trichostatin A	SIT1	1
+Trichostatin A	DULLARD	1
+Trichostatin A	ID2	1
+Trichostatin A	LEPROTL1	1
+Trichostatin A	SGOL2	1
+Trichostatin A	NBR1	1
+Trichostatin A	MINPP1	1
+Trichostatin A	DHX30	1
+Trichostatin A	PARP2	1
+Trichostatin A	JRK	1
+Trichostatin A	UCKL1	1
+Trichostatin A	MLLT6	1
+Trichostatin A	ANKRD28	1
+Trichostatin A	TBCK	1
+Trichostatin A	GAR1	1
+Trichostatin A	CHST14	1
+Trichostatin A	THUMPD3	1
+Trichostatin A	SRRT	1
+Trichostatin A	TAF10	1
+Trichostatin A	NOD1	1
+Trichostatin A	TAF9B	1
+Trichostatin A	GIYD1 /// GIYD2	1
+Trichostatin A	GUK1	1
+Trichostatin A	PINK1	1
+Trichostatin A	GCLC	1
+Trichostatin A	CSGALNACT1	1
+Trichostatin A	PREP	1
+Trichostatin A	DDX54	1
+Trichostatin A	SIVA1	1
+Trichostatin A	STAT2	1
+Trichostatin A	HAPLN3	1
+Trichostatin A	OAZ2	1
+Trichostatin A	RTN3	1
+Trichostatin A	RPL41	1
+Trichostatin A	LRPPRC	1
+Trichostatin A	TERF2	1
+Trichostatin A	KHNYN	1
+Trichostatin A	RAB11A	1
+Trichostatin A	ECD	1
+Trichostatin A	KLHL21	1
+Trichostatin A	STK38	1
+Trichostatin A	POMP	1
+Trichostatin A	ABHD14B	1
+Trichostatin A	ENDOG	1
+Trichostatin A	PARD6A	1
+Trichostatin A	HEY2	1
+Trichostatin A	SUPT4H1	1
+Trichostatin A	SELK	1
+Trichostatin A	MYD88	1
+Trichostatin A	MUC20	1
+Trichostatin A	ACVR1	1
+Trichostatin A	PSTK	1
+Trichostatin A	PIGS	1
+Trichostatin A	PSPH	1
+Trichostatin A	PTBP2	1
+Trichostatin A	RPS29	1
+Trichostatin A	SCAPER	1
+Trichostatin A	DHCR24	1
+Trichostatin A	HIBADH	1
+Trichostatin A	KIAA0528	1
+Trichostatin A	PPP1R7	1
+Trichostatin A	PMM1	1
+Trichostatin A	TRANK1	1
+Trichostatin A	PDLIM5	1
+Trichostatin A	VSTM1	1
+Trichostatin A	NCOA5	1
+Trichostatin A	FAM117B	1
+Trichostatin A	APOO	1
+Trichostatin A	AP3S2	1
+Trichostatin A	HBP1	1
+Trichostatin A	PLP2	1
+Trichostatin A	FGFR1OP2	1
+Trichostatin A	NUDT7	1
+Trichostatin A	CIB2	1
+Trichostatin A	SCUBE1	1
+Trichostatin A	HSDL1	1
+Trichostatin A	PML	1
+Trichostatin A	GALC	1
+Trichostatin A	JAGN1	1
+Trichostatin A	IBTK	1
+Trichostatin A	ATP1B1	1
+Trichostatin A	CASQ1	1
+Trichostatin A	FBXO3	1
+Trichostatin A	USP2	1
+Trichostatin A	WARS	1
+Trichostatin A	CPT1A /// RDH5	1
+Trichostatin A	RIPK2	1
+Trichostatin A	CECR5	1
+Trichostatin A	DPH5	1
+Trichostatin A	SUCLG2	1
+Trichostatin A	CYP2E1	1
+Trichostatin A	ANKRD24	1
+Trichostatin A	TMEM109	1
+Trichostatin A	CPNE3	1
+Trichostatin A	C5orf39	1
+Trichostatin A	SH3BGRL2	1
+Trichostatin A	ZNF638	1
+Trichostatin A	CRY1	1
+Trichostatin A	GKAP1	1
+Trichostatin A	PIGQ	1
+Trichostatin A	TNFRSF4	1
+Trichostatin A	FUBP1	1
+Trichostatin A	TAGLN2	1
+Trichostatin A	GPR137	1
+Trichostatin A	TAPBPL	1
+Trichostatin A	UCK2	1
+Trichostatin A	LAMP2	1
+Trichostatin A	SARS2	1
+Trichostatin A	PSMD12	1
+Trichostatin A	PEX5	1
+Trichostatin A	GSDMB	1
+Trichostatin A	C1orf128	1
+Trichostatin A	GCNT1	1
+Trichostatin A	QRICH1	1
+Trichostatin A	TRIM69	1
+Trichostatin A	PTEN	1
+Trichostatin A	DAPL1	1
+Trichostatin A	HERPUD1	1
+Trichostatin A	PRR14	1
+Trichostatin A	ELOF1	1
+Trichostatin A	TMEM25	1
+Trichostatin A	ARHGAP20	1
+Trichostatin A	ABHD6	1
+Trichostatin A	CGRRF1	1
+Trichostatin A	CYTIP	1
+Trichostatin A	TMEM158	1
+Trichostatin A	SMTN	1
+Trichostatin A	C3orf26	1
+Trichostatin A	TSPAN4	1
+Trichostatin A	SMARCE1	1
+Trichostatin A	KIAA0226	1
+Trichostatin A	CIC	1
+Trichostatin A	ADRB2	1
+Trichostatin A	TBCB	1
+Trichostatin A	FAM98C	1
+Trichostatin A	POPDC3	1
+Trichostatin A	C12orf5	1
+Trichostatin A	CDK2AP2	1
+Trichostatin A	RGL2	1
+Trichostatin A	INPPL1	1
+Trichostatin A	RASAL3	1
+Trichostatin A	STMN3	1
+Trichostatin A	FKBP1A	1
+Trichostatin A	SAR1B	1
+Trichostatin A	STX12	1
+Trichostatin A	C11orf70	1
+Trichostatin A	HSDL2	1
+Trichostatin A	TBC1D8	1
+Trichostatin A	SEC11A	1
+Trichostatin A	PTTG1IP	1
+Trichostatin A	STX1A	1
+Trichostatin A	NOL12 /// TRIOBP	1
+Trichostatin A	SLC44A2	1
+Trichostatin A	TNPO1	1
+Trichostatin A	C12orf57	1
+Trichostatin A	GTSE1	1
+Trichostatin A	PHTF2	1
+Trichostatin A	WWC1	1
+Trichostatin A	BOLA1	1
+Trichostatin A	NDUFB8 /// SEC31B	1
+Trichostatin A	ANXA7	1
+Trichostatin A	MIA	1
+Trichostatin A	B4GALT4	1
+Trichostatin A	GAS2L1	1
+Trichostatin A	PDPK1	1
+Trichostatin A	C20orf112	1
+Trichostatin A	U2AF1	1
+Trichostatin A	PEX1	1
+Trichostatin A	PLAU	1
+Trichostatin A	USMG5	1
+Trichostatin A	ARF6	1
+Trichostatin A	DYNLT1	1
+Trichostatin A	TBC1D9B	1
+Trichostatin A	CSAD	1
+Trichostatin A	ASXL1	1
+Trichostatin A	FAM154B	1
+Trichostatin A	H6PD	1
+Trichostatin A	UBE2A	1
+Trichostatin A	PARP4	1
+Trichostatin A	ABHD10	1
+Trichostatin A	LIAS	1
+Trichostatin A	RASD1	1
+Trichostatin A	FAM122A	1
+Trichostatin A	STOML2	1
+Trichostatin A	ATP1A1	1
+Trichostatin A	NIF3L1	1
+Trichostatin A	CDK5RAP1	1
+Trichostatin A	TDRD6	1
+Trichostatin A	WNT10B	1
+Trichostatin A	GALNT3	1
+Trichostatin A	EXOSC6	1
+Trichostatin A	CD68	1
+Trichostatin A	CCDC97	1
+Trichostatin A	KIAA1310	1
+Trichostatin A	IFIH1	1
+Trichostatin A	MTFR1	1
+Trichostatin A	NSUN5P1	1
+Trichostatin A	SLA	1
+Trichostatin A	FCHO1	1
+Trichostatin A	SSRP1	1
+Trichostatin A	STRAP	1
+Trichostatin A	IRS2	1
+Trichostatin A	SNW1	1
+Trichostatin A	IPO8	1
+Trichostatin A	ZYX	1
+Trichostatin A	ATP6V1H	1
+Trichostatin A	SDF4	1
+Trichostatin A	TCHP	1
+Trichostatin A	NTN5	1
+Trichostatin A	DHDDS	1
+Trichostatin A	COMMD3	1
+Trichostatin A	TRIM56	1
+Trichostatin A	ALG2	1
+Trichostatin A	SUOX	1
+Trichostatin A	PMEPA1	1
+Trichostatin A	GAK	1
+Trichostatin A	CNNM3	1
+Trichostatin A	FAM164C	1
+Trichostatin A	SNX30	1
+Trichostatin A	BIRC5	1
+Trichostatin A	FGFRL1	1
+Trichostatin A	PGBD2	1
+Trichostatin A	TMEM206	1
+Trichostatin A	PREPL	1
+Trichostatin A	PPHLN1	1
+Trichostatin A	STXBP6	1
+Trichostatin A	M6PR	1
+Trichostatin A	SP3	1
+Trichostatin A	IVNS1ABP	1
+Trichostatin A	LYRM7	1
+Trichostatin A	CDK7	1
+Trichostatin A	JAKMIP2	1
+Trichostatin A	IRF1	1
+Trichostatin A	SPTY2D1	1
+Trichostatin A	ZBTB46	1
+Trichostatin A	CCDC22	1
+Trichostatin A	AKNA	1
+Trichostatin A	ZNF282	1
+Trichostatin A	C17orf106 /// CDK3	1
+Trichostatin A	SDF2L1	1
+Trichostatin A	FBXL20	1
+Trichostatin A	CBY1	1
+Trichostatin A	C17orf75	1
+Trichostatin A	DLX2	1
+Trichostatin A	NOL12	1
+Trichostatin A	ATF6B	1
+Trichostatin A	INO80B	1
+Trichostatin A	PREX1	1
+Trichostatin A	KLRG1	1
+Trichostatin A	NCK2	1
+Trichostatin A	PORCN	1
+Trichostatin A	UFD1L	1
+Trichostatin A	TSEN34	1
+Trichostatin A	RRP7A /// RRP7B	1
+Trichostatin A	RARG	1
+Trichostatin A	ATN1	1
+Trichostatin A	FAM160B2	1
+Trichostatin A	ASAP1	1
+Trichostatin A	CPPED1	1
+Trichostatin A	TRAM2	1
+Trichostatin A	DBP	1
+Trichostatin A	TOMM20	1
+Trichostatin A	TUFT1	1
+Trichostatin A	ATP6V0B	1
+Trichostatin A	NGLY1	1
+Trichostatin A	SIK2	1
+Trichostatin A	SLC12A2	1
+Trichostatin A	PICK1	1
+Trichostatin A	STX8	1
+Trichostatin A	FAM110A	1
+Trichostatin A	SLU7	1
+Trichostatin A	FAM128A /// FAM128B	1
+Trichostatin A	ELTD1	1
+Trichostatin A	ARF5	1
+Trichostatin A	TDRD7	1
+Trichostatin A	UACA	1
+Trichostatin A	DDB2	1
+Trichostatin A	NR4A1	1
+Trichostatin A	SHF	1
+Trichostatin A	TEF	1
+Trichostatin A	LRP6	1
+Trichostatin A	CCDC124	1
+Trichostatin A	PAG1	1
+Trichostatin A	LPHN1	1
+Trichostatin A	SS18L2	1
+Trichostatin A	DMXL1	1
+Trichostatin A	ZNF654	1
+Trichostatin A	RANGAP1	1
+Trichostatin A	ASCC1	1
+Trichostatin A	CHMP5	1
+Trichostatin A	IL11RA	1
+Trichostatin A	RPN2	1
+Trichostatin A	FKBP2	1
+Trichostatin A	EIF2S3	1
+Trichostatin A	CCNC	1
+Trichostatin A	VAMP2	1
+Trichostatin A	SLC25A10	1
+Trichostatin A	BAT2	1
+Trichostatin A	GNAI2	1
+Trichostatin A	FAM126A	1
+Trichostatin A	PSMG2	1
+Trichostatin A	THAP10	1
+Trichostatin A	PPP1R16B	1
+Trichostatin A	STX6	1
+Trichostatin A	ZBTB17	1
+Trichostatin A	MTUS1	1
+Trichostatin A	LEF1	1
+Trichostatin A	GZMM	1
+Trichostatin A	KCNN4	1
+Trichostatin A	ARHGAP24	1
+Trichostatin A	FLJ23867 /// QSOX1	1
+Trichostatin A	IL9	1
+Trichostatin A	KIFC2	1
+Trichostatin A	CPD	1
+Trichostatin A	FAM129B	1
+Trichostatin A	HLA-DPA1	1
+Trichostatin A	KIAA2013	1
+Trichostatin A	ARL6	1
+Trichostatin A	PHF11	1
+Trichostatin A	IFITM1	1
+Trichostatin A	IGBP1	1
+Trichostatin A	SPSB3	1
+Trichostatin A	PDE4B	1
+Trichostatin A	MAPK11	1
+Trichostatin A	IMP3	1
+Trichostatin A	MPP6	1
+Trichostatin A	CDK5RAP2	1
+Trichostatin A	EFHC1	1
+Trichostatin A	BAT2L1	1
+Trichostatin A	EIF1AX	1
+Trichostatin A	C2CD2L	1
+Trichostatin A	PVRL2	1
+Trichostatin A	C12orf44	1
+Trichostatin A	DBI	1
+Trichostatin A	PHF16	1
+Trichostatin A	SERPINE1	1
+Trichostatin A	GNPTAB	1
+Trichostatin A	DDT	1
+Trichostatin A	NEK6	1
+Trichostatin A	SDCBP	1
+Trichostatin A	MORF4L1	1
+Trichostatin A	EMB	1
+Trichostatin A	F8	1
+Trichostatin A	NCS1	1
+Trichostatin A	APBB1IP	1
+Trichostatin A	VPS33B	1
+Trichostatin A	DNAJC2	1
+Trichostatin A	SAP30	1
+Trichostatin A	PAGE5	1
+Trichostatin A	SNRPF	1
+Trichostatin A	MAX	1
+Trichostatin A	FBXO10	1
+Trichostatin A	C21orf2	1
+Trichostatin A	EFNA4	1
+Trichostatin A	PAOX	1
+Trichostatin A	SLC7A2	1
+Trichostatin A	AMOTL1	1
+Trichostatin A	ACOT7	1
+Trichostatin A	UBL7	1
+Trichostatin A	KIF5B	1
+Trichostatin A	TARS	1
+Trichostatin A	FUZ	1
+Trichostatin A	ARID1A	1
+Trichostatin A	ACP2	1
+Trichostatin A	NCKIPSD	1
+Trichostatin A	PDLIM4	1
+Trichostatin A	KIAA0907	1
+Trichostatin A	PLOD1	1
+Trichostatin A	SLC25A29	1
+Trichostatin A	C17orf68	1
+Trichostatin A	CSNK1A1	1
+Trichostatin A	SLC9A6	1
+Trichostatin A	HSPA4L	1
+Trichostatin A	RPL28	1
+Trichostatin A	NDUFB4	1
+Trichostatin A	C14orf45	1
+Trichostatin A	SOAT1	1
+Trichostatin A	DCTN3	1
+Trichostatin A	KIF22	1
+Trichostatin A	MAP3K12	1
+Trichostatin A	UBE2T	1
+Trichostatin A	BTD	1
+Trichostatin A	ANKH	1
+Trichostatin A	PIK3R5	1
+Trichostatin A	PRR5	1
+Trichostatin A	CRBN	1
+Trichostatin A	LSMD1	1
+Trichostatin A	MAOA	1
+Trichostatin A	JUP	1
+Trichostatin A	C11orf1	1
+Trichostatin A	KDM1B	1
+Trichostatin A	ACIN1	1
+Trichostatin A	ALDH9A1	1
+Trichostatin A	VGF	1
+Trichostatin A	RPUSD2	1
+Trichostatin A	ANKS1A	1
+Trichostatin A	ARHGAP18	1
+Trichostatin A	RBMXL1	1
+Trichostatin A	SYNE2	1
+Trichostatin A	RNF13	1
+Trichostatin A	DCP2	1
+Trichostatin A	SLC35A3	1
+Trichostatin A	LASS1	1
+Trichostatin A	S100A4	1
+Trichostatin A	SMAP1	1
+Trichostatin A	SIX5	1
+Trichostatin A	GTPBP10	1
+Trichostatin A	TSSC4	1
+Trichostatin A	TMEM189	1
+Trichostatin A	LRRC28	1
+Trichostatin A	PLD6	1
+Trichostatin A	SYNJ1	1
+Trichostatin A	EXOSC7	1
+Trichostatin A	STK38L	1
+Trichostatin A	TSPAN3	1
+Trichostatin A	GRHL1	1
+Trichostatin A	EXOC8	1
+Trichostatin A	SCG2	1
+Trichostatin A	PI15	1
+Trichostatin A	UPK3A	1
+Trichostatin A	ADCK2	1
+Trichostatin A	TUBGCP5	1
+Trichostatin A	SLC23A3	1
+Trichostatin A	ZNF425	1
+Trichostatin A	CDK2	1
+Trichostatin A	EEF2K	1
+Trichostatin A	CAB39	1
+Trichostatin A	ARL1	1
+Trichostatin A	KIAA0247	1
+Trichostatin A	NPHP3	1
+Trichostatin A	BACH1	1
+Trichostatin A	BDP1	1
+Trichostatin A	FBXO9	1
+Trichostatin A	RBM34	1
+Trichostatin A	PIGA	1
+Trichostatin A	RHEBL1	1
+Trichostatin A	HDGFRP2	1
+Trichostatin A	FAM38B	1
+Trichostatin A	MAF1	1
+Trichostatin A	FSTL3	1
+Trichostatin A	TTBK1	1
+Trichostatin A	CRYBG3	1
+Trichostatin A	C4orf3	1
+Trichostatin A	ACSL1	1
+Trichostatin A	SUN1	1
+Trichostatin A	ACOT13	1
+Trichostatin A	TMEM64	1
+Trichostatin A	EPRS	1
+Trichostatin A	SLC12A6	1
+Trichostatin A	ING4	1
+Trichostatin A	DEPDC6	1
+Trichostatin A	PIK3R3	1
+Trichostatin A	SESN2	1
+Trichostatin A	ADAM8	1
+Trichostatin A	ITCH	1
+Trichostatin A	STK25	1
+Trichostatin A	ETV3	1
+Trichostatin A	KPNA5	1
+Trichostatin A	NUP98	1
+Trichostatin A	MZF1	1
+Trichostatin A	BTG2	1
+Trichostatin A	PLXND1	1
+Trichostatin A	WDR35	1
+Trichostatin A	CD53	1
+Trichostatin A	TPP2	1
+Trichostatin A	MMS19	1
+Trichostatin A	VKORC1	1
+Trichostatin A	RPGRIP1L	1
+Trichostatin A	FAM127A	1
+Trichostatin A	SEMA4D	1
+Trichostatin A	AGPAT6	1
+Trichostatin A	POLR2J2 /// POLR2J3 /// UPK3BL	1
+Trichostatin A	ATP5L	1
+Trichostatin A	RANBP6	1
+Trichostatin A	ACTR10	1
+Trichostatin A	BFAR	1
+Trichostatin A	BCAP31	1
+Trichostatin A	PLA2G12A	1
+Trichostatin A	LCA5	1
+Trichostatin A	STRADA	1
+Trichostatin A	ZP3	1
+Trichostatin A	MYL7	1
+Trichostatin A	FLAD1	1
+Trichostatin A	KREMEN1	1
+Trichostatin A	COL7A1	1
+Trichostatin A	RRAS2	1
+Trichostatin A	TMCO1	1
+Trichostatin A	SPHK2	1
+Trichostatin A	KDM5B	1
+Trichostatin A	GPAM	1
+Trichostatin A	EIF4EBP2	1
+Trichostatin A	SLC25A25	1
+Trichostatin A	C7orf43	1
+Trichostatin A	SUSD3	1
+Trichostatin A	NFE2L3	1
+Trichostatin A	FAM49B	1
+Trichostatin A	C16orf45	1
+Trichostatin A	PARP3	1
+Trichostatin A	SLC38A1	1
+Trichostatin A	BCL10	1
+Trichostatin A	POLG2	1
+Trichostatin A	NR1H3	1
+Trichostatin A	AGFG1	1
+Trichostatin A	FAM185A	1
+Trichostatin A	COASY	1
+Trichostatin A	SH3BP5L	1
+Trichostatin A	WRAP53	1
+Trichostatin A	STIM1	1
+Trichostatin A	NHP2L1	1
+Trichostatin A	DNMT3A	1
+Trichostatin A	WNK4	1
+Trichostatin A	TRIM35	1
+Trichostatin A	BCL9	1
+Trichostatin A	NCBP1	1
+Trichostatin A	NGRN	1
+Trichostatin A	SPATA2	1
+Trichostatin A	TPRG1	1
+Trichostatin A	PTCD1	1
+Trichostatin A	GDE1	1
+Trichostatin A	FZD2	1
+Trichostatin A	C12orf60	1
+Trichostatin A	ZNF434	1
+Trichostatin A	EIF3K	1
+Trichostatin A	PGRMC2	1
+Trichostatin A	SMC6	1
+Trichostatin A	HLTF	1
+Trichostatin A	SOLH	1
+Trichostatin A	TMEM30A	1
+Trichostatin A	DPPA5	1
+Trichostatin A	IL2RG	1
+Trichostatin A	MELK	1
+Trichostatin A	SMPD1	1
+Trichostatin A	FXYD7	1
+Trichostatin A	HSD17B12	1
+Trichostatin A	ATP6V0A1	1
+Trichostatin A	ADCK5	1
+Trichostatin A	ATP5I	1
+Trichostatin A	TFPT	1
+Trichostatin A	ABR	1
+Trichostatin A	KRT5	1
+Trichostatin A	FRY	1
+Trichostatin A	UBLCP1	1
+Trichostatin A	CDS1	1
+Trichostatin A	GNA15	1
+Trichostatin A	TMEM74	1
+Trichostatin A	CFTR	1
+Trichostatin A	MPP1	1
+Trichostatin A	GCOM1 /// GRINL1A	1
+Trichostatin A	VPS13A	1
+Trichostatin A	AKR1A1	1
+Trichostatin A	TSTD1	1
+Trichostatin A	ABI1	1
+Trichostatin A	DDHD1	1
+Trichostatin A	CROT	1
+Trichostatin A	MAPKSP1	1
+Trichostatin A	SAFB	1
+Trichostatin A	TYW1B	1
+Trichostatin A	CCDC34	1
+Trichostatin A	TRPC4AP	1
+Trichostatin A	MTMR4	1
+Trichostatin A	PLEKHB1	1
+Trichostatin A	DYM	1
+Trichostatin A	PDE8A	1
+Trichostatin A	BCKDK	1
+Trichostatin A	GDAP2	1
+Trichostatin A	FAM164A	1
+Trichostatin A	OSBPL3	1
+Trichostatin A	TMEM57	1
+Trichostatin A	C14orf79	1
+Trichostatin A	CD274	1
+Trichostatin A	FAM149B1	1
+Trichostatin A	TLE4	1
+Trichostatin A	MTX2	1
+Trichostatin A	IFI27L2	1
+Trichostatin A	KIF3C	1
+Trichostatin A	MEIS2	1
+Trichostatin A	METRNL	1
+Trichostatin A	C12orf68	1
+Trichostatin A	TYW1 /// TYW1B	1
+Trichostatin A	ZNF160	1
+Trichostatin A	RARS	1
+Trichostatin A	SH3RF2	1
+Trichostatin A	C12orf10	1
+Trichostatin A	HSPA2	1
+Trichostatin A	MLXIP	1
+Trichostatin A	AAMP	1
+Trichostatin A	RBM9	1
+Trichostatin A	DNHD1	1
+Trichostatin A	TRIM2	1
+Trichostatin A	CHD2	1
+Trichostatin A	MGRN1	1
+Trichostatin A	RYR1	1
+Trichostatin A	CCT3	1
+Trichostatin A	KHDRBS3	1
+Trichostatin A	ATF7IP2	1
+Trichostatin A	C16orf48	1
+Trichostatin A	C9orf5	1
+Trichostatin A	GLCE	1
+Trichostatin A	PRR4	1
+Trichostatin A	NOB1	1
+Trichostatin A	H2AFZ	1
+Trichostatin A	KIAA0355	1
+Trichostatin A	CRISPLD2	1
+Trichostatin A	SRP54	1
+Trichostatin A	ATF3	1
+Trichostatin A	THAP2	1
+Trichostatin A	SAMD5	1
+Trichostatin A	PIGU	1
+Trichostatin A	GPR132	1
+Trichostatin A	XCL1 /// XCL2	1
+Trichostatin A	TAF7	1
+Trichostatin A	NUDT2	1
+Trichostatin A	SLC2A14 /// SLC2A3	1
+Trichostatin A	C9orf144B	1
+Trichostatin A	TCEAL3	1
+Trichostatin A	TK2	1
+Trichostatin A	UBE2W	1
+Trichostatin A	FAM104A	1
+Trichostatin A	NKX2-5	1
+Trichostatin A	NCOA4	1
+Trichostatin A	OMA1	1
+Trichostatin A	PEX3	1
+Trichostatin A	NDUFC2	1
+Trichostatin A	STARD7	1
+Trichostatin A	MAPKAPK2	1
+Trichostatin A	WBP2	1
+Trichostatin A	NINJ2	1
+Trichostatin A	MYO1D	1
+Trichostatin A	CCL27	1
+Trichostatin A	ITPKB	1
+Trichostatin A	YIPF4	1
+Trichostatin A	SLC2A13	1
+Trichostatin A	SESN3	1
+Trichostatin A	TRPV1	1
+Trichostatin A	PARP10	1
+Trichostatin A	ILDR1	1
+Trichostatin A	HCFC1	1
+Trichostatin A	RFX5	1
+Trichostatin A	KIF3A	1
+Trichostatin A	GRB7	1
+Trichostatin A	LARS	1
+Trichostatin A	BSG	1
+Trichostatin A	STAP2	1
+Trichostatin A	RAD50	1
+Trichostatin A	TPST2	1
+Trichostatin A	PITPNM1	1
+Trichostatin A	TMEM147	1
+Trichostatin A	YY1	1
+Trichostatin A	C14orf104	1
+Trichostatin A	GLOD4	1
+Trichostatin A	TSNAX	1
+Trichostatin A	RAB3IP	1
+Trichostatin A	ZNF444	1
+Trichostatin A	COMTD1	1
+Trichostatin A	SERTAD4	1
+Trichostatin A	ACAA1	1
+Trichostatin A	GEM	1
+Trichostatin A	FIS1	1
+Trichostatin A	PPPDE2	1
+Trichostatin A	HCCS	1
+Trichostatin A	OSTF1	1
+Trichostatin A	PAFAH1B3	1
+Trichostatin A	LRRC24	1
+Trichostatin A	LONP2	1
+Trichostatin A	TALDO1	1
+Trichostatin A	INPP4A	1
+Trichostatin A	NDUFB8	1
+Trichostatin A	CREB5	1
+Trichostatin A	ARHGAP31	1
+Trichostatin A	SNX1	1
+Trichostatin A	FANCB	1
+Trichostatin A	LMNB1	1
+Trichostatin A	FKBP14	1
+Trichostatin A	NPEPPS	1
+Trichostatin A	DGCR14	1
+Trichostatin A	WDFY3	1
+Trichostatin A	STX17	1
+Trichostatin A	BRE	1
+Trichostatin A	SMYD4	1
+Trichostatin A	HMGCS1	1
+Trichostatin A	LRRC40	1
+Trichostatin A	BMP2K	1
+Trichostatin A	RAB5C	1
+Trichostatin A	C2orf69	1
+Trichostatin A	RPS5	1
+Trichostatin A	USP14	1
+Trichostatin A	C9orf72	1
+Trichostatin A	IFNAR2	1
+Trichostatin A	ERI1	1
+Trichostatin A	NHP2L1 /// SIGMAR1	1
+Trichostatin A	LRP5	1
+Trichostatin A	ACSM3	1
+Trichostatin A	OTUD4	1
+Trichostatin A	LRP1	1
+Trichostatin A	APBB3	1
+Trichostatin A	GSTCD	1
+Trichostatin A	AOC3	1
+Trichostatin A	ATP2B1	1
+Trichostatin A	ZNF414	1
+Trichostatin A	TMCO7	1
+Trichostatin A	C1orf107	1
+Trichostatin A	MTF1	1
+Trichostatin A	MRPL51	1
+Cycloheximide	SDF2L1	1
+Cycloheximide	C6orf62	1
+Cycloheximide	LMNA	1
+Cycloheximide	HSPA5	1
+Cycloheximide	EIF5	1
+Cycloheximide	H1FX	1
+Cycloheximide	AHNAK	1
+Cycloheximide	ESCO2	1
+Cycloheximide	HIRIP3	1
+Cycloheximide	DNAJB11	1
+Cycloheximide	CALR	1
+Cycloheximide	MVD	1
+Cycloheximide	HMSD	1
+Cycloheximide	MANF	1
+Cycloheximide	CRELD2	1
+Cycloheximide	PDIA4	1
+Cycloheximide	C9orf40	1
+Cycloheximide	MCM7	1
+Cycloheximide	C18orf1	1
+Cycloheximide	NSDHL	1
+Cycloheximide	ALAS1	1
+Cycloheximide	ARHGAP20	1
+Cycloheximide	RPL31	1
+Cycloheximide	MYO3B	1
+Cycloheximide	SELL	1
+Cycloheximide	TMEM99	1
+Cycloheximide	SLC17A9	1
+Cycloheximide	C17orf91	1
+Cycloheximide	CCNB1IP1	1
+Cycloheximide	TRA2B	1
+Cycloheximide	HMGCS1	1
+Cycloheximide	SPRR2D	1
+Cycloheximide	NDUFB9	1
+Cycloheximide	SLC7A11	1
+Cycloheximide	AATF	1
+Cycloheximide	HSD17B7	1
+Cycloheximide	WDR59	1
+Cycloheximide	ANKRD37	1
+Cycloheximide	CCL3	1
+Cycloheximide	FBXO9	1
+Cycloheximide	PLSCR3	1
+Cycloheximide	MLLT10 /// PICALM	1
+Cycloheximide	HIST1H4C	1
+Cycloheximide	FDFT1	1
+Cycloheximide	P2RX5	1
+Cycloheximide	NDRG4	1
+Cycloheximide	ITGAE	1
+Cycloheximide	TCF19	1
+Cycloheximide	EIF3L /// LOC340947	1
+Cycloheximide	RACGAP1	1
+Cycloheximide	HIST1H4J /// HIST1H4K	1
+Cycloheximide	UCP2	1
+Cycloheximide	GAD1	1
+Cycloheximide	BTN3A3	1
+Cycloheximide	RPS29	1
+Cycloheximide	ZC3H3	1
+Cycloheximide	KRT17	1
+Cycloheximide	SLC24A3	1
+Cycloheximide	RGS19	1
+Cycloheximide	EFR3B	1
+Cycloheximide	WDR76	1
+Cycloheximide	C10orf119	1
+Cycloheximide	KIF20B	1
+Cycloheximide	PFKM	1
+Cycloheximide	ZNF581	1
+Cycloheximide	HERPUD1	1
+Cycloheximide	RAD51	1
+Cycloheximide	REXO4	1
+Cycloheximide	LSMD1	1
+Cycloheximide	FAM96A	1
+Cycloheximide	CHPT1	1
+Cycloheximide	LCORL	1
+Cycloheximide	CIC	1
+Cycloheximide	PPIB	1
+Cycloheximide	CES2	1
+Cycloheximide	AEBP2	1
+Cycloheximide	XBP1	1
+Cycloheximide	GADD45A	1
+Cycloheximide	CYP1B1	1
+Cycloheximide	B3GNTL1	1
+Cycloheximide	CXCL13	1
+Cycloheximide	PDIA6	1
+Cycloheximide	PDE3B	1
+Cycloheximide	MRPL39	1
+Cycloheximide	DRAM1	1
+Cycloheximide	AICDA	1
+Cycloheximide	NUF2	1
+Cycloheximide	ARHGEF12	1
+Cycloheximide	OSTC	1
+Cycloheximide	RFC2	1
+Cycloheximide	ZNF558	1
+Cycloheximide	AZI2	1
+Cycloheximide	METTL9	1
+Cycloheximide	SAC3D1	1
+Cycloheximide	TXNL4B	1
+Cycloheximide	PBK	1
+Cycloheximide	ITGAL	1
+Cycloheximide	SGOL1	1
+Cycloheximide	POM121	1
+Cycloheximide	UBXN2A	1
+Cycloheximide	MCC	1
+Cycloheximide	SLC22A17	1
+Cycloheximide	ARHGEF9	1
+Cycloheximide	OBFC2A	1
+Cycloheximide	TRIM28	1
+Cycloheximide	ARL5A	1
+Cycloheximide	HNRPDL	1
+Cycloheximide	ZNF557	1
+Cycloheximide	NCRNA00188	1
+Cycloheximide	HAO2	1
+Cycloheximide	SEL1L	1
+Cycloheximide	AURKA	1
+Cycloheximide	CRYBB2	1
+Cycloheximide	PEPD	1
+Cycloheximide	GALR2	1
+Cycloheximide	KIAA1143	1
+Cycloheximide	HOMEZ	1
+Cycloheximide	KIF11	1
+Cycloheximide	FAM108A1 /// FAM108A4	1
+Cycloheximide	LCMT2	1
+Cycloheximide	ZNF692	1
+Cycloheximide	NEK2	1
+Cycloheximide	KIF20A	1
+Cycloheximide	HSPH1	1
+Cycloheximide	LTC4S	1
+Cycloheximide	RGS5	1
+Cycloheximide	SEPX1	1
+Cycloheximide	PCNX	1
+Cycloheximide	DGUOK	1
+Cycloheximide	CCNB2	1
+Cycloheximide	ANLN	1
+Cycloheximide	ARHGDIB	1
+Cycloheximide	LEO1	1
+Cycloheximide	STIM1	1
+Cycloheximide	SPTAN1	1
+Cycloheximide	CREM	1
+Cycloheximide	ISG15	1
+Cycloheximide	SGSM2	1
+Cycloheximide	LDLR	1
+Cycloheximide	DEXI	1
+Cycloheximide	TMEM97	1
+Cycloheximide	AARS	1
+Cycloheximide	TMEM155	1
+Cycloheximide	URB1	1
+Cycloheximide	RSPO4	1
+Cycloheximide	SAT2	1
+Cycloheximide	HIVEP2	1
+Cycloheximide	SF3B2	1
+Cycloheximide	AHSA2	1
+Cycloheximide	ZNF177	1
+Cycloheximide	DDB2	1
+Cycloheximide	FAM120AOS	1
+Cycloheximide	DYRK1B	1
+Cycloheximide	SLC25A6	1
+Cycloheximide	SLC27A2	1
+Cycloheximide	FLAD1	1
+Cycloheximide	MICB	1
+Cycloheximide	EN1	1
+Cycloheximide	THUMPD3	1
+Cycloheximide	OS9	1
+Cycloheximide	MKI67	1
+Cycloheximide	MRPL37	1
+Cycloheximide	RALGAPA2	1
+Cycloheximide	GTSE1	1
+Cycloheximide	CYB561	1
+Cycloheximide	SPRYD4	1
+Cycloheximide	NPC2	1
+Cycloheximide	EIF3L	1
+Cycloheximide	CYTH4	1
+Cycloheximide	PCOLCE	1
+Cycloheximide	CCDC28B	1
+Cycloheximide	ACAT2	1
+Cycloheximide	MAPK11	1
+Cycloheximide	LILRA6	1
+Cycloheximide	PABPC1L	1
+Cycloheximide	ANXA8 /// ANXA8L1 /// ANXA8L2	1
+Cycloheximide	CKAP2L	1
+Cycloheximide	C13orf34	1
+Cycloheximide	CST8	1
+Cycloheximide	HIVEP3	1
+Cycloheximide	CPSF3	1
+Cycloheximide	TRUB2	1
+Cycloheximide	TTC30A	1
+Cycloheximide	POLA2	1
+Cycloheximide	LOC339047	1
+Cycloheximide	GPN3	1
+Cycloheximide	CPT1A	1
+Cycloheximide	BCL2L11	1
+Cycloheximide	ZNF644	1
+Cycloheximide	UBE2I	1
+Cycloheximide	LRDD	1
+Cycloheximide	CDKN3	1
+Cycloheximide	SRCAP	1
+Cycloheximide	WDR70	1
+Cycloheximide	XPOT	1
+Cycloheximide	SUOX	1
+Cycloheximide	CPT1C	1
+Cycloheximide	EIF3E	1
+Cycloheximide	PSMB9	1
+Cycloheximide	NOTCH2 /// NOTCH2NL	1
+Cycloheximide	MTSS1	1
+Cycloheximide	MEIS1	1
+Cycloheximide	FBXO5	1
+Cycloheximide	CHEK1	1
+Cycloheximide	C1orf107	1
+Cycloheximide	CEP110	1
+Cycloheximide	APOD	1
+Cycloheximide	NOL3	1
+Cycloheximide	NBPF3	1
+Cycloheximide	CLDN12 /// GTPBP10	1
+Cycloheximide	RRN3	1
+Cycloheximide	SIRT5	1
+Cycloheximide	RPUSD4	1
+Cycloheximide	SHOC2	1
+Cycloheximide	QPRT	1
+Cycloheximide	CDKAL1	1
+Cycloheximide	KIAA1310	1
+Cycloheximide	NASP	1
+Cycloheximide	LHFPL3	1
+Cycloheximide	KIF3B	1
+Cycloheximide	LRRC59	1
+Cycloheximide	DDX39	1
+Cycloheximide	RNASET2	1
+Cycloheximide	ZDHHC8	1
+Cycloheximide	C6orf226	1
+Cycloheximide	TMEM149	1
+Cycloheximide	EML1	1
+Cycloheximide	SMC4	1
+Cycloheximide	SPHK2	1
+Cycloheximide	DAP	1
+Cycloheximide	ADAT1	1
+Cycloheximide	IRF7	1
+Cycloheximide	SPCS3	1
+Cycloheximide	SLC26A6	1
+Cycloheximide	ASNS	1
+Cycloheximide	PDIA5	1
+Cycloheximide	PAQR8	1
+Cycloheximide	FAM102B	1
+Cycloheximide	BBS12	1
+Cycloheximide	MVK	1
+Cycloheximide	DUSP1	1
+Cycloheximide	HSPA1B	1
+Cycloheximide	NUDCD1	1
+Cycloheximide	CUZD1	1
+Cycloheximide	ATAD2	1
+Cycloheximide	L3MBTL2	1
+Cycloheximide	TBL3	1
+Cycloheximide	ABCB6 /// ATG9A	1
+Cycloheximide	ZNF44	1
+Cycloheximide	PRKACB	1
+Cycloheximide	HLA-DRB1 /// HLA-DRB3 /// HLA-DRB4 /// HLA-DRB5	1
+Cycloheximide	TMEM150A	1
+Cycloheximide	SPG21	1
+Cycloheximide	TOP3B	1
+Cycloheximide	ZNF23	1
+Cycloheximide	DNAJC10	1
+Cycloheximide	MFAP3	1
+Cycloheximide	L1CAM	1
+Cycloheximide	P2RY11	1
+Cycloheximide	ZFP64	1
+Cycloheximide	FAM83H	1
+Cycloheximide	SLFN12	1
+Cycloheximide	DUT	1
+Cycloheximide	ZNF706	1
+Cycloheximide	LSM14A	1
+Cycloheximide	SGK1	1
+Cycloheximide	DTL	1
+Cycloheximide	TLN2	1
+Cycloheximide	SLC35E2	1
+Cycloheximide	ACTN1	1
+Cycloheximide	NEDD4L	1
+Cycloheximide	STAT1	1
+Cycloheximide	DCK	1
+Cycloheximide	CD97	1
+Cycloheximide	C1orf122	1
+Cycloheximide	TOP3A	1
+Cycloheximide	ULBP2	1
+Cycloheximide	SCFD2	1
+Cycloheximide	FAF1	1
+Cycloheximide	HIST2H2BE	1
+Cycloheximide	KIF23	1
+Cycloheximide	WBP4	1
+Cycloheximide	RELA	1
+Cycloheximide	CEP68	1
+Cycloheximide	HNRNPH3	1
+Cycloheximide	PXMP2	1
+Cycloheximide	PYCR1	1
+Cycloheximide	GLTSCR2	1
+Cycloheximide	NINJ2	1
+Cycloheximide	NFAT5	1
+Cycloheximide	C9orf156	1
+Cycloheximide	C9orf144 /// C9orf144B	1
+Cycloheximide	EXOC6	1
+Cycloheximide	EDEM2	1
+Cycloheximide	PNPLA6	1
+Cycloheximide	C11orf1	1
+Cycloheximide	PRDM10	1
+Cycloheximide	PDCD2	1
+Cycloheximide	PSMD2	1
+Cycloheximide	AGPHD1	1
+Cycloheximide	NETO2	1
+Cycloheximide	PPP2CA	1
+Cycloheximide	C9orf3	1
+Cycloheximide	ACSM3	1
+Cycloheximide	NUDT16L1	1
+Cycloheximide	PLAU	1
+Cycloheximide	CANT1	1
+Cycloheximide	BAT1	1
+Cycloheximide	UHRF1BP1	1
+Cycloheximide	C16orf57	1
+Cycloheximide	CD55	1
+Cycloheximide	C11orf58	1
+Cycloheximide	SCARF1	1
+Cycloheximide	ZYX	1
+Cycloheximide	DCPS	1
+Cycloheximide	CHST2	1
+Cycloheximide	RAE1	1
+Mitomycin	DDB2	1
+Mitomycin	PLAU	1
+Mitomycin	CDC20	1
+Mitomycin	CDKN1A	1
+Mitomycin	OTP	1
+Mitomycin	PRICKLE3	1
+Mitomycin	GAS2L3	1
+Mitomycin	FDXR	1
+Mitomycin	RAD51	1
+Mitomycin	FAS	1
+Mitomycin	PHLDA3	1
+Mitomycin	SULF2	1
+Mitomycin	IKBIP	1
+Mitomycin	SESN2	1
+Mitomycin	LRDD	1
+Mitomycin	TRIAP1	1
+Mitomycin	PLCL2	1
+Mitomycin	ESCO2	1
+Mitomycin	CYFIP2	1
+Mitomycin	TRIM22	1
+Mitomycin	RRM2B	1
+Mitomycin	MYBL1	1
+Mitomycin	NEURL1B	1
+Mitomycin	SDF2L1	1
+Mitomycin	KIF20A	1
+Mitomycin	FBXO22	1
+Mitomycin	CYP1B1	1
+Mitomycin	LSM11	1
+Mitomycin	CLDN1	1
+Mitomycin	TRANK1	1
+Mitomycin	SAC3D1	1
+Mitomycin	PRR5	1
+Mitomycin	LSS	1
+Mitomycin	PPP2R2B	1
+Mitomycin	APOBEC3B	1
+Mitomycin	SESN1	1
+Mitomycin	BMP1	1
+Mitomycin	DTL	1
+Mitomycin	THAP10	1
+Mitomycin	LCE1C	1
+Mitomycin	PIGM	1
+Mitomycin	LIG1	1
+Mitomycin	POLQ	1
+Mitomycin	BZRAP1	1
+Mitomycin	SERF1A /// SERF1B	1
+Mitomycin	MAMDC4	1
+Mitomycin	RAD51C	1
+Mitomycin	SLC4A3	1
+Mitomycin	LMX1B	1
+Mitomycin	ALG10B	1
+Mitomycin	DPF1	1
+Mitomycin	ID3	1
+Mitomycin	C20orf72	1
+Mitomycin	TNFSF9	1
+Mitomycin	BPNT1	1
+Mitomycin	ARHGAP20	1
+Mitomycin	HSPA5	1
+Mitomycin	EXO1	1
+Mitomycin	TMEM194B	1
+Mitomycin	PTTG1 /// PTTG3P	1
+Mitomycin	C19orf48	1
+Mitomycin	POMZP3 /// ZP3	1
+Mitomycin	AP1M2	1
+Mitomycin	ALAD	1
+Mitomycin	CDCA5	1
+Mitomycin	FLVCR2	1
+Mitomycin	TYMS	1
+Mitomycin	HIST1H2BM	1
+Mitomycin	RAD54L	1
+Mitomycin	CCDC150	1
+Mitomycin	MCC	1
+Mitomycin	PPIF	1
+Mitomycin	WDSUB1	1
+Mitomycin	PRKAB1	1
+Mitomycin	ZNF181 /// ZNF302	1
+Mitomycin	MOV10L1	1
+Mitomycin	INPP1	1
+Mitomycin	NLN	1
+Mitomycin	ATAD2	1
+Mitomycin	ADRB2	1
+Mitomycin	TAX1BP3	1
+Mitomycin	DTX3L	1
+Mitomycin	BCL9L	1
+Mitomycin	ZNF653	1
+Mitomycin	POLH	1
+Mitomycin	SLC22A4	1
+Mitomycin	DSCC1	1
+Mitomycin	ZNF2	1
+Mitomycin	MAP4K4	1
+Mitomycin	GNA15	1
+Mitomycin	TNFRSF10B	1
+Mitomycin	C12orf5	1
+Mitomycin	CCNE2	1
+Mitomycin	SIK1	1
+Mitomycin	EFR3B	1
+Mitomycin	GADD45A	1
+Mitomycin	ASPHD2	1
+Mitomycin	C1orf135	1
+Mitomycin	C1orf183	1
+Mitomycin	FBXL7	1
+Mitomycin	CCR8	1
+Mitomycin	PDK3	1
+Mitomycin	TP53INP1	1
+Mitomycin	RAD54B	1
+Mitomycin	TMEM106A	1
+Mitomycin	DRAM1	1
+Mitomycin	RDH14	1
+Mitomycin	CCL14-CCL15 /// CCL15	1
+Mitomycin	HERPUD1	1
+Mitomycin	TM7SF3	1
+Mitomycin	VLDLR	1
+Mitomycin	ATF3	1
+Mitomycin	TTC9B	1
+Mitomycin	ACER3	1
+Mitomycin	SAMD9L	1
+Mitomycin	POLD3	1
+Mitomycin	D4S234E /// FOXP1	1
+Mitomycin	GPN3	1
+Mitomycin	IER5	1
+Mitomycin	C19orf40	1
+Mitomycin	C11orf86	1
+Mitomycin	PLAGL2	1
+Mitomycin	C18orf19	1
+Mitomycin	ARHGEF15	1
+Mitomycin	XRCC3	1
+Mitomycin	ZFP36L1	1
+Mitomycin	CD40	1
+Mitomycin	PARP3	1
+Mitomycin	NLRX1	1
+Mitomycin	C20orf112	1
+Mitomycin	FANCI	1
+Mitomycin	ACTB	1
+Mitomycin	HOOK3	1
+Mitomycin	UNCX	1
+Mitomycin	FAT2	1
+Mitomycin	GANC	1
+Mitomycin	ZNF425	1
+Mitomycin	WDR34	1
+Mitomycin	PVRL4	1
+Mitomycin	GPX1	1
+Mitomycin	KIAA0101	1
+Mitomycin	PRNP	1
+Mitomycin	CITED2	1
+Mitomycin	PYGO2	1
+Mitomycin	FLJ23867 /// QSOX1	1
+Mitomycin	PLIN4	1
+Mitomycin	NUDT7	1
+Mitomycin	C19orf45	1
+Mitomycin	LHB	1
+Mitomycin	PAOX	1
+Mitomycin	TOR1A	1
+Mitomycin	NTN1	1
+Mitomycin	IER3	1
+Mitomycin	NPVF	1
+Mitomycin	TMPRSS3	1
+Mitomycin	ZNF79	1
+Mitomycin	AKR1C3	1
+Mitomycin	AMZ2	1
+Mitomycin	KCNG4	1
+Mitomycin	ZNF564	1
+Mitomycin	SLC2A1	1
+Mitomycin	KIF26A	1
+Mitomycin	UBE2S	1
+Mitomycin	DLG3	1
+Mitomycin	SCD5	1
+Mitomycin	OR10H1 /// OR10H5	1
+Mitomycin	C16orf87	1
+Mitomycin	RPRD2	1
+Mitomycin	C5orf35	1
+Mitomycin	MORC4	1
+Mitomycin	PLK1	1
+Mitomycin	FAM108B1	1
+Mitomycin	EME1	1
+Mitomycin	NUP43	1
+Mitomycin	SRR	1
+Mitomycin	E2F8	1
+Mitomycin	KRT17	1
+Mitomycin	HMGB4	1
+Mitomycin	FRAT2	1
+Mitomycin	CHRNA5	1
+Mitomycin	KIAA0467	1
+Mitomycin	KLHDC8B	1
+Mitomycin	SKA1	1
+Mitomycin	SYNJ2BP	1
+Mitomycin	GAS2L1	1
+Mitomycin	TMCC3	1
+Mitomycin	PGLYRP1	1
+Mitomycin	BRCA1	1
+Mitomycin	AMDHD1	1
+Mitomycin	TCF19	1
+Mitomycin	PHPT1	1
+Mitomycin	KIF5A	1
+Mitomycin	USP35	1
+Mitomycin	NAA16	1
+Mitomycin	NSD1	1
+Mitomycin	SP7	1
+Mitomycin	SFXN1	1
+Mitomycin	C3orf79	1
+Mitomycin	PLK4	1
+Mitomycin	ZNF282	1
+Mitomycin	DVL2	1
+Mitomycin	ZNF772	1
+Mitomycin	TK1	1
+Mitomycin	ATF6B	1
+Mitomycin	KIAA0513	1
+Mitomycin	DPPA5	1
+Mitomycin	SOCS6	1
+Mitomycin	NCAPD3	1
+Mitomycin	C15orf62	1
+Mitomycin	SERTAD1	1
+Mitomycin	CCDC136	1
+Mitomycin	FOSB	1
+Mitomycin	CENPM	1
+Mitomycin	ANKH	1
+Mitomycin	HIRIP3	1
+Mitomycin	CD24	1
+Mitomycin	RYR1	1
+Mitomycin	CUZD1	1
+Mitomycin	POLR2D	1
+Mitomycin	C14orf4	1
+Mitomycin	SELL	1
+Mitomycin	IRAK3	1
+Mitomycin	C5orf46	1
+Mitomycin	C1orf223	1
+Mitomycin	FAM47B	1
+Mitomycin	PLEKHG6	1
+Mitomycin	C10orf10	1
+Mitomycin	OR2A14	1
+Mitomycin	HES6	1
+Mitomycin	IGSF1	1
+Mitomycin	CCDC22	1
+Mitomycin	DNAJB11	1
+Mitomycin	GLYCTK	1
+Mitomycin	UBIAD1	1
+Mitomycin	DHX58	1
+Mitomycin	ASCC3	1
+Mitomycin	ZWILCH	1
+Mitomycin	ZDHHC2	1
+Mitomycin	ZKSCAN3	1
+Mitomycin	LBH	1
+Mitomycin	TFEB	1
+Mitomycin	DCP2	1
+Mitomycin	STIL	1
+Mitomycin	CDC25A	1
+Mitomycin	GCOM1 /// GRINL1A	1
+Mitomycin	PRIM1	1
+Etoposide	LCE1C	1
+Etoposide	SULF2	1
+Etoposide	CDC20	1
+Etoposide	OTP	1
+Etoposide	CDKN1A	1
+Etoposide	DDB2	1
+Etoposide	FDXR	1
+Etoposide	EGR4	1
+Etoposide	PHLDA3	1
+Etoposide	ZNF79	1
+Etoposide	CEL	1
+Etoposide	GADD45A	1
+Etoposide	SESN2	1
+Etoposide	FAS	1
+Etoposide	RRM2B	1
+Etoposide	TRIAP1	1
+Etoposide	TRIM22	1
+Etoposide	TRAF4	1
+Etoposide	CYFIP2	1
+Etoposide	SEMA4B	1
+Etoposide	PVRL4	1
+Etoposide	IER3	1
+Etoposide	ZFP36L1	1
+Etoposide	PLAU	1
+Etoposide	ANXA4	1
+Etoposide	KLF4	1
+Etoposide	GAS2L3	1
+Etoposide	YPEL3	1
+Etoposide	LSS	1
+Etoposide	KIF20A	1
+Etoposide	C1orf183	1
+Etoposide	INPP1	1
+Etoposide	NEURL1B	1
+Etoposide	SAC3D1	1
+Etoposide	UBE2C	1
+Etoposide	EPHA2	1
+Etoposide	PLK1	1
+Etoposide	PRKX	1
+Etoposide	IKBIP	1
+Etoposide	DSCAML1	1
+Etoposide	C12orf5	1
+Etoposide	SAT2	1
+Etoposide	KIAA0247	1
+Etoposide	TNFSF9	1
+Etoposide	FBXO22	1
+Etoposide	SDC1	1
+Etoposide	CYP1B1	1
+Etoposide	DRAM1	1
+Etoposide	SERTAD1	1
+Etoposide	C12orf45	1
+Etoposide	LRDD	1
+Etoposide	XPC	1
+Etoposide	JUN	1
+Etoposide	MICALL1	1
+Etoposide	ABHD4	1
+Etoposide	ATF3	1
+Etoposide	CCNB2	1
+Etoposide	PHPT1	1
+Etoposide	CCNB1	1
+Etoposide	IMPA2	1
+Etoposide	TMCC3	1
+Etoposide	AURKA	1
+Etoposide	CITED2	1
+Etoposide	C14orf4	1
+Etoposide	ACTA2	1
+Etoposide	CCNA2	1
+Etoposide	PTTG1 /// PTTG3P	1
+Etoposide	BIRC5	1
+Etoposide	BIN1	1
+Etoposide	HIVEP2	1
+Etoposide	CDKN3	1
+Etoposide	SESN1	1
+Etoposide	FAM83H	1
+Etoposide	UBE2S	1
+Etoposide	ZSCAN16	1
+Etoposide	EI24	1
+Etoposide	ZNF551	1
+Etoposide	RAD51C	1
+Etoposide	HIPK2	1
+Etoposide	UNG	1
+Etoposide	HMMR	1
+Etoposide	ADAMTS1	1
+Etoposide	ZFP90	1
+Etoposide	ARID3A	1
+Etoposide	MAMDC4	1
+Etoposide	C19orf36	1
+Etoposide	MDM2	1
+Etoposide	CLDN1	1
+Etoposide	TNFSF4	1
+Etoposide	ANLN	1
+Etoposide	D4S234E /// FOXP1	1
+Etoposide	GNA15	1
+Etoposide	CYTIP	1
+Etoposide	TMEM25	1
+Etoposide	ABLIM1	1
+Etoposide	SDF2L1	1
+Etoposide	POLH	1
+Etoposide	HAGHL	1
+Etoposide	ZNF136	1
+Etoposide	C6orf48	1
+Etoposide	ALKBH8	1
+Etoposide	PERP	1
+Etoposide	HSPA5	1
+Etoposide	STARD8	1
+Etoposide	PLCXD1	1
+Etoposide	DUT	1
+Etoposide	DEPDC1	1
+Etoposide	NUCB2	1
+Etoposide	PRC1	1
+Etoposide	ZNF441	1
+Etoposide	DLGAP5	1
+Etoposide	PHGDH	1
+Etoposide	HSPE1	1
+Etoposide	PLIN4	1
+Etoposide	DUSP5	1
+Etoposide	PRKAB1	1
+Etoposide	KIF2C	1
+Etoposide	PVRL1	1
+Etoposide	TNFAIP3	1
+Etoposide	CCL3	1
+Etoposide	STX5	1
+Etoposide	KRT17	1
+Etoposide	ASCC3	1
+Etoposide	NINJ1	1
+Etoposide	TYMS	1
+Etoposide	TANC1	1
+Etoposide	BUB1B	1
+Etoposide	APOBEC3C	1
+Etoposide	SMAD7	1
+Etoposide	SLC4A3	1
+Etoposide	TICAM1	1
+Etoposide	KBTBD6	1
+Etoposide	TNFRSF10B	1
+Etoposide	BTN1A1	1
+Etoposide	CCDC150	1
+Etoposide	C10orf107	1
+Etoposide	PREPL	1
+Etoposide	RNF19B	1
+Etoposide	ZNF302	1
+Etoposide	RPTOR	1
+Etoposide	LAP3	1
+Etoposide	ZNF585A /// ZNF585B	1
+Etoposide	FAF1	1
+Etoposide	SIK1	1
+Etoposide	MCM6	1
+Etoposide	STAC	1
+Etoposide	CD97	1
+Etoposide	UHRF1	1
+Etoposide	LIG1	1
+Etoposide	FAM172A	1
+Etoposide	KCTD15	1
+Etoposide	STX6	1
+Etoposide	KIF14	1
+Etoposide	ATP4A	1
+Etoposide	KIF11	1
+Etoposide	GPR1	1
+Etoposide	ILF3	1
+Etoposide	PPP2R2B	1
+Etoposide	SHANK3	1
+Etoposide	TCF3	1
+Etoposide	CDKL3	1
+Etoposide	PTGER4	1
+Etoposide	DACT3	1
+Etoposide	TOP2A	1
+Etoposide	FMN2	1
+Etoposide	CYP46A1	1
+Etoposide	KIF18A	1
+Etoposide	TRIM32	1
+Etoposide	TJP2	1
+Etoposide	INCENP	1
+Etoposide	FOS	1
+Etoposide	PTP4A1	1
+Etoposide	HMSD	1
+Etoposide	FILIP1	1
+Etoposide	IRF1	1
+Etoposide	CDK9	1
+Etoposide	HYAL2	1
+Etoposide	CBX3	1
+Etoposide	RTN4IP1	1
+Etoposide	SNX33	1
+Etoposide	CNDP1	1
+Etoposide	ATP1A1	1
+Etoposide	GOLGA6L4 /// PML	1
+Etoposide	GRIK1	1
+Blebbistatin	KLK15	1
+Blebbistatin	DUSP21	1
+Blebbistatin	KRTAP20-2	1
+Blebbistatin	MAGEB18	1
+Blebbistatin	FAM151A	1
+Blebbistatin	BTN1A1	1
+Blebbistatin	ZNF354C	1
+Blebbistatin	PIGO	1
+Blebbistatin	C12orf39	1
+Blebbistatin	OAS1	1
+Blebbistatin	TCEAL7	1
+Blebbistatin	EPB49	1
+Blebbistatin	MID1IP1	1
+Blebbistatin	ARHGAP18	1
+Blebbistatin	CEACAM1	1
+Blebbistatin	MAT2A	1
+Blebbistatin	SPRED2	1
+Blebbistatin	NLK	1
+Blebbistatin	MON1A	1
+Blebbistatin	NR2F1	1
+Blebbistatin	C16orf79	1
+Blebbistatin	IFT57	1
+Blebbistatin	DDX6	1
+Blebbistatin	LOC646517 /// WTAP	1
+Blebbistatin	CDC42EP1	1
+Blebbistatin	C9orf128	1
+Blebbistatin	WDR59	1
+Blebbistatin	TSSK6	1
+Blebbistatin	HHEX	1
+Blebbistatin	MYOM2	1
+Blebbistatin	DFNB31	1
+Blebbistatin	NUP160	1
+Blebbistatin	HSFY1 /// HSFY2	1
+Blebbistatin	EPB41L4B	1
+Blebbistatin	GXYLT2	1
+Blebbistatin	IGFBP5	1
+Blebbistatin	MT4	1
+Blebbistatin	GPR162	1
+Blebbistatin	BARHL1	1
+Blebbistatin	FAM160A2	1
+Blebbistatin	PABPC3	1
+Blebbistatin	POLG2	1
+Blebbistatin	SCG2	1
+Blebbistatin	ACR /// LOC645529	1
+Blebbistatin	C16orf11	1
+Blebbistatin	PAX2	1
+Blebbistatin	NTN3	1
+Blebbistatin	RIC8A	1
+Blebbistatin	AP3B1	1
+Blebbistatin	CNNM3	1
+Blebbistatin	NCK1	1
+Blebbistatin	GIGYF2	1
+Blebbistatin	TMEM150C	1
+Blebbistatin	CRLF1	1
+Blebbistatin	CFL2	1
+Blebbistatin	CCS	1
+Blebbistatin	CYP2B6 /// CYP2B7P1	1
+Blebbistatin	TRAPPC6A	1
+Blebbistatin	KDM5D	1
+Blebbistatin	FAM20C	1
+Blebbistatin	UBXN1	1
+Blebbistatin	HEATR2	1
+Blebbistatin	CA14	1
+Blebbistatin	CFI	1
+Blebbistatin	DPM3	1
+Blebbistatin	OPTC	1
+Blebbistatin	KLF7	1
+Blebbistatin	GDAP2	1
+Blebbistatin	EYA1	1
+Blebbistatin	P2RY13	1
+Blebbistatin	SLC17A9	1
+Blebbistatin	SEC23IP	1
+Blebbistatin	NMNAT1	1
+Blebbistatin	IL7	1
+Blebbistatin	BIRC8	1
+Blebbistatin	NMT1	1
+Blebbistatin	ZNF711	1
+Blebbistatin	PLLP	1
+Blebbistatin	EARS2	1
+Blebbistatin	SPINK8	1
+Blebbistatin	LMOD1	1
+Blebbistatin	IGFL3	1
+Blebbistatin	CD59	1
+Blebbistatin	ARFIP1	1
+Blebbistatin	C10orf122	1
+Blebbistatin	ZNF391	1
+Blebbistatin	PAPPA	1
+Blebbistatin	TMEM43	1
+Blebbistatin	PAPOLG	1
+Blebbistatin	C9orf144B	1
+Blebbistatin	HS3ST1	1
+Blebbistatin	DGKA	1
+Blebbistatin	GAD2	1
+Blebbistatin	SLAMF7	1
+Blebbistatin	C1orf87	1
+Blebbistatin	HINFP	1
+Blebbistatin	P2RX5	1
+Blebbistatin	NCLN	1
+Blebbistatin	FAM24B	1
+Blebbistatin	TAS2R1	1
+Blebbistatin	RPE	1
+Blebbistatin	ZNF764	1
+Blebbistatin	MYL7	1
+Blebbistatin	CDK16	1
+Blebbistatin	ZCCHC5	1
+Blebbistatin	WDR19	1
+Blebbistatin	HIGD1A	1
+Blebbistatin	ISCA1	1
+Blebbistatin	C12orf59	1
+Blebbistatin	CISH	1
+Blebbistatin	CEP97	1
+Blebbistatin	YTHDF3	1
+Blebbistatin	PLCXD3	1
+Blebbistatin	CHRM3	1
+Blebbistatin	CACNB4	1
+Blebbistatin	MOGS	1
+Blebbistatin	TMEM50B	1
+Blebbistatin	FBXL7	1
+Blebbistatin	ORC2L	1
+Blebbistatin	FDX1L	1
+Blebbistatin	FAM190B	1
+Blebbistatin	MCOLN2	1
+Blebbistatin	MYO19	1
+Blebbistatin	CCDC83	1
+Blebbistatin	IL1A	1
+Blebbistatin	MIA	1
+Blebbistatin	MORN2	1
+Blebbistatin	SON	1
+Blebbistatin	SUPT4H1	1
+Blebbistatin	MYH7B	1
+Blebbistatin	BMX	1
+Blebbistatin	SCAMP1	1
+Blebbistatin	ZNF557	1
+Blebbistatin	IGHMBP2	1
+Blebbistatin	CRYBA4	1
+Blebbistatin	WDR90	1
+Blebbistatin	RAB5A	1
+Blebbistatin	ACAP1	1
+Blebbistatin	CHIA	1
+Blebbistatin	PTK2B	1
+Blebbistatin	DNAJC10	1
+Blebbistatin	DSG2	1
+Blebbistatin	CC2D1A	1
+Blebbistatin	SIRPA	1
+Blebbistatin	MAP3K8	1
+Blebbistatin	STK39	1
+Blebbistatin	AGAP4	1
+Blebbistatin	FAM173A	1
+Blebbistatin	BTK	1
+Blebbistatin	CSNK1G2	1
+Blebbistatin	FBXO36	1
+Blebbistatin	TIGD2	1
+Blebbistatin	SLITRK1	1
+Blebbistatin	EGR2	1
+Blebbistatin	DDX51	1
+Blebbistatin	FBXO45	1
+Blebbistatin	ARGLU1	1
+Blebbistatin	NIPBL	1
+Blebbistatin	SMC5	1
+Blebbistatin	SRRM1	1
+Blebbistatin	CYB561	1
+Blebbistatin	CASP3	1
+Blebbistatin	CYP1B1	1
+Blebbistatin	PPP2R5D	1
+Blebbistatin	IRF4	1
+Blebbistatin	UBIAD1	1
+Blebbistatin	RNF219	1
+Blebbistatin	VIT	1
+Blebbistatin	OR10H2	1
+Blebbistatin	ZFAND6	1
+Blebbistatin	DEFA1 /// DEFA1B /// DEFA3	1
+Blebbistatin	ATL1	1
+Blebbistatin	ABT1	1
+Blebbistatin	UBE2D4	1
+Blebbistatin	GFOD2	1
+Blebbistatin	NID2	1
+Blebbistatin	NSF	1
+Blebbistatin	LSM12	1
+Blebbistatin	ACTR5	1
+Blebbistatin	TMEM201	1
+Blebbistatin	PRDM10	1
+Blebbistatin	TJP2	1
+Blebbistatin	PCDH11X /// PCDH11Y	1
+Blebbistatin	SLC44A5	1
+Blebbistatin	SPRYD4	1
+Blebbistatin	KIAA0652	1
+Blebbistatin	TMEM167B	1
+Blebbistatin	NCBP2	1
+Blebbistatin	MYL9	1
+Blebbistatin	IL5RA	1
+Blebbistatin	SLC25A17	1
+Blebbistatin	SCO1	1
+Blebbistatin	VPS37B	1
+Blebbistatin	IGF2R	1
+Blebbistatin	BCL6B	1
+Blebbistatin	CMTM1	1
+Blebbistatin	RUNDC1	1
+Blebbistatin	DAZ1 /// DAZ2 /// DAZ3 /// DAZ4	1
+Blebbistatin	IL1R1	1
+Blebbistatin	PDCD2L	1
+Blebbistatin	C9orf156	1
+Blebbistatin	MPPED1	1
+Blebbistatin	TRAF4	1
+Blebbistatin	C17orf75	1
+Blebbistatin	ZNF544	1
+Blebbistatin	MRPS10	1
+Blebbistatin	C1orf131	1
+Blebbistatin	GALNT3	1
+Blebbistatin	RBM15B	1
+Blebbistatin	C17orf90	1
+Blebbistatin	PRPH	1
+Blebbistatin	PRMT3	1
+Blebbistatin	RHCG	1
+Blebbistatin	BTN3A3	1
+Blebbistatin	RGL2	1
+Blebbistatin	MPV17L2	1
+Blebbistatin	NFATC1	1
+Blebbistatin	TNFAIP8L3	1
+Blebbistatin	AKD1	1
+Blebbistatin	COL17A1	1
+Blebbistatin	MYNN	1
+Blebbistatin	TMX1	1
+Blebbistatin	FAM9A	1
+Blebbistatin	ZNF417	1
+Blebbistatin	CGB1 /// CGB2	1
+Blebbistatin	TXNL4B	1
+Blebbistatin	LSP1	1
+Blebbistatin	NUDT3	1
+Blebbistatin	GUCY1B3	1
+Blebbistatin	TPP1	1
+Blebbistatin	ARVCF	1
+Blebbistatin	TRPM6	1
+Blebbistatin	GTF2IRD2 /// GTF2IRD2B	1
+Blebbistatin	PGBD3	1
+Blebbistatin	CARD11	1
+Blebbistatin	FUNDC1	1
+Blebbistatin	DPAGT1	1
+Blebbistatin	ZNF444	1
+Blebbistatin	FAM159A	1
+Blebbistatin	NUP98	1
+Blebbistatin	TREML4	1
+Blebbistatin	WWP1	1
+Blebbistatin	ATAD3A /// ATAD3B /// LOC732419	1
+Blebbistatin	Septin 1	1
+Blebbistatin	ZFYVE1	1
+Blebbistatin	PSMG1	1
+Blebbistatin	SYN2	1
+Blebbistatin	BCAS3	1
+Blebbistatin	DAPL1	1
+Blebbistatin	NEK1	1
+Blebbistatin	SPATA12	1
+Blebbistatin	ST6GAL2	1
+Blebbistatin	NPM3	1
+Blebbistatin	WDR55	1
+Blebbistatin	POLR1C	1
+Blebbistatin	BACE1	1
+Blebbistatin	MBOAT7	1
+Blebbistatin	MTPAP	1
+Blebbistatin	AKIRIN2	1
+Blebbistatin	JARID2	1
+Blebbistatin	LETM1	1
+Blebbistatin	ZFPM2	1
+Blebbistatin	TSEN54	1
+Blebbistatin	AHRR	1
+Blebbistatin	DKK1	1
+Blebbistatin	RAB12	1
+Blebbistatin	PLAC9	1
+Blebbistatin	ZNF189	1
+Blebbistatin	CCDC21	1
+Blebbistatin	PDYN	1
+Blebbistatin	ENAM	1
+Blebbistatin	ELF1	1
+Blebbistatin	RTN4IP1	1
+Blebbistatin	PBX4	1
+Blebbistatin	ABCC2	1
+Blebbistatin	ZBTB42	1
+Blebbistatin	ILF3	1
+Blebbistatin	LOC401127 /// WDR5	1
+Blebbistatin	TNFRSF10D	1
+Blebbistatin	SDSL	1
+Blebbistatin	ZNF263	1
+Blebbistatin	ANAPC13	1
+Blebbistatin	SERPINB7	1
+Blebbistatin	CDRT1 /// FBXW10	1
+Blebbistatin	FBXL15	1
+Blebbistatin	EPB41L2	1
+Blebbistatin	FAM120B	1
+Blebbistatin	HIVEP1	1
+Blebbistatin	STARD3	1
+Blebbistatin	KHNYN	1
+Blebbistatin	MLLT10 /// PICALM	1
+Blebbistatin	HDAC6	1
+Blebbistatin	MAGEA1	1
+Blebbistatin	SF3B1	1
+Blebbistatin	TMPRSS4	1
+Blebbistatin	ECSCR	1
+Blebbistatin	CAMSAP1	1
+Blebbistatin	WISP3	1
+Blebbistatin	PLEKHA7	1
+Blebbistatin	CDS2	1
+Blebbistatin	CACNG1	1
+Blebbistatin	MTX1	1
+Blebbistatin	ATP6V1B2	1
+Blebbistatin	ZNF182	1
+Blebbistatin	EXOSC7	1
+Blebbistatin	TMEM9B	1
+Blebbistatin	CCDC93	1
+Blebbistatin	DEFB104A /// DEFB104B	1
+Blebbistatin	CYorf15B	1
+Blebbistatin	ZRANB2	1
+Blebbistatin	INO80	1
+Blebbistatin	FAM120AOS	1
+Blebbistatin	CACNA1S	1
+Blebbistatin	ITGA5	1
+Blebbistatin	PIGM	1
+Blebbistatin	STAG3L1	1
+Blebbistatin	MAPK11	1
+Blebbistatin	ZFP91	1
+Blebbistatin	MS4A6A	1
+Blebbistatin	HSPE1	1
+Blebbistatin	CIRH1A	1
+Blebbistatin	CD164	1
+Blebbistatin	ZBED3	1
+Blebbistatin	CCR2	1
+Blebbistatin	KRT79	1
+Blebbistatin	EXOSC2	1
+Blebbistatin	DSCAM	1
+Blebbistatin	ABCC5	1
+Blebbistatin	CREM	1
+Blebbistatin	KIAA0020	1
+Blebbistatin	JOSD2	1
+Blebbistatin	BCOR	1
+Blebbistatin	RPRM	1
+Blebbistatin	C11orf9	1
+Blebbistatin	SMOC1	1
+Blebbistatin	CTBS	1
+Blebbistatin	NUP153	1
+Blebbistatin	PTF1A	1
+Blebbistatin	C7	1
+Blebbistatin	C17orf91	1
+Blebbistatin	ELAVL1	1
+Blebbistatin	MED27	1
+Blebbistatin	DPCD	1
+Blebbistatin	KIAA1217	1
+Blebbistatin	KIF2C	1
+Blebbistatin	RACGAP1	1
+Blebbistatin	PDSS2	1
+Blebbistatin	KCNH1	1
+Blebbistatin	MCART1	1
+Blebbistatin	ECHDC1	1
+Blebbistatin	PTPRZ1	1
+Blebbistatin	SP140	1
+Blebbistatin	P2RX7	1
+Blebbistatin	UBA5	1
+Blebbistatin	FGF18	1
+Blebbistatin	TMEM185A	1
+Blebbistatin	LRRC36	1
+Blebbistatin	GALE	1
+Blebbistatin	PCDH12	1
+Blebbistatin	PGRMC1	1
+Blebbistatin	MAN2C1	1
+Blebbistatin	CCRL2	1
+Blebbistatin	SLC22A12	1
+Blebbistatin	GRIA2	1
+Blebbistatin	DCAF4L1	1
+Blebbistatin	PER1	1
+Blebbistatin	GOLGA8A /// GOLGA8B	1
+Blebbistatin	C16orf53	1
+Blebbistatin	S100A7	1
+Blebbistatin	KCTD6	1
+Blebbistatin	ZNF302	1
+Blebbistatin	E2F4	1
+Blebbistatin	EFNA3	1
+Blebbistatin	SLC39A6	1
+Blebbistatin	C15orf17	1
+Blebbistatin	FCGR2A /// FCGR2C	1
+Blebbistatin	TTC16	1
+Blebbistatin	PKNOX1	1
+Blebbistatin	CYTIP	1
+Blebbistatin	LYZL6	1
+Blebbistatin	USP16	1
+Blebbistatin	PRPS1	1
+Blebbistatin	ABHD10	1
+Blebbistatin	DHRS1	1
+Blebbistatin	PLRG1	1
+Blebbistatin	NUDCD1	1
+Blebbistatin	FAM189A1	1
+Blebbistatin	USP8	1
+Blebbistatin	ATL3	1
+Blebbistatin	PI4K2A	1
+Blebbistatin	PPIP5K1	1
+Blebbistatin	TCTE1	1
+Blebbistatin	GRIK1	1
+Blebbistatin	C13orf31	1
+Blebbistatin	COMT	1
+Blebbistatin	COPZ1	1
+Blebbistatin	SLC38A5	1
+Blebbistatin	RBM9	1
+Blebbistatin	SLC25A40	1
+Blebbistatin	MRPS7	1
+Blebbistatin	OR8U9	1
+Blebbistatin	CTSZ	1
+Blebbistatin	RNF113A	1
+Blebbistatin	CSPP1	1
+Blebbistatin	KLF12	1
+Blebbistatin	TFIP11	1
+Blebbistatin	SLC15A4	1
+Blebbistatin	TFG	1
+Blebbistatin	RNF34	1
+Blebbistatin	LMTK3	1
+Blebbistatin	TMPO	1
+Blebbistatin	VWA5B2	1
+Blebbistatin	ACADM	1
+Blebbistatin	ADH7	1
+Blebbistatin	UFSP1	1
+Blebbistatin	SIRT3	1
+Blebbistatin	GATA1	1
+Blebbistatin	ARHGEF4	1
+Blebbistatin	TPST2	1
+Blebbistatin	APBA2	1
+Blebbistatin	UBE2H	1
+Blebbistatin	AIPL1	1
+Blebbistatin	C2orf57	1
+Blebbistatin	ZFYVE20	1
+Blebbistatin	IFNA21	1
+Blebbistatin	FASLG	1
+Blebbistatin	C14orf106	1
+Blebbistatin	NECAP1	1
+Blebbistatin	PLEKHA3	1
+Blebbistatin	PFDN2	1
+Blebbistatin	MCL1	1
+Blebbistatin	WNT2	1
+Blebbistatin	PAFAH2	1
+Blebbistatin	GLIPR1L1	1
+Blebbistatin	DYNC1LI2	1
+Blebbistatin	SERPINA3	1
+Blebbistatin	PPAPDC1B	1
+Blebbistatin	COQ9	1
+Blebbistatin	FEM1B	1
+Blebbistatin	SEMA5A	1
+Blebbistatin	OOEP	1
+Blebbistatin	ZNF766	1
+Blebbistatin	PDE4C	1
+Blebbistatin	TGM4	1
+Blebbistatin	C17orf95	1
+Blebbistatin	SLC12A3	1
+Blebbistatin	HCP5	1
+Blebbistatin	DCHS1	1
+Blebbistatin	TOP1 /// TOP1P1	1
+Blebbistatin	PARP3	1
+Blebbistatin	RRP7A /// RRP7B	1
+Blebbistatin	BUB3	1
+Blebbistatin	C19orf48	1
+Blebbistatin	GPR107	1
+Blebbistatin	SRPK1	1
+Blebbistatin	JAK1	1
+Blebbistatin	SPINT4	1
+Blebbistatin	CSNK2B	1
+Blebbistatin	CSH1 /// CSH2	1
+Blebbistatin	CHCHD6	1
+Blebbistatin	CMKLR1	1
+Blebbistatin	ZNF673	1
+Blebbistatin	PPIL1	1
+Blebbistatin	TMEM206	1
+Blebbistatin	CHRAC1	1
+Blebbistatin	DDAH1	1
+Blebbistatin	AMACR /// C1QTNF3	1
+Blebbistatin	ARPC1A /// ARPC1B	1
+Blebbistatin	HPS1	1
+Blebbistatin	NIF3L1	1
+Blebbistatin	ABLIM3	1
+Blebbistatin	CLEC2D	1
+Blebbistatin	STAG3L4	1
+Blebbistatin	MAPK4	1
+Blebbistatin	RGS9	1
+Blebbistatin	ANPEP	1
+Blebbistatin	GCM1	1
+Blebbistatin	PLEC	1
+Blebbistatin	SSX2 /// SSX2B	1
+Blebbistatin	ZW10	1
+Blebbistatin	NEURL	1
+Blebbistatin	CREB3L3	1
+Blebbistatin	PES1	1
+Blebbistatin	PRKDC	1
+Blebbistatin	BCAP29	1
+Blebbistatin	ZNF329	1
+Blebbistatin	CCDC55	1
+Blebbistatin	HCK	1
+Blebbistatin	SLK	1
+Blebbistatin	VEGFC	1
+Blebbistatin	WFIKKN2	1
+Blebbistatin	MMP27	1
+Blebbistatin	PPCDC	1
+Blebbistatin	EIF4ENIF1	1
+Blebbistatin	ZDHHC14	1
+Blebbistatin	OSBPL11	1
+Blebbistatin	STX7	1
+Blebbistatin	MYO3B	1
+Blebbistatin	USE1	1
+Blebbistatin	TAS2R60	1
+Blebbistatin	ARHGAP5	1
+Blebbistatin	ZMYND19	1
+Blebbistatin	C3orf31	1
+Blebbistatin	FN3K	1
+Blebbistatin	ANKRD43	1
+Blebbistatin	SPARC	1
+Blebbistatin	PTPRR	1
+Blebbistatin	DCAF4L2	1
+Blebbistatin	SLC15A1	1
+Blebbistatin	LRP1B	1
+Blebbistatin	RPP25	1
+Blebbistatin	SP140L	1
+Blebbistatin	JTB	1
+Blebbistatin	MRFAP1	1
+Blebbistatin	C1orf38	1
+Blebbistatin	DEFB128	1
+Blebbistatin	WARS2	1
+Blebbistatin	YPEL5	1
+Blebbistatin	CD207	1
+Blebbistatin	MLX	1
+Blebbistatin	C4orf26	1
+Blebbistatin	PTCD1	1
+Blebbistatin	CLK4	1
+Blebbistatin	TSR2	1
+Blebbistatin	RNMT	1
+Blebbistatin	CCL16	1
+Blebbistatin	IL17A	1
+Blebbistatin	SEC14L2	1
+Blebbistatin	ZC3H3	1
+Blebbistatin	LEPRE1	1
+Blebbistatin	CCDC70	1
+Blebbistatin	RBM26	1
+Blebbistatin	PIAS2	1
+Blebbistatin	RBM17	1
+Blebbistatin	MRPS2	1
+Blebbistatin	ADIPOR1	1
+Blebbistatin	TMPRSS2	1
+Blebbistatin	RERG	1
+Blebbistatin	TMCO6	1
+Blebbistatin	RFC3	1
+Blebbistatin	CLN3	1
+Blebbistatin	LOC729020 /// RPE	1
+Blebbistatin	UGT2B28	1
+Blebbistatin	CNDP2	1
+Blebbistatin	TM2D1	1
+Blebbistatin	MGEA5	1
+Blebbistatin	PPOX	1
+Blebbistatin	USHBP1	1
+Blebbistatin	RIMS1	1
+Blebbistatin	C2orf42	1
+Blebbistatin	EXD3	1
+Blebbistatin	RASGRP1	1
+Blebbistatin	ZC3H10	1
+Blebbistatin	LIX1	1
+Blebbistatin	ACE2	1
+Blebbistatin	PSMG3	1
+Blebbistatin	UFM1	1
+Blebbistatin	TBL1XR1	1
+Blebbistatin	COX19	1
+Blebbistatin	PELO	1
+Blebbistatin	BCL6	1
+Blebbistatin	ALKBH6	1
+Blebbistatin	SC5DL	1
+Blebbistatin	FAM98A	1
+Blebbistatin	GRWD1	1
+Blebbistatin	GCFC1	1
+Blebbistatin	RAB6B	1
+Blebbistatin	C21orf91	1
+Blebbistatin	CYP4F2	1
+Blebbistatin	ZFP106	1
+Blebbistatin	DHRSX	1
+Blebbistatin	BTN3A2	1
+Blebbistatin	CCDC76	1
+Blebbistatin	ANKRD37	1
+Blebbistatin	CREG1	1
+Blebbistatin	PRKCI	1
+Blebbistatin	TAF5	1
+Blebbistatin	CCL20	1
+Blebbistatin	RRAS2	1
+Blebbistatin	VENTX	1
+Blebbistatin	FAM171A1	1
+Blebbistatin	SLC30A1	1
+Blebbistatin	L3MBTL2	1
+Blebbistatin	VGLL4	1
+Blebbistatin	SAAL1	1
+Blebbistatin	KRT14	1
+Blebbistatin	USP35	1
+Blebbistatin	CTSC	1
+Blebbistatin	SCRT2	1
+Blebbistatin	DYNLL2	1
+Blebbistatin	JKAMP	1
+Blebbistatin	CTRC	1
+Blebbistatin	C1orf144	1
+Blebbistatin	BNC1	1
+Blebbistatin	FANCI	1
+Blebbistatin	MAST3	1
+Blebbistatin	SHISA7	1
+Blebbistatin	TMEM161A	1
+Blebbistatin	PTPRO	1
+Blebbistatin	FLJ37543	1
+Blebbistatin	PRDM5	1
+Blebbistatin	BEST2	1
+Blebbistatin	CCL8	1
+Blebbistatin	HBP1	1
+Blebbistatin	FN3KRP	1
+Blebbistatin	KCNA5	1
+Blebbistatin	CHPT1	1
+Blebbistatin	MYOF	1
+Blebbistatin	RXRG	1
+Blebbistatin	ZNF131	1
+Blebbistatin	ATP2B1	1
+Blebbistatin	DHX57	1
+Blebbistatin	MLEC	1
+Blebbistatin	STT3A	1
+Blebbistatin	FAM195B	1
+Blebbistatin	NCOA5	1
+Blebbistatin	BTG1	1
+Blebbistatin	C4orf33	1
+Blebbistatin	G6PD	1
+Blebbistatin	PAPOLA	1
+Blebbistatin	TIA1	1
+Blebbistatin	OLFML1	1
+Blebbistatin	TULP1	1
+Blebbistatin	TGS1	1
+Blebbistatin	FBXO28	1
+Blebbistatin	ARL8A	1
+Blebbistatin	HSPA5	1
+Blebbistatin	GAS1	1
+Blebbistatin	PRAME	1
+Blebbistatin	NCK2	1
+Blebbistatin	TM9SF1	1
+Blebbistatin	C16orf93	1
+Blebbistatin	ENSA	1
+Blebbistatin	SLC31A1	1
+Blebbistatin	MON1B	1
+Methotrexate	CDC20	1
+Methotrexate	PAIP2B	1
+Methotrexate	VSTM1	1
+Methotrexate	NSL1	1
+Methotrexate	GAS2L3	1
+Methotrexate	TMEM106A	1
+Methotrexate	CDC45	1
+Methotrexate	LSM11	1
+Methotrexate	ESCO2	1
+Methotrexate	PTTG1 /// PTTG3P	1
+Methotrexate	SELPLG	1
+Methotrexate	PLAU	1
+Methotrexate	MAP1LC3A	1
+Methotrexate	LZTS1	1
+Methotrexate	THUMPD3	1
+Methotrexate	CASP4	1
+Methotrexate	ALAD	1
+Methotrexate	CTSS	1
+Methotrexate	NRGN	1
+Methotrexate	B4GALT2	1
+Methotrexate	PRICKLE3	1
+Methotrexate	ZNF526	1
+Methotrexate	SCRN1	1
+Methotrexate	DTX3L	1
+Methotrexate	ZNF667	1
+Methotrexate	HCST	1
+Methotrexate	STK17B	1
+Methotrexate	NAT8L	1
+Methotrexate	SELL	1
+Methotrexate	PPIL6	1
+Methotrexate	KIF26A	1
+Methotrexate	C18orf1	1
+Methotrexate	ZFP36L1	1
+Methotrexate	TMEM25	1
+Methotrexate	ARHGAP20	1
+Methotrexate	ZCCHC17	1
+Methotrexate	NUDT7	1
+Methotrexate	EXO1	1
+Methotrexate	GBA	1
+Methotrexate	MST4	1
+Methotrexate	C12orf75	1
+Methotrexate	IFT88	1
+Methotrexate	MGMT	1
+Methotrexate	MEIS1	1
+Methotrexate	TNXA /// TNXB	1
+Methotrexate	CLDN1	1
+Methotrexate	PXDN	1
+Methotrexate	SHISA3	1
+Methotrexate	MBNL2	1
+Methotrexate	TRIM24	1
+Methotrexate	SLC39A12	1
+Methotrexate	PRNP	1
+Methotrexate	CD3D	1
+Methotrexate	TCF7	1
+Methotrexate	KIAA0652	1
+Methotrexate	NRSN2	1
+Methotrexate	NXPH3	1
+Methotrexate	PLD6	1
+Methotrexate	EPCAM	1
+Methotrexate	RDH14	1
+Methotrexate	B4GALT4	1
+Methotrexate	TRIM48	1
+Methotrexate	PCDHA7	1
+Methotrexate	DOCK8	1
+Methotrexate	GATA6	1
+Methotrexate	CLN8	1
+Methotrexate	PKP2	1
+Methotrexate	VLDLR	1
+Methotrexate	KIF1C	1
+Methotrexate	IL5RA	1
+Methotrexate	EFR3B	1
+Methotrexate	FAM71E2	1
+Methotrexate	ALS2CR4	1
+Methotrexate	WDFY4	1
+Methotrexate	BCAT1	1
+Methotrexate	EPHB2	1
+Methotrexate	TM2D2	1
+Methotrexate	MOV10L1	1
+Methotrexate	FUCA1	1
+Methotrexate	SCARB2	1
+Methotrexate	NCS1	1
+Methotrexate	UBE2C	1
+Methotrexate	AIDA	1
+Methotrexate	PRUNE	1
+Methotrexate	CYP46A1	1
+Methotrexate	HSD11B1L	1
+Methotrexate	DKKL1	1
+Methotrexate	SRM	1
+Methotrexate	RBM34	1
+Methotrexate	PIK3R3	1
+Methotrexate	UGCG	1
+Methotrexate	HEG1	1
+Methotrexate	PPP1CB	1
+Methotrexate	ACTL9	1
+Methotrexate	POLR2D	1
+Methotrexate	DNAJC12	1
+Methotrexate	RAB5C	1
+Methotrexate	UBE2M	1
+Methotrexate	FANCD2	1
+Methotrexate	NCF4	1
+Methotrexate	TMEM204	1
+Methotrexate	LRRC37A /// LRRC37A2	1
+Methotrexate	ZNF571	1
+Methotrexate	B3GALTL	1
+Methotrexate	ANXA6	1
+Methotrexate	NWD1	1
+Methotrexate	TKT	1
+Methotrexate	INO80E	1
+Methotrexate	C3orf59	1
+Methotrexate	C4orf26	1
+Methotrexate	SEMA4B	1
+Methotrexate	RFPL2 /// RFPL3	1
+Methotrexate	ORAI2	1
+Methotrexate	C13orf38	1
+Methotrexate	PSMD9	1
+Methotrexate	LEPRE1	1
+Methotrexate	MCC	1
+Methotrexate	EMX1	1
+Methotrexate	CCNB2	1
+Methotrexate	TOP2A	1
+Methotrexate	H1F0	1
+Methotrexate	DDB2	1
+Methotrexate	KIAA1210	1
+Methotrexate	CCDC148	1
+Methotrexate	SERF1A /// SERF1B	1
+Methotrexate	KIF20A	1
+Methotrexate	NCAPD3	1
+Methotrexate	PLA2G4A	1
+Methotrexate	RFC4	1
+Methotrexate	C19orf40	1
+Methotrexate	PUS7	1
+Methotrexate	C20orf106 /// C20orf107	1
+Methotrexate	KLHL32	1
+Methotrexate	C14orf126	1
+Methotrexate	TMEM97	1
+Methotrexate	IL1A	1
+Methotrexate	MUTED	1
+Methotrexate	STMN2	1
+Methotrexate	SCO2	1
+Methotrexate	MLF1IP	1
+Methotrexate	SUMO3	1
+Methotrexate	DEGS2	1
+Methotrexate	MAP3K12	1
+Methotrexate	CR1	1
+Methotrexate	FCGR3B	1
+Methotrexate	CNIH	1
+Methotrexate	EIF3J	1
+Methotrexate	CCNE2	1
+Methotrexate	ADAMTS2	1
+Methotrexate	TMEM54	1
+Methotrexate	ABHD5	1
+Methotrexate	ELOVL5	1
+Methotrexate	FERD3L	1
+Methotrexate	LNPEP	1
+Methotrexate	MFSD6	1
+Methotrexate	CRYGD	1
+Methotrexate	SNX21	1
+Methotrexate	DDX25	1
+Methotrexate	ZNF510	1
+Methotrexate	DTL	1
+Methotrexate	MMP11	1
+Methotrexate	ACER3	1
+Methotrexate	MRPS16	1
+Methotrexate	TRPS1	1
+Methotrexate	OTUD5	1
+Methotrexate	SUSD3	1
+Methotrexate	COL13A1	1
+Methotrexate	PARP3	1
+Methotrexate	VPS54	1
+Methotrexate	MSH2	1
+Methotrexate	COX5B	1
+Methotrexate	FUT3	1
+Methotrexate	SLC17A8	1
+Methotrexate	PGLYRP1	1
+Methotrexate	RAB5A	1
+Methotrexate	CRISP2	1
+Methotrexate	HSPA13	1
+Methotrexate	PDLIM4	1
+Methotrexate	CHCHD4	1
+Methotrexate	ZNF132	1
+Methotrexate	CPT1A	1
+Methotrexate	DNAJC3	1
+Methotrexate	COL4A6	1
+Methotrexate	NRAP	1
+Methotrexate	RGS12	1
+Methotrexate	TMEM176B	1
+Methotrexate	REXO4	1
+Methotrexate	IPO11	1
+Methotrexate	WDR76	1
+Methotrexate	MMD2	1
+Methotrexate	GABBR1	1
+Methotrexate	LMO2	1
+Methotrexate	HCFC2	1
+Methotrexate	GAD1	1
+Methotrexate	PAQR9	1
+Methotrexate	SHOC2	1
+Methotrexate	FAM180A	1
+Methotrexate	DHDDS	1
+Methotrexate	KIAA1244	1
+Methotrexate	SAMD9L	1
+Methotrexate	TUBGCP2	1
+Methotrexate	FBXO44	1
+Methotrexate	ZDHHC13	1
+Methotrexate	FCGR3A	1
+Methotrexate	TMCO7	1
+Methotrexate	DNAH9	1
+Methotrexate	PTP4A1	1
+Methotrexate	IMPACT	1
+Methotrexate	PRR5	1
+Methotrexate	IFT57	1
+Methotrexate	SOAT1	1
+Methotrexate	RNF180	1
+Methotrexate	Septin 4	1
+Methotrexate	C3orf26	1
+Methotrexate	FLJ23867 /// QSOX1	1
+Methotrexate	PRDX4	1
+Methotrexate	PTCD1	1
+Methotrexate	IRF2BP2	1
+Methotrexate	TXNDC3	1
+Methotrexate	C14orf21	1
+Methotrexate	NLRP1	1
+Methotrexate	EYA2	1
+Methotrexate	GATSL3 /// TBC1D10A	1
+Methotrexate	GPR35	1
+Methotrexate	RAD51	1
+Methotrexate	ORMDL3	1
+Methotrexate	NCOR2	1
+Methotrexate	PDGFRL	1
+Methotrexate	DDX3X	1
+Methotrexate	NEDD4L	1
+Methotrexate	WDR34	1
+Methotrexate	CSRP1	1
+Methotrexate	CD24	1
+Methotrexate	C12orf49	1
+Methotrexate	FUK	1
+Methotrexate	CASD1	1
+Methotrexate	HOXC10	1
+Methotrexate	PXN	1
+Methotrexate	FBXO5	1
+Methotrexate	OR2A4 /// OR2A7	1
+Methotrexate	CRYBB2	1
+Methotrexate	SH3BGRL3	1
+Methotrexate	DOCK9	1
+Methotrexate	SMPD1	1
+Methotrexate	BMP1	1
+Methotrexate	CYBB	1
+Methotrexate	PPP2R2B	1
+Methotrexate	LAMP3	1
+Methotrexate	GLO1	1
+Methotrexate	FUT2	1
+Methotrexate	AGTRAP	1
+Methotrexate	C12orf23	1
+Methotrexate	UBOX5	1
+Methotrexate	CXCR2	1
+Methotrexate	CEACAM1	1
+Methotrexate	CLCNKA /// CLCNKB	1
+Methotrexate	NUTF2	1
+Methotrexate	ZNF711	1
+Methotrexate	WFDC2	1
+Methotrexate	ARSB	1
+Methotrexate	DNAJB5	1
+Methotrexate	CASP5	1
+Methotrexate	TRPV3	1
+Methotrexate	ANGPTL3	1
+Methotrexate	TRIM10	1
+Methotrexate	EMP3	1
+Methotrexate	TOMM20	1
+Methotrexate	C4orf19	1
+Methotrexate	TPCN1	1
+Methotrexate	PSMD12	1
+Methotrexate	SVIP	1
+Methotrexate	PDAP1	1
+Methotrexate	POLM	1
+Methotrexate	LRRC67	1
+Methotrexate	S1PR4	1
+Methotrexate	TDP2	1
+Methotrexate	SETD1A	1
+Methotrexate	C11orf86	1
+Methotrexate	NUDT12	1
+Methotrexate	NLN	1
+Methotrexate	CNOT4	1
+Methotrexate	UBE2S	1
+Methotrexate	RNF175	1
+Methotrexate	STS	1
+Methotrexate	CENPN	1
+Methotrexate	SFT2D3	1
+Methotrexate	C15orf62	1
+Methotrexate	FRZB	1
+Methotrexate	CNIH3	1
+Methotrexate	ZBTB7A	1
+Methotrexate	XAGE3	1
+Methotrexate	PCK1	1
+Methotrexate	HSD3B7	1
+Methotrexate	ARHGEF16	1
+Methotrexate	MED9	1
+Methotrexate	C17orf76	1
+Methotrexate	LRRN3	1
+Methotrexate	DTYMK	1
+Methotrexate	THAP10	1
+Methotrexate	TIFA	1
+Methotrexate	JAKMIP1	1
+Methotrexate	TIPARP	1
+Methotrexate	PLK4	1
+Methotrexate	BRCA1	1
+Methotrexate	SDC4	1
+Methotrexate	TMEM14B	1
+Methotrexate	BAI3	1
+Methotrexate	C4orf46	1
+Methotrexate	DAPK3	1
+Methotrexate	TRAPPC6B	1
+Methotrexate	FCHSD2	1
+Methotrexate	CCDC136	1
+Methotrexate	NETO2	1
+Methotrexate	EMX2	1
+Methotrexate	SSR3	1
+Methotrexate	ABI3	1
+Methotrexate	WIPI1	1
+Methotrexate	P4HA1	1
+Methotrexate	CSF3	1
+Methotrexate	PHF6	1
+Methotrexate	PDE4D	1
+Methotrexate	NENF	1
+Methotrexate	MTO1	1
+Methotrexate	CNBP	1
+Methotrexate	DCDC2	1
+Methotrexate	SYPL1	1
+Methotrexate	ACBD5	1
+Methotrexate	OCM /// OCM2	1
+Methotrexate	AVP	1
+Methotrexate	KLF1	1
+Methotrexate	ITPRIPL2	1
+Methotrexate	CDCA5	1
+Methotrexate	CALR	1
+Methotrexate	FNBP1L	1
+Methotrexate	AURKA	1
+Methotrexate	KLHL9	1
+Methotrexate	PIGM	1
+Methotrexate	APOBEC3B	1
+Methotrexate	GRHL3	1
+Methotrexate	CIC	1
+Methotrexate	APH1A	1
+Methotrexate	FLVCR2	1
+Methotrexate	SNCAIP	1
+Methotrexate	WTIP	1
+Methotrexate	SENP6	1
+Methotrexate	ANKRD44	1
+Methotrexate	GRPEL2	1
+Methotrexate	SPOCK2	1
+Methotrexate	RAD54L	1
+Methotrexate	EDIL3	1
+Methotrexate	CYP2J2	1
+Methotrexate	CADM3	1
+Methotrexate	TDRD9	1
+Methotrexate	AP2M1	1
+Methotrexate	CHMP2A	1
+Methotrexate	MUC7	1
+Methotrexate	DDIT4L	1
+Methotrexate	C16orf74	1
+Methotrexate	FCGR2A	1
+Methotrexate	LCN1	1
+Methotrexate	PIGX	1
+Methotrexate	NUP43	1
+Methotrexate	MC3R	1
+Methotrexate	PLK1	1
+Methotrexate	MCTS1 /// PSIMCT-1	1
+Methotrexate	PRKD1	1
+Methotrexate	TPPP3	1
+Methotrexate	CYP51A1	1
+Methotrexate	PUS3	1
+Methotrexate	CCDC150	1
+Methotrexate	MARK1	1
+Methotrexate	FKBP4	1
+Methotrexate	FOXO1	1
+Methotrexate	DACH1	1
+Methotrexate	SCYL1	1
+Methotrexate	CCR8	1
+Methotrexate	PADI1	1
+Methotrexate	MYBBP1A	1
+Methotrexate	RNF38	1
+Methotrexate	RCBTB1	1
+Methotrexate	SAMD11	1
+Methotrexate	NKAIN1	1
+Methotrexate	MMP14	1
+Methotrexate	DIAPH2	1
+Methotrexate	CDC25A	1
+Methotrexate	GPR132	1
+Methotrexate	BCL9L	1
+Methotrexate	C6orf127	1
+Methotrexate	CHCHD5	1
+Methotrexate	FAM19A3	1
+Methotrexate	SMC6	1
+Methotrexate	HDAC10	1
+Methotrexate	MRPL41	1
+Methotrexate	ELOVL4	1
+Methotrexate	MAPK13	1
+Methotrexate	TCEA1	1
+Methotrexate	RMI1	1
+Methotrexate	RTEL1 /// TNFRSF6B	1
+Methotrexate	TUBE1	1
+Methotrexate	KIAA1715	1
+Methotrexate	C2orf73	1
+Methotrexate	C3orf10	1
+Methotrexate	STK11	1
+Methotrexate	PHF21A	1
+Methotrexate	HAS3	1
+Methotrexate	EIF4E3	1
+Methotrexate	TBC1D9	1
+Methotrexate	PCGF6	1
+Methotrexate	AMDHD2	1
+Methotrexate	TBC1D16	1
+Methotrexate	COL9A1	1
+Methotrexate	CPSF3	1
+Methotrexate	TBC1D26 /// ZNF286A	1
+Methotrexate	PSG7	1
+Methotrexate	C9orf144B	1
+Methotrexate	CLDN7	1
+Methotrexate	MEGF10	1
+Methotrexate	TF	1
+Methotrexate	NOP16	1
+Methotrexate	SYNGR3	1
+Methotrexate	NELF	1
+Methotrexate	ARL13A	1
+Methotrexate	GFPT1	1
+Methotrexate	SDHC	1
+Methotrexate	TMBIM1	1
+Methotrexate	PAFAH1B3	1
+Methotrexate	CES1	1
+Methotrexate	KCTD18	1
+Methotrexate	CDK5RAP2	1
+Methotrexate	HOXB2	1
+Methotrexate	RNF144B	1
+Methotrexate	C1orf135	1
+Methotrexate	GINS1	1
+Methotrexate	ZNF653	1
+Methotrexate	ZNF772	1
+Methotrexate	CD38	1
+Methotrexate	HMP19	1
+Methotrexate	PRIM1	1
+Methotrexate	ANKRD27	1
+Methotrexate	AIF1L	1
+Methotrexate	USP9X	1
+Methotrexate	FEM1C	1
+Methotrexate	C9orf156	1
+Methotrexate	AKR1C3	1
+Methotrexate	TRIP13	1
+Methotrexate	TIGD3	1
+Methotrexate	Septin 5	1
+Methotrexate	GSTA3	1
+Methotrexate	DHTKD1	1
+Methotrexate	TFEB	1
+Methotrexate	LACRT	1
+Methotrexate	KRT33A	1
+Methotrexate	HIST1H1A	1
+Methotrexate	IL1R2	1
+Methotrexate	CTBP1	1
+Methotrexate	PSIP1	1
+Methotrexate	RAPGEF2	1
+Methotrexate	AFAP1L1	1
+Methotrexate	C5orf46	1
+Methotrexate	CYP26B1	1
+Methotrexate	TLR8	1
+Methotrexate	PARS2	1
+Methotrexate	CHML	1
+Methotrexate	GGH	1
+Methotrexate	FAM154A	1
+Methotrexate	CPZ	1
+Methotrexate	OPHN1	1
+Methotrexate	RNF138	1
+Methotrexate	ANO4	1
+Methotrexate	UCK1	1
+Methotrexate	SIGMAR1	1
+Methotrexate	NR5A1	1
+Methotrexate	CRHBP	1
+Methotrexate	PURB	1
+Methotrexate	SYN2	1
+Methotrexate	SH2D3A	1
+Methotrexate	SOX11	1
+Methotrexate	PMVK	1
+Methotrexate	NQO2	1
+Methotrexate	MRPL34	1
+Methotrexate	GAA	1
+Methotrexate	NEUROD1	1
+Methotrexate	CDH19	1
+Methotrexate	HESX1	1
+Methotrexate	CYP1B1	1
+Methotrexate	MBTPS2	1
+Methotrexate	ROD1	1
+Methotrexate	RCHY1	1
+Methotrexate	ZBTB37	1
+Methotrexate	FGB	1
+Methotrexate	PCYOX1	1
+Methotrexate	YPEL3	1
+Methotrexate	AMICA1	1
+Methotrexate	FDXR	1
+Methotrexate	ERAP2	1
+Methotrexate	SOLH	1
+Methotrexate	RBBP8	1
+Methotrexate	DGKQ	1
+Methotrexate	CXCL5	1
+Methotrexate	ABCB10	1
+Methotrexate	TCEAL3 /// TCEAL6	1
+Methotrexate	TRUB1	1
+Methotrexate	ATP6V1G1	1
+Methotrexate	TBCEL	1
+Methotrexate	ANKRD16	1
+Methotrexate	TPRG1	1
+Methotrexate	HLA-DRB5	1
+Methotrexate	NRK	1
+Methotrexate	GDF1 /// LASS1	1
+Methotrexate	BBS2	1
+Methotrexate	RRP15	1
+Methotrexate	SFRS1	1
+Methotrexate	AKAP12	1
+Methotrexate	MFAP1	1
+Methotrexate	SKIL	1
+Methotrexate	FNDC8	1
+Methotrexate	RAB33B	1
+Methotrexate	TFPT	1
+Methotrexate	ENTPD5	1
+Methotrexate	CLOCK	1
+Methotrexate	BCL10	1
+Methotrexate	ADH1C	1
+Methotrexate	KRT17	1
+Methotrexate	PHYH	1
+Methotrexate	SLC38A9	1
+Methotrexate	MDM1	1
+Methotrexate	TXNDC9	1
+Methotrexate	CADM2	1
+Methotrexate	SLC2A1	1
+Methotrexate	CCDC54	1
+Methotrexate	VN1R2	1
+Methotrexate	PIGS	1
+Methotrexate	PCP2	1
+Methotrexate	RERE	1
+Methotrexate	WWC2	1
+Methotrexate	IL3	1
+Methotrexate	PAK6	1
+Methotrexate	C3orf22	1
+Methotrexate	TAS2R41	1
+Methotrexate	SOCS6	1
+Methotrexate	SERPINI1	1
+Methotrexate	CYP2U1	1
+Methotrexate	ZPLD1	1
+Methotrexate	GALNT12	1
+Methotrexate	LY6H	1
+Methotrexate	TMEM198	1
+Methotrexate	TMEM159	1
+Methotrexate	FBXO9	1
+Methotrexate	TFRC	1
+Methotrexate	NARG2	1
+Methotrexate	CREBL2	1
+Methotrexate	C1orf186	1
+Methotrexate	C19orf48	1
+Methotrexate	FGA	1
+Methotrexate	OR51E2	1
+Methotrexate	LTB4R	1
+Methotrexate	CXCL1	1
+Methotrexate	HIST1H2AJ	1
+Methotrexate	MRPL37	1
+Methotrexate	HIST1H2BM	1
+Methotrexate	TRIM15	1
+Methotrexate	TBX18	1
+Methotrexate	WSB2	1
+Methotrexate	MAPK1IP1L	1
+Methotrexate	PDCL	1
+Methotrexate	FAM58A	1
+Methotrexate	CCNE1	1
+Methotrexate	HNF4G	1
+Methotrexate	YWHAH	1
+Methotrexate	C9orf144 /// C9orf144B	1
+Methotrexate	C2orf7	1
+Methotrexate	CERK	1
+Methotrexate	CTRL	1
+Methotrexate	C20orf72	1
+Methotrexate	MBD5	1
+Methotrexate	SLC12A5	1
+Methotrexate	NLE1	1
+Methotrexate	ZNF496	1
+Methotrexate	OLIG3	1
+Methotrexate	ZNF222	1
+Methotrexate	FOXH1	1
+Methotrexate	NAT2	1
+Methotrexate	HCCS	1
+Methotrexate	EIF2S1	1
+Methotrexate	GALNT5	1
+Methotrexate	CDHR3	1
+Methotrexate	PAGE2	1
+Methotrexate	BDKRB1	1
+Methotrexate	TMEM183A /// TMEM183B	1
+Methotrexate	EXOC6	1
+Methotrexate	WBP2	1
+Methotrexate	TMEM133	1
+Methotrexate	FTSJD1	1
+Methotrexate	ARHGAP17	1
+Methotrexate	CALD1	1
+Methotrexate	RFX4	1
+Methotrexate	C12orf70	1
+Methotrexate	ISCA1 /// ISCA1P1	1
+Methotrexate	RGAG1	1
+Methotrexate	STYK1	1
+Methotrexate	TRMT11	1
+Methotrexate	SLC3A2	1
+Methotrexate	CAMK1	1
+Methotrexate	SOX9	1
+Methotrexate	SPATA17	1
+Methotrexate	PAICS	1
+Methotrexate	ENOSF1	1
+Methotrexate	SF3B4	1
+Methotrexate	CACNG1	1
+Methotrexate	PCDHB7	1
+Methotrexate	GIPC1	1
+Methotrexate	BMP2K	1
+Methotrexate	C21orf63	1
+Methotrexate	HIST2H2AC	1
+Methotrexate	C3AR1	1
+Methotrexate	E2F8	1
+Methotrexate	RELL1	1
+Methotrexate	CLDN12 /// GTPBP10	1
+Methotrexate	TG	1
+Methotrexate	ERI3	1
+Methotrexate	DDX20	1
+Methotrexate	BEST2	1
+Methotrexate	GATA4	1
+Methotrexate	WFDC8	1
+Methotrexate	ZNF775	1
+Methotrexate	Septin 1	1
+Methotrexate	C10orf84	1
+Methotrexate	ARCN1	1
+Methotrexate	C11orf52	1
+Methotrexate	LRRC4B	1
+Methotrexate	NCBP1	1
+Methotrexate	KCNG4	1
+Methotrexate	ZDHHC2	1
+Methotrexate	FAM65B	1
+Methotrexate	LARP4	1
+Methotrexate	NANP	1
+Methotrexate	C22orf15	1
+Methotrexate	PRPS2	1
+Methotrexate	SPOCD1	1
+Methotrexate	FBXO43	1
+Methotrexate	FAM107A	1
+Methotrexate	DYM	1
+Methotrexate	IPO5	1
+Methotrexate	LARS	1
+Methotrexate	HIST1H4E	1
+Methotrexate	PTPMT1	1
+Methotrexate	POU4F3	1
+Methotrexate	C6orf211	1
+Methotrexate	TNFSF4	1
+Methotrexate	ATP2B1	1
+Methotrexate	DGAT1	1
+Methotrexate	MUC16	1
+Methotrexate	RNF151	1
+Methotrexate	MAGEE1	1
+Methotrexate	PPPDE1	1
+Methotrexate	ZNF776	1
+Methotrexate	GPN3	1
+Methotrexate	CDK2AP1	1
+Methotrexate	GRIK1	1
+Methotrexate	RBM12	1
+Methotrexate	CD209	1
+Methotrexate	C21orf56	1
+Methotrexate	LRP3	1
+Methotrexate	March 9	1
+Methotrexate	CDH23	1
+Methotrexate	MED29	1
+Methotrexate	FGF6	1
+Methotrexate	FSCN3	1
+Methotrexate	CYP4V2	1
+Methotrexate	AMPH	1
+Methotrexate	ESR1	1
+Methotrexate	INHBB	1
+Methotrexate	SLC4A5	1
+Methotrexate	EIF2C1	1
+Methotrexate	UBL4B	1
+Methotrexate	ITPKA	1
+Methotrexate	SMC1A	1
+Methotrexate	COPA	1
+Methotrexate	CRYGC	1
+Methotrexate	LBH	1
+Methotrexate	C1orf58	1
+Methotrexate	CLN5	1
+Methotrexate	SLC4A10	1
+Methotrexate	ADRB1	1
+Methotrexate	SYK	1
+Methotrexate	SERBP1	1
+Methotrexate	IFNE	1
+Methotrexate	ACOX1	1
+Methotrexate	C3orf70	1
+Methotrexate	ABCD3	1
+Methotrexate	KRTAP26-1	1
+Methotrexate	ALDH9A1	1
+Methotrexate	TMUB2	1
+Methotrexate	PDK2	1
+Methotrexate	C19orf18	1
+Methotrexate	CDKL3	1
+Methotrexate	CST2	1
+Methotrexate	APOLD1	1
+Methotrexate	SPIN4	1
+Methotrexate	RAB8B	1
+Methotrexate	KALRN	1
+Methotrexate	HPCA	1
+Methotrexate	CXCR7	1
+Methotrexate	C1orf144	1
+Methotrexate	C11orf84	1
+Methotrexate	BCS1L	1
+Methotrexate	TNFSF12	1
+Methotrexate	DONSON	1
+Methotrexate	PAOX	1
+Methotrexate	USMG5	1
+Methotrexate	SERPINA7	1
+Methotrexate	GNG3	1
+Methotrexate	RNF41	1
+Methotrexate	CSF2RA	1
+Methotrexate	NIPA1	1
+Methotrexate	PLA2G2A	1
+Methotrexate	PEX13	1
+Methotrexate	SAMD10	1
+Methotrexate	March 10	1
+Methotrexate	CBX2	1
+Methotrexate	GRID1	1
+Methotrexate	SPP2	1
+Methotrexate	FOXE3	1
+Methotrexate	TADA3	1
+Methotrexate	SAC3D1	1
+Methotrexate	VIT	1
+Methotrexate	PIK3C2G	1
+Methotrexate	IL1RL2	1
+Methotrexate	TNP1	1
+Methotrexate	GBP1	1
+Methotrexate	RRAS2	1
+Methotrexate	CD8B	1
+Methotrexate	C14orf181	1
+Methotrexate	SPG20	1
+Methotrexate	EXD2	1
+Methotrexate	ATP6AP2	1
+Methotrexate	TYMP	1
+Methotrexate	WBP2NL	1
+Methotrexate	NQO1	1
+Methotrexate	ADAMTSL2	1
+Methotrexate	SELENBP1	1
+Methotrexate	SRXN1	1
+Methotrexate	SLC43A3	1
+Methotrexate	IL1F6	1
+Methotrexate	ASNS	1
+Methotrexate	C11orf82	1
+Methotrexate	SEC62	1
+Methotrexate	SORBS2	1
+Methotrexate	TMEM20	1
+Methotrexate	PSRC1	1
+Methotrexate	ZNF529	1
+Methotrexate	RPS11	1
+Methotrexate	SEC63	1
+Methotrexate	TBL3	1
+Methotrexate	RBM15	1
+Methotrexate	TUBB	1
+Methotrexate	TOM1L2	1
+Methotrexate	C19orf45	1
+Methotrexate	TRPT1	1
+Methotrexate	ENOPH1	1
+Methotrexate	PCDHGB1	1
+Methotrexate	KRTAP19-1	1
+Methotrexate	FOXD3	1
+Methotrexate	CTNND1	1
+Methotrexate	FAM35A /// FAM35B /// FAM35B2	1
+Methotrexate	CMA1	1
+Methotrexate	C10orf35	1
+Methotrexate	CCL18	1
+Methotrexate	TCP10L	1
+Methotrexate	KIF2C	1
+Methotrexate	C13orf38 /// SOHLH2	1
+Methotrexate	LOC642869 /// LOC646817 /// SET	1
+Methotrexate	MTMR12	1
+Methotrexate	ADAMTS19	1
+Methotrexate	CNNM4	1
+Methotrexate	RAB25	1
+Methotrexate	KRTAP4-12	1
+Methotrexate	CDX2	1
+Methotrexate	MYO1D	1
+Methotrexate	GTF2A2	1
+Methotrexate	EBPL	1
+Methotrexate	DCHS1	1
+Methotrexate	MYL4	1
+Methotrexate	FZD5	1
+Methotrexate	CDC42SE1	1
+Methotrexate	CCL14-CCL15 /// CCL15	1
+Methotrexate	SYNJ2BP	1
+Methotrexate	LY6E	1
+Methotrexate	CNN2	1
+Methotrexate	C11orf90	1
+Methotrexate	UBE2E2	1
+Methotrexate	WDR86	1
+Methotrexate	SERPINF1	1
+Methotrexate	GYG2	1
+Methotrexate	DCP2	1
+Methotrexate	SMC4	1
+Methotrexate	FANCI	1
+Methotrexate	KRT13	1
+Methotrexate	ADAMTSL1	1
+Methotrexate	IL1B	1
+Methotrexate	NR3C1	1
+Methotrexate	MCCC2	1
+Methotrexate	PJA1	1
+Methotrexate	WDHD1	1
+Methotrexate	PDZRN3	1
+Methotrexate	ARMS2	1
+Methotrexate	SERPINB3	1
+Methotrexate	HNRNPL	1
+Methotrexate	FNDC5	1
+Methotrexate	UNC13D	1
+Methotrexate	CNDP1	1
+Methotrexate	ERGIC3	1
+Methotrexate	EXOC5	1
+Methotrexate	OTUD6B	1
+Methotrexate	RNF157	1
+Methotrexate	DUSP10	1
+Methotrexate	PLS1	1
+Methotrexate	LIX1L	1
+Methotrexate	ZNF860	1
+Methotrexate	ATP6V0D1	1
+Methotrexate	SFXN1	1
+Methotrexate	WDR13	1
+Methotrexate	RBMS2	1
+Methotrexate	COPG2	1
+Methotrexate	RTN4RL1	1
+Methotrexate	GPR22	1
+Methotrexate	EXOC2	1
+Methotrexate	B4GALT6	1
+Methotrexate	TACC3	1
+Methotrexate	RAB1B	1
+Methotrexate	AMH	1
+Methotrexate	CRIPAK	1
+Methotrexate	SERTAD3	1
+Methotrexate	JAM3	1
+Methotrexate	GFPT2	1
+Methotrexate	FAM125A	1
+Methotrexate	ARF6	1
+Methotrexate	ZHX2	1
+Methotrexate	SLC7A13	1
+Methotrexate	SIKE1	1
+Methotrexate	TUB	1
+Methotrexate	TMEM116	1
+Methotrexate	TRAM2	1
+Methotrexate	RNF34	1
+Methotrexate	MXI1	1
+Methotrexate	CD40	1
+Methotrexate	SLC5A11	1
+Methotrexate	RAB40A	1
+Methotrexate	HTR4	1
+Methotrexate	KCNK12	1
+Methotrexate	LRTOMT	1
+Methotrexate	DCLRE1B	1
+Methotrexate	BYSL	1
+Methotrexate	RFC3	1
+Methotrexate	WDR43	1
+Methotrexate	PDS5B	1
+Methotrexate	CMTM3	1
+Methotrexate	FSTL1	1
+Methotrexate	HAGHL	1
+Methotrexate	KNTC1	1
+Methotrexate	TPMT	1
+Methotrexate	VSNL1	1
+Methotrexate	USP9Y	1
+Methotrexate	EMB /// LOC647121	1
+Methotrexate	ORC5L	1
+Methotrexate	GAPDHS	1
+Methotrexate	MST1	1
+Methotrexate	ANGEL2	1
+Methotrexate	C1orf212	1
+Methotrexate	ACP5	1
+Methotrexate	DYRK1A	1
+Methotrexate	TXNRD2	1
+Methotrexate	ATRNL1	1
+Methotrexate	CTDSPL2	1
+Methotrexate	DDX19A /// DDX19B	1
+Methotrexate	ZNF30	1
+Methotrexate	BCL11A	1
+Methotrexate	EFHD1	1
+Methotrexate	ITGA4	1
+Methotrexate	WNK3	1
+Methotrexate	ZBTB17	1
+Methotrexate	XRCC3	1
+Methotrexate	UGT2B7	1
+Methotrexate	TOR1A	1
+Methotrexate	AGPAT6	1
+Methotrexate	SLC37A1	1
+Methotrexate	SNRNP35	1
+Methotrexate	ACN9	1
+Methotrexate	ITM2C	1
+Methotrexate	PMS1	1
+Methotrexate	CPA6	1
+Methotrexate	MRPL23	1
+Methotrexate	SARM1	1
+Methotrexate	FAM20B	1
+Methotrexate	ENTPD1	1
+Methotrexate	C7orf16	1
+Methotrexate	TRMU	1
+Methotrexate	ARL6	1
+Methotrexate	P2RX1	1
+Methotrexate	VCX2	1
+Methotrexate	C1orf55	1
+Methotrexate	HPD	1
+Methotrexate	TRIM68	1
+Methotrexate	TAAR2	1
+Methotrexate	SLC6A19	1
+Methotrexate	USP46	1
+Methotrexate	SLIT3	1
+Methotrexate	DDX46	1
+Methotrexate	PTPN21	1
+Methotrexate	ZFY	1
+Methotrexate	SRR	1
+Methotrexate	DCTN4	1
+Methotrexate	GLT25D1	1
+Methotrexate	CARD11	1
+Methotrexate	C6orf221	1
+Methotrexate	PLA2G4C	1
+Methotrexate	ATP6V0A4	1
+Methotrexate	TAF6L	1
+Methotrexate	CLN6	1
+Methotrexate	HOMEZ	1
+Methotrexate	KIAA0355	1
+Methotrexate	PCDHA4	1
+Methotrexate	AKAP2 /// PALM2-AKAP2	1
+Methotrexate	NUS1	1
+Methotrexate	PPP1R15B	1
+Methotrexate	UPK3A	1
+Methotrexate	MT1H	1
+Methotrexate	ZMYM3	1
+Methotrexate	RAD54B	1
+Methotrexate	SOX5	1
+Methotrexate	DLX4	1
+Methotrexate	TSC22D1	1
+Methotrexate	ULK2	1
+Methotrexate	SLC23A2	1
+Methotrexate	FAM108B1	1
+Methotrexate	KCNJ1	1
+Methotrexate	NEK7	1
+Methotrexate	FTSJD2	1
+Methotrexate	SLC1A4	1
+Methotrexate	PHLDA3	1
+Methotrexate	DYNLL2	1
+Methotrexate	GIP	1
+Methotrexate	TMEM188	1
+Methotrexate	AGPAT2	1
+Methotrexate	MTCH2	1
+Methotrexate	KRTAP5-7	1
+Methotrexate	TRIM14	1
+Methotrexate	MYADM	1
+Methotrexate	PGM5	1
+Methotrexate	BBOX1	1
+Methotrexate	GLTPD2	1
+Methotrexate	KCTD7	1
+Methotrexate	APOBEC3G	1
+Methotrexate	PIWIL2	1
+Methotrexate	C19orf2	1
+Methotrexate	NAA50	1
+Methotrexate	BTNL8	1
+Methotrexate	ZYX	1
+Methotrexate	G3BP2	1
+Methotrexate	DHDH	1
+Methotrexate	C18orf19	1
+Methotrexate	NODAL	1
+Methotrexate	MYOM1	1
+Methotrexate	TRIP10	1
+Methotrexate	GCH1	1
+Methotrexate	TMPRSS3	1
+Methotrexate	SCGB3A2	1
+Methotrexate	MPZL1	1
+Methotrexate	ZNF33A	1
+Methotrexate	SYP	1
+Methotrexate	IL13RA1	1
+Methotrexate	PCDHGB5	1
+Methotrexate	FAM83D	1
+Methotrexate	C1orf31	1
+Methotrexate	VIP	1
+Methotrexate	KCP	1
+Methotrexate	RNF19A	1
+Methotrexate	MORN1	1
+Methotrexate	KITLG	1
+Methotrexate	ZBTB33	1
+Methotrexate	LCE1A	1
+Methotrexate	IRX2	1
+Methotrexate	EDEM1	1
+Methotrexate	PLA2G12B	1
+Methotrexate	SOAT2	1
+Methotrexate	CASP2	1
+Methotrexate	BMPR1A /// LOC283155	1
+Monastrol	PAIP2B	1
+Monastrol	NRIP1	1
+Monastrol	KIF18A	1
+Monastrol	PBK	1
+Monastrol	SLC7A11	1
+Monastrol	SCLT1	1
+Monastrol	LDLR	1
+Monastrol	SGOL1	1
+Monastrol	APOLD1	1
+Monastrol	SGOL2	1
+Monastrol	EFR3B	1
+Monastrol	TTK	1
+Monastrol	AMY1A /// AMY1B /// AMY1C /// AMY2A /// AMY2B	1
+Monastrol	NEK2	1
+Monastrol	ANXA9	1
+Monastrol	SCAPER	1
+Monastrol	HMMR	1
+Monastrol	KIF20A	1
+Monastrol	AHNAK	1
+Monastrol	OIP5	1
+Monastrol	INSIG1	1
+Monastrol	CDKL3	1
+Monastrol	ZBED2	1
+Monastrol	NPC2	1
+Monastrol	CKAP2	1
+Monastrol	ANLN	1
+Monastrol	SKA1	1
+Monastrol	ENOX1	1
+Monastrol	EPSTI1	1
+Monastrol	GPSM2	1
+Monastrol	CCNB2	1
+Monastrol	SLC38A9	1
+Monastrol	AURKA	1
+Monastrol	CYP51A1	1
+Monastrol	FANCD2	1
+Monastrol	CDKN3	1
+Monastrol	MVK	1
+Monastrol	HMGCR	1
+Monastrol	NUF2	1
+Monastrol	KIAA0513	1
+Monastrol	MTSS1	1
+Monastrol	DCP2	1
+Monastrol	KIF14	1
+Monastrol	SKA3	1
+Monastrol	APOBEC3B	1
+Monastrol	ARHGAP11A	1
+Monastrol	HMGCS1	1
+Monastrol	TROAP	1
+Monastrol	SDCBP2	1
+Monastrol	PPP2R2B	1
+Monastrol	ARHGAP15	1
+Monastrol	CDC20	1
+Monastrol	MPHOSPH9	1
+Monastrol	DEPDC1	1
+Monastrol	MAGEB18	1
+Monastrol	MTM1	1
+Monastrol	PLCG2	1
+Monastrol	LBR	1
+Monastrol	CCNB1	1
+Monastrol	TMEM187	1
+Monastrol	CLCN5	1
+Monastrol	TTC8	1
+Monastrol	CCDC99	1
+Monastrol	FZD7	1
+Monastrol	FAT2	1
+Monastrol	KIF11	1
+Monastrol	LSM11	1
+Monastrol	TAX1BP3	1
+Monastrol	ARMCX1	1
+Monastrol	NCAPG	1
+Monastrol	GABPB1	1
+Monastrol	GAS2L3	1
+Monastrol	CDC25B	1
+Monastrol	FAM149B1	1
+Monastrol	C13orf37	1
+Monastrol	USP32	1
+Monastrol	CENPN	1
+Monastrol	CKS1B	1
+Monastrol	CLN8	1
+Monastrol	DLGAP5	1
+Monastrol	OCM /// OCM2	1
+Monastrol	KIFC1	1
+Monastrol	MYO18A /// TIAF1	1
+Monastrol	ALAD	1
+Monastrol	KIF20B	1
+Monastrol	SGPP1	1
+Monastrol	GRIK1	1
+Monastrol	STXBP6	1
+Monastrol	RAD52	1
+Monastrol	C13orf34	1
+Monastrol	CEP55	1
+Monastrol	C11orf67	1
+Monastrol	CKAP2L	1
+Monastrol	VLDLR	1
+Monastrol	MASTL	1
+Monastrol	KDM4C	1
+Monastrol	KIAA1919	1
+Monastrol	THAP10	1
+Monastrol	POLR2J2 /// POLR2J3 /// UPK3BL	1
+Monastrol	NIF3L1	1
+Monastrol	GLIPR1L1	1
+Monastrol	SPAG5	1
+Monastrol	SP2	1
+Monastrol	PIGL	1
+Monastrol	LRRC40	1
+Monastrol	PRC1	1
+Monastrol	METTL4	1
+Monastrol	EPC2	1
+Monastrol	C1orf107	1
+Monastrol	MGMT	1
+Monastrol	ZBTB22	1
+Monastrol	TBCK	1
+Monastrol	MAD2L1	1
+Monastrol	MED18	1
+Monastrol	SAMD9L	1
+Monastrol	HES6	1
+Monastrol	PLK1	1
+Monastrol	TSC1	1
+Monastrol	EFNB2	1
+Monastrol	ITCH	1
+Monastrol	CLYBL	1
+Monastrol	CENPA	1
+Monastrol	PGLYRP1	1
+Monastrol	ARHGAP20	1
+Monastrol	PRICKLE3	1
+Monastrol	TLN2	1
+Monastrol	WIPI1	1
+Monastrol	POLR1C	1
+Monastrol	NXT1	1
+Monastrol	FNDC4	1
+Monastrol	THSD7B	1
+Monastrol	ETV5	1
+Monastrol	C21orf91	1
+Monastrol	NHLRC2	1
+Monastrol	BIRC5	1
+Monastrol	DIAPH3	1
+Monastrol	COL4A6	1
+Monastrol	HAGHL	1
+Monastrol	OCEL1	1
+Monastrol	PRDM2	1
+Monastrol	DYNC1I1	1
+Monastrol	RAD1	1
+Monastrol	RBM15	1
+Monastrol	EME1	1
+Monastrol	POLH	1
+Monastrol	GAB2	1
+Monastrol	TXNDC3	1
+Monastrol	HLA-DOA	1
+Monastrol	AMZ2	1
+Monastrol	ATP8A1	1
+Monastrol	AURKB	1
+Monastrol	CCDC117	1
+Monastrol	ZBTB41	1
+Monastrol	RTDR1	1
+Monastrol	PDGFRL	1
+Monastrol	CLCNKA /// CLCNKB	1
+Monastrol	MTHFSD	1
+Monastrol	ADAM10	1
+Monastrol	VSTM1	1
+Monastrol	MARK1	1
+Monastrol	C11orf82	1
+Monastrol	UNG	1
+Monastrol	ZNF189	1
+Monastrol	DHCR24	1
+Monastrol	RAD54B	1
+Monastrol	ESCO2	1
+Monastrol	PTTG1 /// PTTG3P	1
+Monastrol	KIF4A	1
+Monastrol	TMEM188	1
+Monastrol	AGBL4	1
+Monastrol	H1FX	1
+Monastrol	ADAMTS1	1
+Monastrol	ALDH9A1	1
+Monastrol	ZNF720	1
+Monastrol	GTSE1	1
+Monastrol	Septin 4	1
+Monastrol	SHOC2	1
+Monastrol	CLDN12 /// GTPBP10	1
+Monastrol	HNMT	1
+Monastrol	DOCK8	1
+Monastrol	KIAA0196	1
+Monastrol	AMPH	1
+Monastrol	ERCC6L	1
+Monastrol	S100B	1
+Monastrol	EFCAB2	1
+Monastrol	PCBP3	1
+Monastrol	NHSL1	1
+Monastrol	CCNA2	1
+Monastrol	SOLH	1
+Monastrol	ARHGAP19	1
+Monastrol	IFT80	1
+Monastrol	ACACA	1
+Monastrol	TMEM41B	1
+Monastrol	COL13A1	1
+Monastrol	DHX58	1
+Monastrol	SRR	1
+Monastrol	PAOX	1
+Monastrol	RD3	1
+Monastrol	ISG15	1
+Monastrol	KIF23	1
+Monastrol	ICA1	1
+Monastrol	RNF38	1
+Monastrol	POLQ	1
+Monastrol	C2orf39	1
+Monastrol	ZNF561	1
+Monastrol	C15orf29	1
+Monastrol	RAB32	1
+Monastrol	BCL10	1
+Monastrol	RPS29	1
+Monastrol	SELM	1
+Monastrol	DBF4B	1
+Monastrol	PDCL	1
+Monastrol	BCAP29	1
+Monastrol	SPIRE1	1
+Monastrol	MIER1	1
+Monastrol	EXOC8	1
+Monastrol	SHCBP1	1
+Monastrol	SLC9A6	1
+Monastrol	GBA	1
+Monastrol	ATP5S	1
+Monastrol	DPPA4	1
+Monastrol	IQGAP2	1
+Monastrol	SLC5A11	1
+Monastrol	BMP2K	1
+Monastrol	SMTN	1
+Monastrol	C1orf69	1
+Monastrol	C10orf84	1
+Monastrol	LITAF	1
+Monastrol	EDDM3A	1
+Monastrol	AMICA1	1
+Monastrol	ABI3	1
+Monastrol	TWIST1	1
+Monastrol	SLK	1
+Monastrol	TRAF3IP2	1
+Monastrol	PA2G4	1
+Monastrol	SHISA3	1
+Monastrol	CPT1A	1
+Monastrol	GALNTL1	1
+Monastrol	CDH5	1
+Monastrol	RPRD2	1
+Monastrol	KIF22	1
+Monastrol	ITGA6	1
+Monastrol	SRXN1	1
+Monastrol	TM2D2	1
+Monastrol	TACC3	1
+Monastrol	SMPD1	1
+Monastrol	ANKRD2	1
+Monastrol	TRAF4	1
+Monastrol	AFAP1L1	1
+Monastrol	TNFAIP8L1	1
+Monastrol	CENPO	1
+Monastrol	LCORL	1
+Monastrol	HFM1	1
+Monastrol	LMX1B	1
+Monastrol	HPCAL1	1
+Monastrol	AKAP12	1
+Monastrol	TCOF1	1
+Monastrol	FOXR1	1
+Monastrol	EBF1	1
+Monastrol	CGNL1	1
+Monastrol	WBP2	1
+Monastrol	RALGAPA2	1
+Monastrol	SCN2A	1
+Monastrol	LYZL1 /// LYZL2	1
+Monastrol	RNF157	1
+Monastrol	FNDC8	1
+Monastrol	MASP2	1
+Monastrol	DNAL4	1
+Monastrol	CRISP2	1
+Monastrol	PEX19	1
+Monastrol	KLHL32	1
+Monastrol	March 9	1
+Monastrol	FAM104A	1
+Monastrol	MAPK10	1
+Monastrol	DCHS1	1
+Monastrol	CLEC1B	1
+Monastrol	C7orf60	1
+Monastrol	CTSS	1
+Monastrol	PDLIM7	1
+Monastrol	BEST2	1
+Monastrol	NSDHL	1
+Monastrol	COL3A1	1
+Monastrol	LGALS3BP	1
+Monastrol	DLC1	1
+Monastrol	ADRBK2	1
+Monastrol	IQGAP3	1
+Monastrol	SENP6	1
+Monastrol	MON1A	1
+Monastrol	FIGF	1
+Monastrol	HAP1	1
+Monastrol	PFKFB3	1
+Monastrol	CARD18	1
+Monastrol	CDC25C	1
+Monastrol	LILRB2	1
+Monastrol	C6orf167	1
+Monastrol	TMEM209	1
+Monastrol	C20orf117	1
+Monastrol	MCART1	1
+Monastrol	RNF144B	1
+Monastrol	RAPGEF3	1
+Monastrol	IFIT2	1
+Monastrol	OSGIN2	1
+Monastrol	VTI1A	1
+Monastrol	FOS	1
+Monastrol	FILIP1L	1
+Monastrol	SLC25A10	1
+Monastrol	C1orf194	1
+Monastrol	KIAA1244	1
+Monastrol	ZNF395	1
+Monastrol	CNOT3	1
+Monastrol	WNT4	1
+Monastrol	KRT20	1
+Monastrol	SH2D3A	1
+Monastrol	FXR1	1
+Monastrol	CSRP2BP /// PET117	1
+Monastrol	SLC1A1	1
+Monastrol	STX5	1
+Monastrol	PXDN	1
+Monastrol	TLE4	1
+Monastrol	BCKDK	1
+Monastrol	SERPINA3	1
+Monastrol	ZCCHC17	1
+Monastrol	ACAT2	1
+Monastrol	IL4	1
+Monastrol	MKI67	1
+Monastrol	LRRC4B	1
+Monastrol	GATA5	1
+Monastrol	SCRN1	1
+Monastrol	SLC28A1	1
+H-7	C18orf1	1
+H-7	HSPA5	1
+H-7	SDF2L1	1
+H-7	HNRNPD	1
+H-7	USMG5	1
+H-7	GALR2	1
+H-7	ZPLD1	1
+H-7	MTSS1	1
+H-7	PRDM2	1
+H-7	AICDA	1
+H-7	HNRNPA3 /// HNRNPA3P1	1
+H-7	CRELD2	1
+H-7	GAB2	1
+H-7	C16orf87	1
+H-7	CASP4	1
+H-7	TLR5	1
+H-7	PCMTD1	1
+H-7	NR4A1	1
+H-7	ISG15	1
+H-7	CD9	1
+H-7	PDIA6	1
+H-7	PLEC	1
+H-7	RNF14	1
+H-7	C17orf61	1
+H-7	ARPP19	1
+H-7	SERF1A /// SERF1B	1
+H-7	CCL3	1
+H-7	MGEA5	1
+H-7	PREX1	1
+H-7	POPDC2	1
+H-7	KLHL4	1
+H-7	ATP6V0E1	1
+H-7	TMEM106A	1
+H-7	RPS14	1
+H-7	DDIT4L	1
+H-7	NQO1	1
+H-7	SDCBP2	1
+H-7	HIST1H2BK	1
+H-7	POLD4	1
+H-7	MTM1	1
+H-7	SLC38A9	1
+H-7	TNFAIP3	1
+H-7	DTX3L	1
+H-7	P4HA2	1
+H-7	MTHFSD	1
+H-7	DPH3	1
+H-7	CDK2AP2	1
+H-7	SCAPER	1
+H-7	SF3B4	1
+H-7	HMSD	1
+H-7	AG2	1
+H-7	RBM15	1
+H-7	KLF6	1
+H-7	ATG2B	1
+H-7	SAMSN1	1
+H-7	ANAPC10	1
+H-7	MAP6D1	1
+H-7	LYST	1
+H-7	EXOC1	1
+H-7	SLC22A17	1
+H-7	XBP1	1
+H-7	SLC7A2	1
+H-7	HNRNPA1 /// HNRPA1L-2	1
+H-7	MANF	1
+H-7	SAMD9L	1
+H-7	ISOC2	1
+H-7	MDM1	1
+H-7	IL15	1
+H-7	ZNF160	1
+H-7	IRF2BP2	1
+H-7	TIFA	1
+H-7	HCP5	1
+H-7	TMEM187	1
+H-7	TNFAIP8	1
+H-7	NCOA4	1
+H-7	C6orf89	1
+H-7	EXOC8	1
+H-7	RAB8B	1
+H-7	SLC20A2	1
+H-7	DNAJB14	1
+H-7	AHRR	1
+H-7	DDB2	1
+H-7	AGPAT4	1
+H-7	TNFSF12	1
+H-7	RPS29	1
+H-7	CCL20	1
+H-7	RWDD1	1
+H-7	TNIP1	1
+H-7	SYNJ2BP	1
+H-7	EIF1AX	1
+H-7	PTP4A1	1
+H-7	SOS1	1
+H-7	RASA1	1
+H-7	TBC1D9	1
+H-7	MDFIC	1
+H-7	RP2	1
+H-7	RCBTB1	1
+H-7	FEM1C	1
+H-7	LRRC40	1
+H-7	CAB39L	1
+H-7	ZNF425	1
+H-7	NEURL1B	1
+H-7	MYADM	1
+H-7	LMNA	1
+H-7	JAZF1	1
+H-7	GLIPR1L1	1
+H-7	CXCR7	1
+H-7	FAS	1
+H-7	FAT2	1
+H-7	CMTM3	1
+H-7	TMCO1	1
+H-7	TAF10	1
+H-7	GTF2A2	1
+H-7	HIST1H2AC	1
+H-7	XPO1	1
+H-7	NCS1	1
+H-7	PAQR8	1
+H-7	PDCD10	1
+H-7	ARHGAP17	1
+H-7	USP12	1
+H-7	PIGS	1
+H-7	ATP2C1	1
+H-7	MEA1	1
+H-7	KIAA1715	1
+H-7	ZZZ3	1
+H-7	UBE2W	1
+H-7	IKBIP	1
+H-7	March 7	1
+H-7	BCL6	1
+H-7	NEK2	1
+H-7	C5orf44	1
+H-7	TMEM222	1
+H-7	CYP1B1	1
+H-7	ACYP1	1
+H-7	SNF8	1
+H-7	BATF	1
+H-7	MAP4K4	1
+H-7	LHFPL3	1
+H-7	UPF3B	1
+H-7	THAP10	1
+H-7	HNRPLL	1
+H-7	WDYHV1	1
+H-7	CPEB2	1
+H-7	TRAK2	1
+H-7	CLN5	1
+H-7	RAPGEF1	1
+H-7	HS3ST5	1
+H-7	CUZD1	1
+H-7	GRIK1	1
+H-7	IQGAP2	1
+H-7	UST	1
+H-7	AIMP1	1
+H-7	ZNF709	1
+H-7	KRAS	1
+H-7	HIST1H2BD	1
+H-7	CDKL3	1
+H-7	CXCL5 /// GLYR1	1
+H-7	KAZ	1
+H-7	FBXW8	1
+H-7	NHLRC2	1
+H-7	KREMEN1	1
+H-7	LOC150786 /// RAB6A /// RAB6C	1
+H-7	BASP1	1
+H-7	TTC13	1
+H-7	FMO5	1
+H-7	TIPARP	1
+H-7	MAEA	1
+H-7	ARL6IP5	1
+H-7	MDGA1	1
+H-7	C16orf68	1
+H-7	SERINC1	1
+H-7	INPP1	1
+H-7	ATL3	1
+H-7	ZC3H6	1
+H-7	MYO7A	1
+H-7	GPR132	1
+H-7	GIMAP5	1
+H-7	CPT1A	1
+H-7	SEMA4B	1
+H-7	CYTSB	1
+H-7	EXOC2	1
+H-7	TMEM106C	1
+H-7	ZNF277	1
+H-7	PBK	1
+H-7	EGR4	1
+H-7	RAB39B	1
+H-7	MMD	1
+H-7	FAM47B	1
+H-7	ACAT2	1
+H-7	UHRF1BP1L	1
+H-7	ZNF330	1
+H-7	SYTL3	1
+H-7	SH3BP2	1
+H-7	BRD8	1
+H-7	TMEM68	1
+H-7	HNRNPH2	1
+H-7	TM2D2	1
+H-7	PELI1	1
+H-7	GLB1	1
+H-7	PNMA1	1
+H-7	DNAL4	1
+H-7	DYNLT3	1
+H-7	RUNX2	1
+H-7	HAUS3	1
+H-7	TXNDC9	1
+H-7	TMBIM1	1
+H-7	ARPC1A /// ARPC1B	1
+H-7	SNRNP25	1
+H-7	WDR45L	1
+H-7	CCND2	1
+H-7	ACBD5	1
+H-7	GPR183	1
+H-7	KLHL9	1
+H-7	MGLL	1
+H-7	TXNDC3	1
+H-7	RAD23A	1
+H-7	TUBB2A	1
+H-7	PMAIP1	1
+H-7	ILK	1
+H-7	CBWD1 /// CBWD3	1
+H-7	FUCA1	1
+H-7	C11orf30	1
+H-7	DRAM1	1
+H-7	SLC37A1	1
+H-7	ARL8B	1
+H-7	DNAJB11	1
+H-7	ANKRD13C	1
+H-7	C11orf84	1
+H-7	CRNKL1	1
+H-7	COL4A1	1
+H-7	MRPL33	1
+H-7	YIPF5	1
+H-7	PLXNB2	1
+H-7	SYK	1
+H-7	C1orf212	1
+H-7	TTC5	1
+H-7	NLN	1
+H-7	CCDC6	1
+H-7	TNFSF13B	1
+H-7	RAB18	1
+H-7	MARK1	1
+H-7	RNF6	1
+H-7	THUMPD3	1
+H-7	ZNF2	1
+H-7	AK3	1
+H-7	RNASEH2B	1
+H-7	KIAA1919	1
+H-7	ARL6	1
+H-7	TANK	1
+H-7	RPL22L1	1
+H-7	C16orf53	1
+H-7	CCDC117	1
+H-7	SLC27A6	1
+H-7	MSN	1
+H-7	AIM1	1
+H-7	PLEKHG1	1
+H-7	BARX2	1
+H-7	DNAH14	1
+H-7	RNF38	1
+H-7	ATG16L2	1
+H-7	ACAP1	1
+H-7	EPS15	1
+H-7	YTHDF2	1
+H-7	PIK3R5	1
+H-7	RPS6KC1	1
+H-7	ZDHHC7	1
+H-7	SGTB	1
+H-7	C9orf142	1
+H-7	ADCY1	1
+H-7	OTUD7B	1
+H-7	SEC23A	1
+H-7	SERINC3	1
+H-7	STAT4	1
+H-7	NR3C1	1
+H-7	SBNO2	1
+H-7	PDGFA	1
+H-7	SPG7	1
+H-7	ADD1	1
+H-7	MTMR10	1
+H-7	AKAP2 /// PALM2-AKAP2	1
+H-7	KATNAL1	1
+H-7	ATP6V0D1	1
+H-7	RRM2B	1
+H-7	C10orf84	1
+H-7	POLG	1
+H-7	OGG1	1
+H-7	PTGER3	1
+H-7	C18orf10	1
+H-7	FBXW7	1
+H-7	KIAA0564	1
+H-7	HCST	1
+H-7	IL1A	1
+H-7	KIF18A	1
+H-7	TMEM50A	1
+H-7	ITGA4	1
+H-7	ECE1	1
+H-7	C3orf21	1
+H-7	CERKL	1
+H-7	PSEN1	1
+H-7	KLC1	1
+H-7	JKAMP	1
+H-7	NWD1	1
+H-7	GHRL	1
+H-7	KLF13	1
+H-7	OAS1	1
+H-7	FLVCR2	1
+H-7	NUDT19	1
+H-7	UHRF2	1
+H-7	RAD17	1
+H-7	BFAR	1
+H-7	C13orf37	1
+H-7	TRIM66	1
+H-7	ACADM	1
+H-7	GNA15	1
+H-7	MAN1B1	1
+H-7	ACAP2	1
+H-7	CCNG1	1
+H-7	GABARAPL2	1
+H-7	KIAA0247	1
+H-7	PPP2CB	1
+H-7	UBLCP1	1
+H-7	RAB32	1
+H-7	AP3S2	1
+H-7	SULF2	1
+H-7	MLF1IP	1
+H-7	CSGALNACT2	1
+H-7	NRAS	1
+H-7	SENP6	1
+H-7	SLC27A3	1
+H-7	CTNNB1	1
+H-7	TROVE2	1
+H-7	RDH14	1
+H-7	SPRED2	1
+H-7	WDR44	1
+H-7	MGP	1
+H-7	CLCN4	1
+H-7	WDR20	1
+H-7	KCTD3	1
+H-7	CLCNKA /// CLCNKB	1
+H-7	TTK	1
+H-7	ADD3	1
+H-7	SNX13	1
+H-7	KCND1	1
+H-7	SERPINB8	1
+H-7	CTNND2	1
+H-7	PMF1	1
+H-7	SYCE1	1
+H-7	CNIH	1
+H-7	CLIC2	1
+H-7	SELL	1
+H-7	SGK1	1
+H-7	SYNGR3	1
+H-7	RTEL1 /// TNFRSF6B	1
+H-7	MOBKL3	1
+H-7	WAPAL	1
+H-7	LZTS1	1
+H-7	C11orf31	1
+H-7	FAM126B	1
+H-7	TSPO	1
+H-7	TMEM205	1
+H-7	LRRC8C	1
+H-7	ACVR2A	1
+H-7	COL4A3BP	1
+H-7	UBOX5	1
+H-7	C20orf24	1
+H-7	ANKHD1	1
+H-7	TEP1	1
+H-7	MPDU1	1
+H-7	MRS2	1
+H-7	NAP1L2	1
+H-7	PDCL	1
+H-7	ERCC5	1
+H-7	PHGDH	1
+H-7	CYFIP2	1
+H-7	SOX4	1
+H-7	CNBP	1
+H-7	ADAM17	1
+H-7	ULK2	1
+H-7	ANXA4	1
+H-7	DUSP2	1
+H-7	KCNJ2	1
+H-7	NSL1	1
+H-7	C20orf117	1
+H-7	GNAI3	1
+H-7	BTG2	1
+H-7	RHBDD2	1
+H-7	LPAR3	1
+H-7	XIAP	1
+H-7	POLK	1
+H-7	KIAA1826	1
+H-7	ZNF200	1
+H-7	C1orf52	1
+H-7	BVES	1
+H-7	STAT5B	1
+H-7	NT5C1B	1
+H-7	SGPP1	1
+H-7	FAM190B	1
+H-7	RANBP6	1
+H-7	WDR26	1
+H-7	SERPINC1	1
+H-7	JOSD2	1
+H-7	ANKRD10	1
+H-7	STAT3	1
+H-7	EGLN1	1
+H-7	BMP1	1
+H-7	CALM3	1
+H-7	USE1	1
+H-7	CD40	1
+H-7	ALCAM	1
+H-7	LBR	1
+H-7	RFFL	1
+H-7	TMEM25	1
+H-7	ACTN1	1
+H-7	C21orf56	1
+H-7	C14orf142	1
+H-7	RHPN1	1
+H-7	DGCR2	1
+H-7	POLR1D	1
+H-7	CDC42	1
+H-7	ZNF551	1
+H-7	ELAVL1	1
+H-7	PDE4D	1
+H-7	MVP	1
+H-7	PTPN6	1
+H-7	KLF12	1
+H-7	FNBP1	1
+H-7	DLD	1
+H-7	SMAD5	1
+H-7	ZNF564	1
+H-7	RPRD2	1
+H-7	MCC	1
+H-7	ZNF587	1
+H-7	CDC42EP3	1
+H-7	FIGF	1
+H-7	C5orf23	1
+H-7	FLVCR1	1
+H-7	PURB	1
+H-7	HIST1H2BN	1
+H-7	C1orf107	1
+H-7	TRIP10	1
+H-7	WDSUB1	1
+H-7	CTTNBP2NL	1
+H-7	RNF138	1
+H-7	PLCL2	1
+H-7	SPRR2A	1
+H-7	GDAP2	1
+H-7	TCOF1	1
+H-7	GNAQ	1
+H-7	CAP1	1
+H-7	C12orf5	1
+H-7	ZNF780A	1
+H-7	ZNF419	1
+H-7	ST8SIA1	1
+H-7	VAMP2	1
+H-7	BBS12	1
+H-7	SRR	1
+H-7	GLYR1	1
+H-7	DSTN	1
+H-7	KLF11	1
+H-7	RNPC3	1
+H-7	TICAM1	1
+H-7	SH3GL2	1
+H-7	GABPB1	1
+H-7	ATPAF2	1
+H-7	TCTA	1
+H-7	ATF6B	1
+H-7	RAB23	1
+H-7	C10orf88	1
+H-7	SOCS6	1
+H-7	KLF1	1
+H-7	SEC11A	1
+H-7	MICB	1
+H-7	APOLD1	1
+H-7	KIF3B	1
+H-7	TMEM150A	1
+H-7	TMEM188	1
+H-7	CCDC88C	1
+H-7	RAC1	1
+H-7	UBL4A	1
+H-7	ACSL1	1
+H-7	RAP1A	1
+H-7	WDR47	1
+H-7	PPP1R14C	1
+H-7	ZNF510	1
+H-7	CHST7	1
+H-7	VDR	1
+H-7	PPP1R12A	1
+H-7	IFNGR2	1
+H-7	MMD2	1
+H-7	NDUFB1	1
+H-7	PUS3	1
+H-7	RMI1	1
+H-7	DLAT	1
+H-7	KCNMB2	1
+H-7	MTMR3	1
+H-7	SAR1B	1
+H-7	EMX2	1
+H-7	PARVB	1
+H-7	FAM13B	1
+H-7	UBE2N	1
+H-7	ZDHHC8	1
+H-7	UBQLN2	1
+H-7	FBXO30	1
+H-7	AGPAT3	1
+H-7	ARHGAP33	1
+H-7	SNRPN /// SNURF	1
+H-7	SGCB	1
+H-7	TSPAN18	1
+H-7	TSC1	1
+H-7	CLP1	1
+H-7	STK35	1
+H-7	PTPN21	1
+H-7	GPCPD1	1
+H-7	GDI1	1
+H-7	FAM164A	1
+H-7	CEP68	1
+H-7	NR2C2	1
+H-7	KIAA1279	1
+H-7	KPNA4	1
+H-7	MSL1	1
+H-7	RAB5A	1
+H-7	VPS13D	1
+H-7	IL10RB	1
+H-7	PTGER4	1
+H-7	HEBP2	1
+H-7	IL4I1	1
+H-7	SNTB2	1
+H-7	PHF21A	1
+H-7	NGFRAP1	1
+H-7	C9orf119	1
+H-7	RBMS1	1
+H-7	CKAP2	1
+H-7	PDGFRL	1
+H-7	AZIN1	1
+H-7	MAP3K1	1
+H-7	SLC26A3	1
+H-7	BCL11B	1
+H-7	SPATA7	1
+H-7	PLEKHA3	1
+H-7	CAV1	1
+H-7	HCCS	1
+H-7	SEMA3C	1
+H-7	ANKRD27	1
+H-7	DCK	1
+H-7	TSPAN33	1
+H-7	CEP170	1
+H-7	MED4	1
+H-7	KIF1C	1
+H-7	TMEM9B	1
+H-7	SUCLG1	1
+H-7	BIRC5	1
+H-7	PRC1	1
+H-7	C16orf48	1
+H-7	MCART1	1
+H-7	MAP3K12	1
+H-7	DR1	1
+H-7	ELP2	1
+H-7	PRKX	1
+H-7	FANCA	1
+H-7	ZC3H11A	1
+H-7	DSCR3	1
+H-7	SORD	1
+H-7	PCSK5	1
+H-7	C11orf95	1
+H-7	BIN3	1
+H-7	HERPUD1	1
+H-7	ZNF627	1
+H-7	C18orf19	1
+H-7	THAP2	1
+H-7	ELMO2	1
+H-7	GIT2	1
+H-7	AP1M1	1
+H-7	GRIN2A	1
+H-7	RNF11	1
+H-7	MUSTN1	1
+H-7	HRNBP3	1
+H-7	PPY	1
+H-7	BIRC2	1
+H-7	YRDC	1
+H-7	TXNL4B	1
+H-7	TBC1D14	1
+H-7	FUBP1	1
+H-7	ZFPM2	1
+H-7	LIG4	1
+H-7	RALA	1
+H-7	ELMOD2	1
+H-7	ELK3	1
+H-7	TTC9C	1
+H-7	HCFC2	1
+H-7	ZNRF1	1
+H-7	PLAU	1
+H-7	MTCH1	1
+H-7	SRXN1	1
+H-7	DNAL1	1
+H-7	PLRG1	1
+H-7	ILDR1	1
+H-7	MINPP1	1
+H-7	SLC2A1	1
+H-7	KLHL21	1
+H-7	ORMDL3	1
+H-7	MRPL44	1
+H-7	FOXP4	1
+H-7	C11orf57	1
+H-7	URB1	1
+H-7	FAM71D /// SF3B4	1
+H-7	HIPK2	1
+H-7	BAD	1
+H-7	NKX3-1	1
+H-7	ZNF512	1
+H-7	CALR	1
+H-7	SELT	1
+H-7	TDRD7	1
+H-7	SLC25A27	1
+H-7	PQLC1	1
+H-7	TM9SF3	1
+H-7	NUP50	1
+H-7	HIVEP1	1
+H-7	C1orf55	1
+H-7	DAPK1	1
+H-7	CARKD	1
+H-7	CTSK	1
+H-7	HINT3	1
+H-7	YIPF4	1
+H-7	IFI27L2	1
+H-7	SECISBP2	1
+H-7	LRP12	1
+H-7	MAPKSP1	1
+H-7	TMEM123	1
+H-7	SLC25A20	1
+H-7	PTEN	1
+H-7	CGRRF1	1
+H-7	SACS	1
+H-7	GSS	1
+H-7	BRAP	1
+H-7	ZBTB45	1
+H-7	SLC6A6	1
+H-7	DUSP22	1
+H-7	C14orf129	1
+H-7	CDH2	1
+H-7	ZNF667	1
+H-7	ZNF84	1
+H-7	NR1D2	1
+H-7	POLA2	1
+H-7	NCOA1	1
+H-7	MAP4K5	1
+H-7	FIGNL1	1
+H-7	DNAJC10	1
+H-7	BIK	1
+H-7	JAKMIP2	1
+H-7	DNAJB6	1
+H-7	LUC7L3	1
+H-7	EIF2B1	1
+H-7	THSD1 /// THSD1P1	1
+H-7	HSP90AA1	1
+H-7	GPR107	1
+H-7	C2orf69	1
+H-7	ZBTB34	1
+H-7	ZMIZ1	1
+H-7	CAST	1
+H-7	MPP6	1
+H-7	LSMD1	1
+H-7	SEC24B	1
+H-7	PDZRN3	1
+H-7	TYRP1	1
+H-7	RAB11FIP1	1
+H-7	TANC1	1
+H-7	SGOL2	1
+H-7	TNFAIP8L1	1
+H-7	FBXW2	1
+H-7	TMEM231	1
+H-7	PEPD	1
+H-7	RPA3	1
+H-7	PTPRK	1
+H-7	YOD1	1
+H-7	TRNAU1AP	1
+H-7	CBY1	1
+H-7	AKAP13	1
+H-7	MED23	1
+H-7	DIDO1	1
+H-7	C14orf79	1
+H-7	NOD1	1
+H-7	AGPHD1	1
+H-7	SUV420H1	1
+H-7	FZR1	1
+H-7	ABI3	1
+H-7	LY75	1
+H-7	PSMD9	1
+H-7	ZNF365	1
+H-7	FAM18B /// FAM18B2	1
+H-7	MTX3	1
+H-7	DOCK4	1
+H-7	GPR160	1
+H-7	PTPN9	1
+H-7	ACY1	1
+H-7	ASB8	1
+H-7	ZNF148	1
+H-7	FAM174A	1
+H-7	KBTBD6	1
+H-7	BCOR	1
+H-7	SPESP1	1
+H-7	LRRN3	1
+H-7	SHPK	1
+H-7	HNRNPH3	1
+H-7	NKRF	1
+H-7	PARP6	1
+H-7	FAM91A1	1
+H-7	SUOX	1
+H-7	C17orf106 /// CDK3	1
+H-7	FAM32A	1
+H-7	MST1R	1
+H-7	G3BP2	1
+H-7	NFIX	1
+H-7	JAKMIP1	1
+H-7	DCAF12L1	1
+H-7	ATP6V0B	1
+H-7	SUN1	1
+H-7	HEATR5B	1
+H-7	CD81	1
+H-7	SMAD4	1
+H-7	STK38	1
+H-7	SDF2	1
+H-7	PXMP4	1
+H-7	ZNF267	1
+H-7	SYT13	1
+H-7	AARS	1
+H-7	DIS3	1
+H-7	KHDRBS3	1
+H-7	LCORL	1
+H-7	RNF7	1
+H-7	TRIM22	1
+H-7	OTP	1
+H-7	SFRS7	1
+H-7	DDX5	1
+H-7	STAT5A	1
+H-7	EHHADH	1
+H-7	COQ6	1
+H-7	REEP1	1
+H-7	PLEKHB2	1
+H-7	LMNB2	1
+H-7	NMD3	1
+H-7	OBFC2A	1
+H-7	ALG9	1
+H-7	TPRA1	1
+H-7	AP1M2	1
+H-7	HIVEP2	1
+H-7	CXorf40A /// CXorf40B	1
+H-7	CEP97	1
+H-7	KCTD14	1
+H-7	IL8	1
+H-7	BLOC1S1	1
+H-7	NKTR	1
+H-7	GRHPR	1
+H-7	OCM /// OCM2	1
+H-7	KIAA1244	1
+H-7	POLH	1
+H-7	AOC2	1
+H-7	LOC150776 /// SMPD4	1
+H-7	WARS	1
+H-7	SDF4	1
+H-7	ASRGL1	1
+H-7	ZFHX3	1
+H-7	GIMAP2	1
+H-7	NRBF2	1
+H-7	MTMR9	1
+H-7	ZNF653	1
+H-7	SDSL	1
+H-7	GRPEL2	1
+H-7	DDX59	1
+H-7	FAHD2A /// FAHD2B	1
+H-7	TIMP3	1
+H-7	ETFB	1
+H-7	OXSM	1
+H-7	MYLIP	1
+H-7	RAD54B	1
+H-7	COMMD9	1
+H-7	SMU1	1
+H-7	NEK7	1
+H-7	USP38	1
+H-7	NUF2	1
+H-7	CLEC1B	1
+H-7	WDR37	1
+H-7	NDFIP1	1
+H-7	SND1	1
+H-7	CLDN12 /// GTPBP10	1
+H-7	TIPRL	1
+H-7	KIF26A	1
+H-7	NAPG	1
+H-7	SMARCE1	1
+H-7	TBX19	1
+H-7	PTPRM	1
+H-7	CRKL	1
+H-7	DCLRE1B	1
+H-7	PLCB3	1
+H-7	SRP54	1
+H-7	PKN2	1
+H-7	CCDC84	1
+H-7	MT1H	1
+H-7	ATRNL1	1
+H-7	PEX11B	1
+H-7	RBM18	1
+H-7	ZBTB41	1
+H-7	C1orf198	1
+H-7	KIF23	1
+H-7	GNPDA2	1
+H-7	TMX1	1
+H-7	CCDC66	1
+H-7	WRNIP1	1
+H-7	SLC30A7	1
+H-7	EPSTI1	1
+H-7	C1orf9	1
+H-7	TRIM35	1
+H-7	HSD17B10	1
+H-7	GAK	1
+H-7	TALDO1	1
+H-7	IL15RA	1
+H-7	CFH	1
+H-7	FEZ2	1
+H-7	PDSS1	1
+H-7	ZNF24	1
+H-7	DTD1	1
+H-7	GSTO1	1
+H-7	BNIP2	1
+H-7	SLC17A9	1
+H-7	March 2	1
+H-7	DAP3	1
+H-7	EMP2	1
+H-7	KIAA2013	1
+H-7	RNF19A	1
+H-7	ANKRD40	1
+H-7	DNAJB14 /// LOC646358	1
+H-7	COCH	1
+H-7	CCDC28A	1
+H-7	GMFG	1
+H-7	FAR1	1
+H-7	COG4	1
+H-7	WDR6	1
+H-7	RPS15A	1
+H-7	ACP2	1
+H-7	NPEPPS	1
+H-7	CHD5	1
+H-7	RUFY1	1
+H-7	RNF144B	1
+H-7	BTN2A1	1
+H-7	SCLT1	1
+H-7	CNOT3	1
+H-7	ZDHHC17	1
+H-7	C17orf71	1
+H-7	DDX20	1
+H-7	PRKCDBP	1
+H-7	POMT2	1
+H-7	B4GALT2	1
+H-7	TMEM81	1
+H-7	ZBED4	1
+H-7	RELA	1
+H-7	FAM91A1 /// FAM91A2	1
+H-7	SIT1	1
+H-7	KLHL28	1
+H-7	PAPD7	1
+H-7	UTP23	1
+H-7	C20orf196	1
+H-7	PCOLCE	1
+H-7	PRKCA	1
+H-7	GLTPD2	1
+H-7	NEU1	1
+H-7	C11orf82	1
+H-7	FAM49B	1
+H-7	DYNLT1	1
+H-7	N4BP2L1	1
+H-7	DDX41	1
+H-7	CTDSPL2	1
+H-7	ADAMTS10	1
+H-7	TMEM45A	1
+H-7	C1orf56	1
+H-7	ZNF16	1
+H-7	FGB	1
+H-7	CHMP1B	1
+H-7	AP1S2	1
+H-7	SRPR	1
+H-7	STXBP5L	1
+H-7	KIAA0406	1
+H-7	TMPPE	1
+H-7	RIT1	1
+H-7	SEC14L2	1
+H-7	MLL5	1
+H-7	GRINA	1
+H-7	STK17B	1
+H-7	BCL9L	1
+H-7	HEXIM1	1
+H-7	MOAP1	1
+H-7	ZNF23	1
+H-7	PFDN6	1
+H-7	GALNTL4	1
+H-7	TMX3	1
+H-7	ANAPC4	1
+H-7	EDARADD	1
+H-7	UCP2	1
+H-7	DSG2	1
+H-7	PSMC3IP	1
+H-7	RING1	1
+H-7	HLA-C	1
+H-7	GTF2E1	1
+H-7	FBXO3	1
+H-7	KTI12	1
+H-7	KIF20A	1
+H-7	PLXNA3	1
+H-7	SAR1A	1
+H-7	KLHL20	1
+H-7	AHI1	1
+H-7	ZC3H3	1
+H-7	NOVA1	1
+H-7	MINA	1
+H-7	CCDC148	1
+H-7	SLC35D2	1
+H-7	UCN	1
+H-7	FAM160B1	1
+H-7	TRABD	1
+H-7	TMEM111	1
+H-7	SH3D19	1
+H-7	ATP6V1F	1
+H-7	FAM160A2	1
+H-7	C20orf11	1
+H-7	ARF6	1
+H-7	ZWILCH	1
+H-7	LCLAT1	1
+H-7	YWHAH	1
+H-7	TMCC1	1
+H-7	FBXL5	1
+H-7	PJA2	1
+H-7	ISM1	1
+H-7	HAGHL	1
+H-7	POP1	1
+H-7	ZNF791	1
+H-7	DENND3	1
+H-7	ANKRD11	1
+H-7	CTRL /// PSMB10	1
+H-7	FBXO8	1
+H-7	EXOSC9	1
+H-7	COX4NB	1
+H-7	C9orf78	1
+H-7	ESPL1	1
+H-7	COX19	1
+H-7	ATP6AP2	1
+H-7	ZNF263	1
+H-7	ZBTB6	1
+H-7	ID1	1
+H-7	SOX5	1
+H-7	RAB7A	1
+H-7	FAM60A	1
+H-7	DACT1	1
+H-7	PHIP	1
+H-7	RC3H2	1
+H-7	IFNGR1	1
+H-7	SNRK	1
+H-7	PRKAG2	1
+H-7	WWP1	1
+H-7	POLR2G	1
+H-7	TSG101	1
+H-7	SAMD9	1
+H-7	IRF7	1
+H-7	CCDC85B	1
+H-7	SNCAIP	1
+H-7	OCIAD2	1
+H-7	C12orf66	1
+H-7	ARHGAP20	1
+H-7	PEF1	1
+H-7	PPIB	1
+H-7	ANO10	1
+H-7	MED13L	1
+H-7	DAZAP1	1
+H-7	MDM4	1
+H-7	USP35	1
+H-7	NDE1	1
+H-7	PITPNM1	1
+H-7	ZNF193	1
+H-7	TMEM59	1
+H-7	CYB5D1	1
+H-7	RHOF	1
+H-7	DNAJC25	1
+H-7	MRPS23	1
+H-7	AKT2	1
+H-7	UGCG	1
+H-7	PRDM16	1
+H-7	ACOT13	1
+H-7	CHIC2	1
+H-7	TTC33	1
+H-7	DIO2	1
+H-7	HAS3	1
+H-7	BYSL	1
+H-7	C5orf41	1
+H-7	FSTL3	1
+H-7	SH3GLB1	1
+H-7	SC65	1
+H-7	STEAP3	1
+H-7	C1orf216	1
+H-7	PDHX	1
+H-7	SMCR7L	1
+H-7	BTBD9	1
+H-7	RNF113A	1
+H-7	PPIG	1
+H-7	PSKH1	1
+H-7	PEX13	1
+H-7	ZNF211	1
+H-7	CWC15	1
+H-7	EIF1AD	1
+H-7	ZBTB11	1
+H-7	AK7	1
+H-7	RPUSD2	1
+H-7	ACRV1	1
+H-7	ARID2	1
+H-7	ZNF227	1
+H-7	APOOL	1
+H-7	PPIL4	1
+H-7	RHBDL3	1
+H-7	RNMT	1
+H-7	PIK3C2A	1
+H-7	LACTB	1
+H-7	CLNS1A	1
+H-7	GATSL1 /// GATSL2	1
+H-7	LITAF	1
+H-7	DMXL1	1
+H-7	LUZP6 /// MTPN	1
+H-7	SF3A2	1
+H-7	ZNF394	1
+H-7	TMEM173	1
+H-7	DNAJB5	1
+H-7	PRR4	1
+H-7	TNPO2	1
+H-7	MRPS27	1
+H-7	DGCR6	1
+H-7	DNTTIP2	1
+H-7	GTF3C4	1
+H-7	PROK2	1
+H-7	CBLL1	1
+H-7	DCAF6	1
+H-7	ZNF33A /// ZNF33B	1
+H-7	MKKS	1
+H-7	CCNB1IP1	1
+H-7	CTU1	1
+H-7	BRD1	1
+H-7	ZNF326	1
+H-7	TFB2M	1
+H-7	FCGR3A	1
+H-7	C7orf42	1
+H-7	YKT6	1
+H-7	BMPR1A /// LOC283155	1
+H-7	MT1E	1
+H-7	MTMR12	1
+H-7	GYPC	1
+H-7	C15orf29	1
+H-7	CKAP2L	1
+H-7	ZMYND17	1
+H-7	PPP1R3B	1
+H-7	FAM177A1	1
+H-7	UNCX	1
+H-7	CRYGD	1
+H-7	AK2	1
+H-7	NPM1	1
+H-7	RFXAP	1
+H-7	KPNA6	1
+H-7	CDKN2D	1
+H-7	ZBTB7C	1
+H-7	PLAGL2	1
+H-7	ITFG1	1
+H-7	NANOS1	1
+H-7	ADAMTS6	1
+H-7	CCDC150	1
+H-7	ATG4A	1
+H-7	RBMS2	1
+H-7	MTERFD1	1
+H-7	DNLZ	1
+H-7	COASY	1
+H-7	MANBAL	1
+H-7	RRP7A /// RRP7B	1
+H-7	C17orf56	1
+H-7	FOXRED2	1
+H-7	C9orf135	1
+H-7	CERK	1
+H-7	ABLIM1	1
+H-7	PRDM1	1
+H-7	UCKL1	1
+H-7	SLC1A5	1
+H-7	ALG2	1
+H-7	KIAA0355	1
+H-7	PPP3CC	1
+H-7	MED9	1
+H-7	DHRS1	1
+H-7	IL18BP	1
+H-7	SKI	1
+H-7	RSRC1	1
+H-7	CD46	1
+H-7	AKIRIN2	1
+H-7	GPBP1L1	1
+H-7	METRN	1
+H-7	PNLIPRP2	1
+H-7	C22orf33	1
+H-7	TBC1D17	1
+H-7	TNRC6A	1
+H-7	COMMD2	1
+H-7	FNDC3B	1
+H-7	C19orf26	1
+H-7	UBN1	1
+H-7	HLTF	1
+H-7	AADACL2	1
+H-7	COX7A2L	1
+H-7	UBE2L3	1
+H-7	KCTD6	1
+H-7	ATP6V1E1	1
+H-7	TRIAP1	1
+H-7	C5orf51	1
+H-7	WASF2	1
+H-7	NUP98	1
+H-7	DCAF10	1
+H-7	ZADH2	1
+H-7	IPO8	1
+H-7	POLR2L	1
+H-7	ADH1C	1
+H-7	CHMP4A	1
+H-7	KCNIP4	1
+H-7	ARID1A	1
+H-7	PLD6	1
+H-7	ZNF566	1
+H-7	PDIA4	1
+H-7	CYTH3	1
+H-7	DBF4B	1
+H-7	C12orf10	1
+H-7	C9orf144B	1
+H-7	THYN1	1
+H-7	ELMOD1	1
+H-7	ELMOD3	1
+H-7	PPIA	1
+H-7	ASMTL	1
+H-7	SLC39A3	1
+H-7	C13orf23	1
+H-7	VKORC1L1	1
+H-7	MTHFD1	1
+H-7	LRRC8A	1
+H-7	ZFP82	1
+H-7	KIAA0226	1
+H-7	C7orf53	1
+H-7	ZBTB38	1
+H-7	SHOC2	1
+H-7	FGD4	1
+H-7	THRAP3	1
+H-7	POMT1	1
+H-7	MED30	1
+H-7	SNRPB	1
+H-7	DUSP16	1
+H-7	MTUS1	1
+H-7	ATP6V1D	1
+H-7	STK39	1
+H-7	TWISTNB	1
+H-7	FAM21C /// FAM21D	1
+H-7	SFRS2IP	1
+H-7	PDE6H	1
+H-7	HECA	1
+H-7	CIAPIN1	1
+H-7	SFRS12IP1	1
+H-7	LASS2	1
+H-7	SLC25A44	1
+H-7	HINFP	1
+H-7	LRRTM3	1
+H-7	ALKBH1	1
+H-7	C19orf60	1
+H-7	PTCRA	1
+H-7	ALDH1B1	1
+H-7	FNIP1	1
+H-7	GRAMD1A	1
+H-7	LOC392288 /// MAP1LC3B	1
+H-7	SMEK2	1
+H-7	G3BP1	1
+H-7	FEM1B	1
+H-7	CHAC2	1
+H-7	PA2G4	1
+H-7	UBE2I	1
+H-7	SETD2	1
+H-7	MIA	1
+H-7	C9orf40	1
+H-7	NHP2	1
+H-7	C1orf135	1
+Sirolimus	IFIT2	1
+Sirolimus	IFIT3	1
+Sirolimus	SDF2L1	1
+Sirolimus	MTSS1	1
+Sirolimus	GAB2	1
+Sirolimus	IFI44	1
+Sirolimus	EPSTI1	1
+Sirolimus	ENOX1	1
+Sirolimus	ZNF277	1
+Sirolimus	HSPA6	1
+Sirolimus	CLIC2	1
+Sirolimus	GPATCH4	1
+Sirolimus	ISG15	1
+Sirolimus	NOP16	1
+Sirolimus	MARK1	1
+Sirolimus	NME1 /// NME1-NME2	1
+Sirolimus	SLC38A9	1
+Sirolimus	OASL	1
+Sirolimus	IGBP1	1
+Sirolimus	ZNF581	1
+Sirolimus	GRAMD1A	1
+Sirolimus	HBP1	1
+Sirolimus	LY75	1
+Sirolimus	KCNQ2	1
+Sirolimus	TNIP1	1
+Sirolimus	GNL3	1
+Sirolimus	IFIH1	1
+Sirolimus	FARSA	1
+Sirolimus	HSPA5	1
+Sirolimus	IL15	1
+Sirolimus	C6orf48	1
+Sirolimus	ZMAT1	1
+Sirolimus	HSPE1	1
+Sirolimus	N4BP2L1	1
+Sirolimus	PPAN	1
+Sirolimus	THOC4	1
+Sirolimus	KIAA1407	1
+Sirolimus	GPCPD1	1
+Sirolimus	FOS	1
+Sirolimus	PDIA6	1
+Sirolimus	RPS14	1
+Sirolimus	NR4A2	1
+Sirolimus	TTC21A	1
+Sirolimus	HPN	1
+Sirolimus	FSTL3	1
+Sirolimus	HIVEP2	1
+Sirolimus	C5orf41	1
+Sirolimus	AMY1A /// AMY1B /// AMY1C /// AMY2A /// AMY2B	1
+Sirolimus	CCNG2	1
+Sirolimus	CCDC28A	1
+Sirolimus	HSPA1B	1
+Sirolimus	ISOC2	1
+Sirolimus	PPAN /// PPAN-P2RY11	1
+Sirolimus	NOLC1	1
+Sirolimus	HLA-E	1
+Sirolimus	PHF11	1
+Sirolimus	SRRD	1
+Sirolimus	MTHFSD	1
+Sirolimus	POLR1C	1
+Sirolimus	ARAP2	1
+Sirolimus	KLF6	1
+Sirolimus	TIFA	1
+Sirolimus	GBA3	1
+Sirolimus	FABP5	1
+Sirolimus	HSD17B11	1
+Sirolimus	TMEM187	1
+Sirolimus	PDCD5	1
+Sirolimus	FABP5 /// FABP5L3	1
+Sirolimus	FAS	1
+Sirolimus	SQSTM1	1
+Sirolimus	PLEC	1
+Sirolimus	ID2	1
+Sirolimus	H1FX	1
+Sirolimus	HMSD	1
+Sirolimus	SLC37A1	1
+Sirolimus	GEMIN4	1
+Sirolimus	ALDH1B1	1
+Sirolimus	WIPI1	1
+Sirolimus	CSTF3	1
+Sirolimus	EBI3	1
+Sirolimus	PPAT	1
+Sirolimus	BTNL8	1
+Sirolimus	EXOSC9	1
+Sirolimus	P4HA2	1
+Sirolimus	DENND4C	1
+Sirolimus	POLD2	1
+Sirolimus	CCNB1IP1	1
+Sirolimus	STAT4	1
+Sirolimus	EXOSC7	1
+Sirolimus	SRXN1	1
+Sirolimus	MRPS12	1
+Sirolimus	HLA-DPB1	1
+Sirolimus	TCOF1	1
+Sirolimus	TMEM173	1
+Sirolimus	BRIX1	1
+Sirolimus	EDARADD /// ENO1	1
+Sirolimus	MAFG	1
+Sirolimus	TRUB2	1
+Sirolimus	TOMM5	1
+Sirolimus	TRIP10	1
+Sirolimus	LDHA	1
+Sirolimus	APOBEC3G	1
+Sirolimus	HSPA1A /// HSPA1B	1
+Sirolimus	DPH2	1
+Sirolimus	LTV1	1
+Sirolimus	LYAR	1
+Sirolimus	GAR1	1
+Sirolimus	C3orf38	1
+Sirolimus	TMEM106C	1
+Sirolimus	ZNF692	1
+Sirolimus	RPF2	1
+Sirolimus	LOC652346 /// PML	1
+Sirolimus	SRRM1	1
+Sirolimus	SERINC1	1
+Sirolimus	CD55	1
+Sirolimus	CD320	1
+Sirolimus	STAT5A	1
+Sirolimus	UCK2	1
+Sirolimus	STX5	1
+Sirolimus	IMP3	1
+Sirolimus	AKAP12	1
+Sirolimus	GRB2	1
+Sirolimus	CAV1	1
+Sirolimus	NUDT16L1	1
+Sirolimus	CDK7	1
+Sirolimus	ARMCX1	1
+Sirolimus	SNCAIP	1
+Sirolimus	GRINA	1
+Sirolimus	PHF21A	1
+Sirolimus	NF2	1
+Sirolimus	LETM1	1
+Sirolimus	ITGBL1	1
+Sirolimus	RUVBL1	1
+Sirolimus	BCL6	1
+Sirolimus	TUBG1	1
+Sirolimus	NPC2	1
+Sirolimus	CD37	1
+Sirolimus	RRS1	1
+Sirolimus	FBXO45	1
+Sirolimus	AGPAT4	1
+Sirolimus	ZNF132	1
+Sirolimus	IRF2BP2	1
+Sirolimus	BFAR	1
+Sirolimus	MRPS17	1
+Sirolimus	KRT86	1
+Sirolimus	ASPHD2	1
+Sirolimus	SPARC	1
+Sirolimus	LITAF	1
+Sirolimus	FZD7	1
+Sirolimus	EDARADD	1
+Sirolimus	PCNA	1
+Sirolimus	CSNK2A2	1
+Sirolimus	LCMT2	1
+Sirolimus	POLR2L	1
+Sirolimus	ADPRHL2	1
+Sirolimus	SYPL1	1
+Sirolimus	MON1A	1
+Sirolimus	GTF3A	1
+Sirolimus	ZNF251	1
+Sirolimus	TNFAIP3	1
+Sirolimus	CYTH2	1
+Sirolimus	APEX2	1
+Sirolimus	PPIL1	1
+Sirolimus	PRDX2	1
+Sirolimus	PTCD1	1
+Sirolimus	PLP2	1
+Sirolimus	INSIG1	1
+Sirolimus	GRWD1	1
+Sirolimus	RANBP1	1
+Sirolimus	SRM	1
+Sirolimus	S100A4	1
+Sirolimus	PTK2B	1
+Sirolimus	SNRNP25	1
+Sirolimus	PCDHGB3	1
+Sirolimus	C11orf48	1
+Sirolimus	DOCK9	1
+Sirolimus	IL8	1
+Sirolimus	AMICA1	1
+Sirolimus	C9orf72	1
+Sirolimus	PCGF5	1
+Sirolimus	C2orf63	1
+Sirolimus	MRPL40	1
+Sirolimus	PRNP	1
+Sirolimus	GNS	1
+Sirolimus	IMPA2	1
+Sirolimus	THAP10	1
+Sirolimus	MRPL13	1
+Sirolimus	B3GNTL1	1
+Sirolimus	ZNF267	1
+Sirolimus	TIMM17A	1
+Sirolimus	UBE2T	1
+Sirolimus	CD302	1
+Sirolimus	KIAA0020	1
+Sirolimus	FXR1	1
+Sirolimus	GABARAP	1
+Sirolimus	SELL	1
+Sirolimus	NCS1	1
+Sirolimus	TIPIN	1
+Sirolimus	C3orf26	1
+Sirolimus	SOCS2	1
+Sirolimus	EXOC2	1
+Sirolimus	ORC3L	1
+Sirolimus	RHEBL1	1
+Sirolimus	ZC3HAV1	1
+Sirolimus	SCFD2	1
+Sirolimus	RABGAP1L	1
+Sirolimus	DHX57	1
+Sirolimus	FCHSD2	1
+Sirolimus	STAT5B	1
+Sirolimus	ILDR1	1
+Sirolimus	C17orf103	1
+Sirolimus	ENTPD1	1
+Sirolimus	PCCB	1
+Sirolimus	SYNCRIP	1
+Sirolimus	RNF14	1
+Sirolimus	BCOR	1
+Sirolimus	UNG	1
+Sirolimus	SAT2	1
+Sirolimus	BCAT1	1
+Sirolimus	DNAJB1	1
+Sirolimus	ZBTB32	1
+Sirolimus	PHKB	1
+Sirolimus	FDX1L	1
+Sirolimus	MLEC	1
+Sirolimus	RUVBL2	1
+Sirolimus	ISCA1	1
+Sirolimus	STRA6	1
+Sirolimus	OPTN	1
+Sirolimus	NDUFB7	1
+Sirolimus	N4BP2L2	1
+Sirolimus	FBXO10	1
+Sirolimus	IRF7	1
+Sirolimus	P4HA1	1
+Sirolimus	YPEL1	1
+Sirolimus	SCO1	1
+Sirolimus	RAET1L /// ULBP2	1
+Sirolimus	CYP4V2	1
+Sirolimus	NT5DC3	1
+Sirolimus	GPR133	1
+Sirolimus	JMY	1
+Sirolimus	MAK16	1
+Sirolimus	ATAD3A /// ATAD3B /// LOC732419	1
+Sirolimus	KIAA1683	1
+Sirolimus	EIF3B	1
+Sirolimus	MANF	1
+Sirolimus	HSPA14	1
+Sirolimus	CSE1L	1
+Sirolimus	NXT1	1
+Sirolimus	KIAA1211	1
+Sirolimus	NR1D2	1
+Sirolimus	CAT	1
+Sirolimus	ZNF16	1
+Sirolimus	C1orf43	1
+Sirolimus	CD3D	1
+Sirolimus	YAP1	1
+Sirolimus	MRPS7	1
+Sirolimus	AMDHD2	1
+Sirolimus	ALDH2	1
+Sirolimus	RABL5	1
+Sirolimus	TEKT4	1
+Sirolimus	PRMT1	1
+Sirolimus	C1orf54	1
+Sirolimus	DCAF16	1
+Sirolimus	SLC25A22	1
+Sirolimus	SPCS3	1
+Sirolimus	GNA13	1
+Sirolimus	TUBE1	1
+Sirolimus	NPLOC4	1
+Sirolimus	APOLD1	1
+Sirolimus	KCNMA1	1
+Sirolimus	SQRDL	1
+Sirolimus	IL10RA	1
+Sirolimus	ARPC5L	1
+Sirolimus	MKNK1	1
+Sirolimus	MCM2	1
+Sirolimus	ZCCHC8	1
+Sirolimus	RNF150	1
+Sirolimus	TPI1	1
+Sirolimus	MRPL45	1
+Sirolimus	SNRPD3	1
+Sirolimus	ITGA7	1
+Sirolimus	FAM71E2	1
+Sirolimus	C3orf31	1
+Sirolimus	NOP2	1
+Sirolimus	UBOX5	1
+Sirolimus	DNAH1	1
+Sirolimus	MRPL16	1
+Sirolimus	CIZ1	1
+Sirolimus	KIF20A	1
+Sirolimus	HS3ST1	1
+Sirolimus	EXOSC2	1
+Sirolimus	G3BP1	1
+Sirolimus	CENPW	1
+Sirolimus	DKKL1	1
+Sirolimus	SCD	1
+Sirolimus	PNP	1
+Sirolimus	PKM2	1
+Sirolimus	EFTUD2	1
+Sirolimus	PDCL3	1
+Sirolimus	GSTP1	1
+Sirolimus	GSTO1	1
+Sirolimus	ZNF25	1
+Sirolimus	ALDH16A1	1
+Sirolimus	BCKDHA	1
+Sirolimus	ALPK1	1
+Sirolimus	EIF4EBP1	1
+Sirolimus	CRELD2	1
+Sirolimus	PPIB	1
+Sirolimus	DSCAML1	1
+Sirolimus	MX2	1
+Sirolimus	MDM1	1
+Sirolimus	TCEB2	1
+Sirolimus	PTGIR	1
+Sirolimus	PPP5C	1
+Sirolimus	TBRG4	1
+Sirolimus	POLL	1
+Sirolimus	GEMIN8	1
+Sirolimus	ILF3	1
+Sirolimus	ITCH	1
+Sirolimus	NHP2	1
+Sirolimus	POLD1	1
+Sirolimus	ETFB	1
+Sirolimus	DDX10	1
+Sirolimus	RPP40	1
+Sirolimus	SFRS2	1
+Sirolimus	RP2	1
+Sirolimus	TMEM155	1
+Sirolimus	NEU1	1
+Sirolimus	GYPC	1
+Sirolimus	RPS29	1
+Sirolimus	PLEKHF2	1
+Sirolimus	TSR2	1
+Sirolimus	C22orf30	1
+Sirolimus	ALDH9A1	1
+Sirolimus	ACER3	1
+Sirolimus	ZFP161	1
+Sirolimus	KIAA0652	1
+Sirolimus	ATP5J2	1
+Sirolimus	HSD17B10	1
+Sirolimus	ROMO1	1
+Sirolimus	SBNO2	1
+Sirolimus	C12orf24	1
+Sirolimus	SUOX	1
+Sirolimus	ABCF1	1
+Sirolimus	C6orf226	1
+Sirolimus	ZBTB33	1
+Sirolimus	ZNF496	1
+Sirolimus	CDC25A	1
+Sirolimus	PDYN	1
+Sirolimus	IGF2R	1
+Sirolimus	COQ9	1
+Sirolimus	PRDX4	1
+Sirolimus	TSR1	1
+Sirolimus	XRCC5	1
+Sirolimus	TMOD1	1
+Sirolimus	NSUN2	1
+Sirolimus	RELB	1
+Sirolimus	ANXA9	1
+Sirolimus	CCPG1	1
+Sirolimus	ZNF160	1
+Sirolimus	LOC441722 /// U2AF1	1
+Sirolimus	FAM98A	1
+Sirolimus	PRPF19	1
+Sirolimus	SRPK1	1
+Sirolimus	NFKB2	1
+Sirolimus	C8orf85	1
+Sirolimus	HNRNPAB	1
+Sirolimus	POPDC2	1
+Sirolimus	WAPAL	1
+Sirolimus	EXOSC4	1
+Sirolimus	ZFP41	1
+Sirolimus	STAC	1
+Sirolimus	LRRC59	1
+Sirolimus	NDUFB3	1
+Sirolimus	GYLTL1B	1
+Sirolimus	PHB	1
+Sirolimus	NDUFS6	1
+Sirolimus	LYZL1 /// LYZL2	1
+Sirolimus	XBP1	1
+Sirolimus	SNRPF	1
+Sirolimus	PMCH	1
+Sirolimus	MEA1	1
+Sirolimus	CHCHD8	1
+Sirolimus	STOML2	1
+Sirolimus	NPHP3	1
+Sirolimus	SNRNP40	1
+Sirolimus	CAMTA2	1
+Sirolimus	HNRNPD	1
+Sirolimus	GART	1
+Sirolimus	ARHGAP17	1
+Sirolimus	PHPT1	1
+Sirolimus	ESF1	1
+Sirolimus	BYSL	1
+Sirolimus	SERPINA5	1
+Sirolimus	MYBBP1A	1
+Sirolimus	CSAG2 /// CSAG3	1
+Sirolimus	C4A /// C4B /// LOC100292046 /// LOC100294156	1
+Sirolimus	HMG20A	1
+Sirolimus	LRIG3	1
+Sirolimus	PRKDC	1
+Sirolimus	DRAP1	1
+Sirolimus	NOL11	1
+Sirolimus	NDUFA6	1
+Sirolimus	TARBP2	1
+Sirolimus	CDC123	1
+Sirolimus	SRRT	1
+Sirolimus	API5	1
+Sirolimus	NOP10	1
+Sirolimus	CBR1	1
+Sirolimus	PLA2G4C	1
+Sirolimus	OTUD5	1
+Sirolimus	RHOG	1
+Sirolimus	TSFM	1
+Sirolimus	TCTE1	1
+Sirolimus	GNB1	1
+Sirolimus	PCDHB7	1
+Sirolimus	CTNS	1
+Sirolimus	SLC7A11	1
+Sirolimus	CHCHD1	1
+Sirolimus	PPIC	1
+Sirolimus	VCP	1
+Sirolimus	WDR45	1
+Sirolimus	DDX23	1
+Sirolimus	GLTSCR2	1
+Sirolimus	VEGFB	1
+Sirolimus	SEMA4F	1
+Sirolimus	UMPS	1
+Sirolimus	CKAP2	1
+Sirolimus	C5orf32	1
+Sirolimus	MTHFD1	1
+Sirolimus	CSDA	1
+Sirolimus	MRPL17	1
+Sirolimus	C17orf76	1
+Sirolimus	GLRX2	1
+Sirolimus	ATP13A2	1
+Sirolimus	ACVR2A	1
+Sirolimus	ZBED5	1
+Sirolimus	RNF19B	1
+Sirolimus	KRT82	1
+Sirolimus	GLB1	1
+Sirolimus	C1orf55	1
+Sirolimus	BHLHE40	1
+Sirolimus	ATP2B2	1
+Sirolimus	LOC729020 /// RPE	1
+Sirolimus	C5orf58	1
+Sirolimus	PRPF4	1
+Sirolimus	LSM12	1
+Sirolimus	SLC1A5	1
+Sirolimus	ZPLD1	1
+Sirolimus	EMG1	1
+Sirolimus	COL5A1	1
+Sirolimus	MPG	1
+Sirolimus	HOPX	1
+Sirolimus	ZNF792	1
+Sirolimus	CCDC12	1
+Sirolimus	C7orf53	1
+Sirolimus	CYP27B1	1
+Sirolimus	PMM1	1
+Sirolimus	VLDLR	1
+Sirolimus	GRIN2A	1
+Sirolimus	CAMLG	1
+Sirolimus	C16orf53	1
+Sirolimus	FAM129B	1
+Sirolimus	GRN	1
+Sirolimus	NIP7	1
+Sirolimus	CCDC90A	1
+Sirolimus	RNFT2	1
+Sirolimus	AGTRAP	1
+Sirolimus	HDAC6	1
+Sirolimus	CCDC87	1
+Sirolimus	ZHX2	1
+Sirolimus	ACADSB	1
+Sirolimus	COX7A2L	1
+Sirolimus	IMP4	1
+Sirolimus	TRAPPC6A	1
+Sirolimus	ATAD3B /// LOC732419	1
+Sirolimus	TSPAN33	1
+Sirolimus	DCAF6	1
+Sirolimus	PKD1L2	1
+Sirolimus	KCTD11	1
+Sirolimus	FAM35A /// FAM35B /// FAM35B2	1
+Sirolimus	SMYD5	1

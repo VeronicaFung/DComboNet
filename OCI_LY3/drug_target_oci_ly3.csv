@@ -1,0 +1,25 @@
+Drug,Target
+Aclacinomycin A,TOP1
+Aclacinomycin A,TOP2
+Blebbistatin,MYH14
+Camptothecin,TOP1
+Cycloheximide,DNA
+Cycloheximide,RNA
+Cycloheximide,FKBP12
+Doxorubicin,TOP2A
+Etoposide,TOP2B
+Etoposide,TOP2A
+H-7,PKA
+H-7,PKG
+H-7,PKC
+H-7,MLCK
+Mitomycin,DNA
+Monastrol,MLCK
+Sirolimus,FGF2
+Sirolimus,FKBP1A
+Sirolimus,MTOR
+Trichostatin A,HDAC1
+Trichostatin A,HDAC2
+Vincristine,TUBB
+Vincristine,TUBA4A
+Vincristine,DNA

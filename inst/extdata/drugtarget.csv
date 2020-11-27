@@ -1,0 +1,441 @@
+Drug,Target
+17-DMAG,HSP90AB1
+2-Deoxyinosine,PNP
+2-Methoxyestradiol,COMT
+2-Methoxyestradiol,CYP19A1
+2-Methoxyestradiol,CYP1A1
+2-Methoxyestradiol,HIF1A
+2-Methoxyestradiol,TUBB
+Abiraterone,CYP17A1
+ABT-737,BCL2
+ABT-737,BCL2L1
+ABT-737,BCL2L2
+ABT-751,TUBB
+AEE788,FGFR2
+AEE788,FGFR3
+Afatinib,EGFR
+Afatinib,ERBB2
+Afatinib,ERBB4
+Aflibercept,KDR
+Aldesleukin,IL2
+Aldesleukin,IL2RA
+Aldesleukin,IL2RB
+Aldesleukin,IL2RG
+Aminophylline,ADORA1
+Aminophylline,HDAC2
+Aminophylline,PDE3A
+Anakinra,IL1R1
+Anastrozole,CYP19A1
+Arsenic trioxide,AKT1
+Arsenic trioxide,CCND1
+Arsenic trioxide,CDKN1A
+Arsenic trioxide,HDAC1
+Arsenic trioxide,IKBKB
+Arsenic trioxide,JUN
+Arsenic trioxide,MAPK1
+Arsenic trioxide,MAPK3
+Arsenic trioxide,PML
+Arsenic trioxide,TXNRD1
+Arzoxifene,ESR1
+Arzoxifene,ESR2
+Axitinib,FLT1
+Axitinib,FLT3
+Axitinib,KDR
+Axitinib,KIT
+Axitinib,PDGFRA
+Axitinib,PDGFRB
+Azacitidine,DNA
+Azacitidine,DNMT1
+Azacitidine,RNA
+Bevacizumab,C1QA
+Bevacizumab,C1QB
+Bevacizumab,C1QC
+Bevacizumab,C1R
+Bevacizumab,FCGR1A
+Bevacizumab,FCGR2A
+Bevacizumab,FCGR2B
+Bevacizumab,FCGR3A
+Bevacizumab,FCGR3B
+Bevacizumab,VEGFA
+Bexarotene,RXRA
+Bexarotene,RXRB
+Bexarotene,RXRG
+Bortezomib,PSMB1
+Bortezomib,PSMB2
+Bortezomib,PSMB5
+Bortezomib,PSMD1
+Bortezomib,PSMD2
+Bosutinib,ABL1
+Bosutinib,SRC
+Bosutinib,TEC
+Brentuximab vedotin,TNFRSF8
+Brentuximab vedotin,TUB
+Busulfan,DNA
+Cabazitaxel,TUBA4A
+Cabazitaxel,TUBB1
+Canfosfamide,GSTP1
+Capecitabine,TYMS
+Carboplatin,DNA
+Carmustine,DNA
+Carmustine,GSR
+Carmustine,RNA
+Carvedilol,ADRA1A
+Carvedilol,ADRA1B
+Carvedilol,ADRA1D
+Carvedilol,ADRA2A
+Carvedilol,ADRA2B
+Carvedilol,ADRA2C
+Carvedilol,ADRB1
+Carvedilol,ADRB2
+Carvedilol,GJA1
+Carvedilol,HIF1A
+Carvedilol,KCNH2
+Carvedilol,NDUFC2
+Carvedilol,NPPB
+Carvedilol,SELE
+Carvedilol,VCAM1
+Carvedilol,VEGFA
+Cediranib,FLT1
+Cediranib,FLT4
+Cediranib,KDR
+Celecoxib,PDPK1
+Celecoxib,PTGS2
+Cetuximab,EGFR
+Chenodeoxycholic acid,NR1H4
+Chlorambucil,DNA
+CI-1040,AKT1
+CI-1040,CHEK1
+CI-1040,GSK3B
+CI-1040,LCK
+CI-1040,MAPK1
+CI-1040,MAPK11
+CI-1040,MAPK14
+CI-1040,MAPK8
+CI-1040,PRKCA
+CI-1040,ROCK1
+CI-1040,SGK1
+Cisplatin,DNA
+Clofarabine,DNA
+Clofarabine,POLA1
+Clofarabine,RRM1
+Cyclophosphamide,DNA
+Cytarabine,ALB
+Cytarabine,DNA
+Cytarabine,POLB
+Dacarbazine,DNA
+Dacarbazine,PGD
+Dacarbazine,POLA2
+Dasatinib,ABL1
+Dasatinib,ABL2
+Dasatinib,EPHA2
+Dasatinib,KIT
+Dasatinib,LCK
+Dasatinib,PDGFRB
+Dasatinib,SRC
+Dasatinib,YES1
+Daunorubicin,DNA
+Daunorubicin,TOP2A
+Daunorubicin,TOP2B
+Decitabine,DNMT1
+Dexamethasone,NR3C1
+Diphenhydramine,CHRM2
+Diphenhydramine,HRH1
+Discodermolide,TUBB
+Docetaxel,BCL2
+Docetaxel,MAP2
+Docetaxel,MAP4
+Docetaxel,MAPT
+Docetaxel,NR1I2
+Docetaxel,TUBB1
+Doxorubicin,TOP2A
+Emodin,CSNK2A1
+Enalapril,ACE
+Enzastaurin,PRKCB
+Epirubicin,CHD1
+Epirubicin,DNA
+Epirubicin,TOP2A
+Erlotinib,EGFR
+Erlotinib,ERBB2
+Etodolac,PTGS1
+Etodolac,PTGS2
+Etodolac,RXRA
+Etoposide,TOP2A
+Etoposide,TOP2B
+Everolimus,MTOR
+Exemestane,CYP19A1
+Fenretinide,RARA
+Fludarabine,ADA
+Fluorouracil,DNA
+Fluorouracil,RNA
+Fluorouracil,TYMS
+Fotemustine,TXNRD1
+Fulvestrant,ESR1
+Ganitumab,IGF1R
+Gefitinib,AKT1
+Gefitinib,EGFR
+Gemcitabine,CMPK1
+Gemcitabine,RRM1
+Gemcitabine,TYMS
+Gemtuzumab ozogamicin,C1QA
+Gemtuzumab ozogamicin,C1QB
+Gemtuzumab ozogamicin,C1QC
+Gemtuzumab ozogamicin,C1R
+Gemtuzumab ozogamicin,C1S
+Gemtuzumab ozogamicin,CD33
+Gemtuzumab ozogamicin,FCGR1A
+Gemtuzumab ozogamicin,FCGR2A
+Gemtuzumab ozogamicin,FCGR2B
+Gemtuzumab ozogamicin,FCGR3A
+Gemtuzumab ozogamicin,FCGR3B
+Genistein,PPARG
+Ibritumomab tiuxetan,C1QA
+Ibritumomab tiuxetan,C1QB
+Ibritumomab tiuxetan,C1QC
+Ibritumomab tiuxetan,C1R
+Ibritumomab tiuxetan,C1S
+Ibritumomab tiuxetan,FCGR1A
+Ibritumomab tiuxetan,FCGR2A
+Ibritumomab tiuxetan,FCGR2B
+Ibritumomab tiuxetan,FCGR3A
+Ibritumomab tiuxetan,FCGR3B
+Ibritumomab tiuxetan,MS4A1
+Idarubicin,TOP2A
+Idarubicin,TOP2B
+IL-27,OPRK1
+IL-27,OPRM1
+IL-27,SLC6A2
+IL-27,SLC6A4
+Imatinib,ABL1
+Imatinib,BCR
+Imatinib,KIT
+Imatinib,PDGFRA
+Imatinib,PDGFRB
+Interferon alfa-2a,FGFR2
+Ipilimumab,CTLA4
+Irinotecan,TOP1
+Ixabepilone,TUBB3
+Ketoconazole,CYP51A1
+L744832,FNTA
+Lansoprazole,ATP4A
+Lapatinib,EGFR
+Lapatinib,ERBB2
+Lenalidomide,CRBN
+Letrozole,CYP19A1
+Leucovorin,TYMS
+LG100268,RARA
+LG100268,RXRB
+Linifanib,CSF1
+Linifanib,CSF1R
+Linifanib,FLT1
+Linifanib,FLT3
+Linifanib,FLT4
+Linifanib,KDR
+Linifanib,KIT
+Linifanib,PDGFRA
+Linifanib,PDGFRB
+Lintuzumab,CD33
+Lomeguatrib,MGMT
+Lomustine,DNA
+Lonafarnib,FNTA
+Melphalan,DNA
+Metformin,ACACB
+Metformin,PRKAB1
+Methoxsalen,DNA
+Midazolam,GABRA1
+Midazolam,GABRA2
+Midazolam,GABRA3
+Midazolam,GABRA4
+Midazolam,GABRA5
+Midazolam,GABRA6
+Midazolam,GABRB1
+Midazolam,GABRB2
+Midazolam,GABRB3
+Midazolam,GABRD
+Midazolam,GABRE
+Midazolam,GABRG1
+Midazolam,GABRG2
+Midazolam,GABRG3
+Midazolam,GABRR1
+Midazolam,GABRR2
+Midazolam,TSPO
+Midostaurin,FGR
+Midostaurin,FLT1
+Midostaurin,FLT3
+Midostaurin,KDR
+Midostaurin,KIT
+Midostaurin,PDGFRA
+Midostaurin,PDGFRB
+Midostaurin,PRKCA
+Midostaurin,PRKCG
+Mitomycin,DNA
+Mitoxantrone,DNA
+Mitoxantrone,TOP2A
+Naloxone,OPRM1
+Neratinib,EGFR
+Neratinib,ERBB2
+NU6140,CDK2
+NU6140,CDK4
+NU6140,CDK5
+NU6140,CDK7
+NU6140,EIF2AK2
+O6-benzylguanine,MGMT
+Obatoclax,BCL2
+Obatoclax,BCL2L1
+Obatoclax,BCL2L2
+Obatoclax,MCL1
+Octreotide,SSTR1
+Octreotide,SSTR2
+Octreotide,SSTR5
+Olaparib,PARP1
+Olaparib,PARP2
+Oxaliplatin,DNA
+Oxycodone,OPRD1
+Oxycodone,OPRK1
+Oxycodone,OPRM1
+Oxycodone,ORM1
+Paclitaxel,BCL2
+Paclitaxel,MAP2
+Paclitaxel,MAP4
+Paclitaxel,MAPT
+Paclitaxel,NR1I2
+Paclitaxel,TUBB1
+Pazopanib,CSF1R
+Pazopanib,FLT1
+Pazopanib,FLT3
+Pazopanib,KDR
+Pazopanib,KIT
+Pazopanib,PDGFRA
+Pazopanib,PDGFRB
+Peginterferon alfa-2b,IFNAR1
+Peginterferon alfa-2b,IFNAR2
+Peloruside A,TUBB
+Pemetrexed,DHFR
+Pemetrexed,GART
+Pemetrexed,TYMS
+Perifosine,AKT1
+Pertuzumab,ERBB2
+Phenoxodiol,ENOX2
+Phenoxodiol,SPHK2
+Plitidepsin,VEGFA
+Prednisone,ANXA1
+Prednisone,HSD11B1
+Prednisone,NR3C1
+Pregabalin,CACNA1A
+Pregabalin,CACNA2D1
+Procainamide,DNMT1
+Procainamide,SCN5A
+Propranolol,ADRB1
+Propranolol,ADRB2
+Propranolol,ADRB3
+Propranolol,HTR1A
+Propranolol,HTR1B
+Rifampin,ALB
+Rifampin,CYP51A1
+Rifampin,NR1I2
+Rifampin,SLCO1A2
+Rituximab,C1QA
+Rituximab,C1QB
+Rituximab,C1QC
+Rituximab,C1R
+Rituximab,C1S
+Rituximab,FCGR1A
+Rituximab,FCGR2A
+Rituximab,FCGR2B
+Rituximab,FCGR3A
+Rituximab,FCGR3B
+Rituximab,MS4A1
+Romidepsin,HDAC1
+Romidepsin,HDAC2
+Romidepsin,HDAC4
+Romidepsin,HDAC6
+Romiplostim,C1S
+Rosiglitazone,PPARG
+Sabarubicin,TOP2A
+Sabarubicin,TOP2B
+SC144,RRM2
+SCH 900776,CHEK1
+Simvastatin,HMGCR
+Sirolimus,FGF2
+Sirolimus,FKBP1A
+Sirolimus,MTOR
+Sodium butyrate,HDAC1
+Sorafenib,BRAF
+Sorafenib,FGFR1
+Sorafenib,FLT1
+Sorafenib,FLT3
+Sorafenib,FLT4
+Sorafenib,KDR
+Sorafenib,KIT
+Sorafenib,PDGFRB
+Sorafenib,RAF1
+Sorafenib,RET
+Sunitinib,CSF1R
+Sunitinib,FLT1
+Sunitinib,FLT3
+Sunitinib,FLT4
+Sunitinib,KDR
+Sunitinib,KIT
+Sunitinib,PDGFRA
+Sunitinib,PDGFRB
+Sunitinib,RET
+Tamoxifen,ESR1
+Tamoxifen,ESR2
+Taxane,NFKB1
+Temozolomide,DNA
+Temsirolimus,MTOR
+Teprotumumab,IGF1R
+Thalidomide,CRBN
+Theophylline,ADORA1
+Theophylline,ADORA2A
+Theophylline,ADORA2B
+Theophylline,HDAC2
+Theophylline,PDE3A
+Theophylline,PDE4A
+Theophylline,PDE4B
+Theophylline,PDE5A
+Tipifarnib,FNTA
+Topotecan,TOP1
+Toremifene,ESR1
+Trabectedin,DNA
+Trastuzumab,C1QA
+Trastuzumab,C1QB
+Trastuzumab,C1QC
+Trastuzumab,C1R
+Trastuzumab,C1S
+Trastuzumab,EGFR
+Trastuzumab,ERBB2
+Trastuzumab,FCGR1A
+Trastuzumab,FCGR2A
+Trastuzumab,FCGR2B
+Trastuzumab,FCGR3A
+Trastuzumab,FCGR3B
+Trebananib,ANGPT1
+Trebananib,ANGPT2
+Tretinoin,RARA
+Tretinoin,RARB
+Tretinoin,RARG
+Trichostatin A,HDAC1
+Trichostatin A,HDAC2
+Trifluridine,DNA
+Trifluridine,TYMS
+Trimidox,RRM1
+Tubacin,HDAC6
+Valproic Acid,ACADSB
+Valproic Acid,HDAC2
+Valproic Acid,HDAC9
+Valproic Acid,OGDH
+Valproic Acid,SCN1A
+Valproic Acid,ABAT
+Valproic Acid,ALDH5A1
+Vandetanib,EGFR
+Vandetanib,KDR
+Vinorelbine,TUBB
+Vitamin D2,VDR
+Vorinostat,HDAC1
+Vorinostat,HDAC2
+Vorinostat,HDAC3
+Vorinostat,HDAC6
+Vorinostat,HDAC8
+Zibotentan,EDNRA
+Zoledronic acid,FDPS
+Zoledronic acid,GGPS1
