@@ -29,9 +29,11 @@ The detail usages of ` DComboNet`, can be found here: [Instruction](https://vero
 ## Test codes
 
 Under  folder ` ./test/`, we provide testing codes, which include:
-    1. `L1_LOOCV.R`: Codes used for Leave-One-Combination-Out Cross Validation (LOOCOCV) for level-one model. 
-    2. `L2_LOOCV.R`: Codes used for Leave-One-Combination-Out Cross Validation (LOOCOCV) for level-two models. In `L2_LOOCV.R`, Level-one model is also provided on the task of predicting drug combination in the context of given cancer-cell line. Here, we provide hepatocellular carcinoma cell line HepG2 (which we show in the main result of the manuscript) and Breast cancer cell line MCF7.
+    1. `test_L1_LOOCV.R`: Codes used for Leave-One-Combination-Out Cross Validation (LOOCOCV) for level-one model. 
+    2. `test_L2_LOOCV.R`: Codes used for Leave-One-Combination-Out Cross Validation (LOOCOCV) for level-two models. In `test_L2_LOOCV.R`, Level-one model is also provided on the task of predicting drug combination in the context of given cancer-cell line. Here, we provide hepatocellular carcinoma cell line HepG2 (which we show in the main result of the manuscript) and Breast cancer cell line MCF7.
     3. `test_OCILY3.R`: Codes to conduct prediction task on OCI-LY3 cell line (from DREAM challenge 7). This code can be used to reproduce the independent validation result in the manuscript.
+    4. folder ` ./test/mlr_codes/`: machine learning based models we construct for model comparison with DComboNet level-one model. Note that to run these model, you should install Rpackage ` mlr`, ` mlrMBO` and machine learning model packages which listed in supplementary methods in our manuscript.
+Note: for runing the test scripts, model performance evaluation R packages (e.g. ` ROCR`) are also require, please review the codes before running test.
 
 ## Data availability
 All data files used in level-one and level-two models (including data for HEPG2 specific model and OCI-LY3 specific model) are incorporated in the packages via this link: https://github.com/VeronicaFung/DComboNet/. 
