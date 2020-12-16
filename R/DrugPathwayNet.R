@@ -371,6 +371,9 @@ DrugPathwayMatrix.L2 <- function(dt = NULL,
 
     druglist = data.frame(Drug = unique(dt$Drug))
     # druglist = data.frame(Drug=colnames(drugAdj))# unique(dt[1])
+    if(is.null(dDEG)){
+
+
     dDEG_lib.path =  system.file("extdata", paste0("LINCS_data/GSE",dataset,"/",cellline,"_DEG_",treatment_time,"h.csv"), package = "DComboNet")
 
     if(file.exists(dDEG_lib.path)){
@@ -383,7 +386,10 @@ DrugPathwayMatrix.L2 <- function(dt = NULL,
     druglist = unique(dt[1])
     dDEG = merge(dDEG_lib,druglist, by="Drug")
     dDEG = dDEG[c("Drug","Target","logFC")]
+    }else{
+      dDEG = dDEG
 
+    }
     dDEG_pw = unique(merge(dDEG, genepathway, by = 'Target'))
     tmp=data.frame(table(dDEG_pw[c(2,4)]))
     dDEG_pw = tmp[tmp$Freq > 2,]
