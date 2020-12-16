@@ -81,4 +81,3 @@ We have been submit our manuscript to bioaxiv, if you use `DComboNet` in your pu
 Feng F, Zhang Z, Ding G, et al. Personalized anti-cancer drug combination prediction by an Integrated Multi-level Network[J]. bioRxiv, 2020.
 
 
-## Acknowledgement
