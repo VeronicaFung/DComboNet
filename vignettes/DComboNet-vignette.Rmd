@@ -20,7 +20,7 @@ library(DComboNet)
 # Introduction
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;">`DComboNet` is an R package for personalized anti-cancer drug combination prediction based on multi-level data integration. There are two main prediction models contained in the package. The level one model is for generalized anti-cancer drug combination effectiveness prediction and level two model is for cancer sample specific drug combination prediction. The two-level model based on a network-based method which integrates five sub-networks including drug-drug, drug-gene, drug-pathway, gene-gene and pathway-pathway association networks. Random walk with restart(RWR) algorithm is used to capture global proximity between drugs and the result is based on the rank returned via RWR algorithm. `DComboNet` also provide clues for the potential mechanisms of drug combinations by extracting the top ranked genes/drugs between predicted drug combinations.</p>
+<p style="text-indent:16px;">`DComboNet` is an R package for personalized anti-cancer drug combination prediction based on multi-level data integration. There are two main prediction models contained in the package. The level-one model is for generalized anti-cancer drug combination effectiveness prediction and level-two model is for cancer sample specific drug combination prediction. The two-level model based on a network-based method which integrates five sub-networks including drug-drug, drug-gene, drug-pathway, gene-gene and pathway-pathway association networks. Random walk with restart(RWR) algorithm is used to capture global proximity between drugs and the result is based on the rank returned via RWR algorithm. `DComboNet` also provide clues for the potential mechanisms of drug combinations by extracting the top ranked genes/drugs between predicted drug combinations.</p>
 <p style="text-indent:16px;">This tutorial provides the instruction of the main usage of this package fitting different scenario. This tutorial will lead to know the basic usage of the prediction, the description of prepared data how to extend the network construction to fit your own dataset. This tutorial will not present detail description of all functions contain in the packagem but you can easily learn those in help document with the R package. </p>
 
 </div>
@@ -99,22 +99,23 @@ DComboNet(load_dir,
 
 <span style="font-size:10px;">$\bullet$</span> Path to save result files should be specified in `result_dir`.<br>
 
-<span style="font-size:10px;">$\bullet$</span> Two level models are provided for combination prediction, `L1` and `L2` denote **level one** and **level two** model, respectively. Different models require differnent following inputs. The details about differnet usages of the two-level models will describes in next session.<br>
+<span style="font-size:10px;">$\bullet$</span> Two level models are provided for combination prediction, `L1` and `L2` denote **level-one** and **level-two** model, respectively. The details about usage of the two-level models is described in next session.<br>
 
-<span style="font-size:10px;">$\bullet$</span> Two solutions are provided here for users to input their interested drugs. If `manual_input = TRUE`, after seeing the tip **"Please type in the drug you are interested:"**, user can manually input drug name; if `manual_input = FALSE`, `drugcandidate` should be feed with `data.frame` contain drug name(s) and their drugbank ID. Note that if the drug you are interested in are not contained in the provided drug list, `drugcandidate` together with their chemical fingerprints generated via PADEL (CDK fingerprint `CDK_FP`, pubchem fingerprint `pubchemFP` and MACCS fingerprint `MACCS_FP`) should be provided for adding newly inputed drug(s) in the drug-drug association network.<br>
+<span style="font-size:10px;">$\bullet$</span> Two solutions are provided here for users to input their interested drugs. If `manual_input = TRUE`, after seeing the tip **"Please type in the drug you are interested:"**, user can manually input drug name; if `manual_input = FALSE`, `drugcandidate` should be feed to model.  `drugcandidate` should be prepared as a `data.frame` with drug name(s) and their drugbank ID. Note that if the newly inputed drug(s) are not in the provided drug list, `drugcandidate` data table together with their chemical fingerprints generated via PADEL (CDK fingerprint `CDK_FP`, pubchem fingerprint `pubchemFP` and MACCS fingerprint `MACCS_FP`) should be provided for computing pharmacological score between newly inputed drug(s) and drugs already existed in drug-drug association network to construct user-update drug network.<br>
 
-<span style="font-size:10px;">$\bullet$</span> Next two parameters `drugnetWeight` and `featuretype` are necessary. User needs to inform whether it is necessary to assign values to the edge of drug-drug association network and which feature should be used to assign. Three drug-drug similarities(`ATCsim`, `STsim`, `SEsim`) together with integrated pharmacological score (`integrated_score`) are provided as options.<br>
+<span style="font-size:10px;">$\bullet$</span> Next two parameters `drugnetWeight` and `featuretype` are mandatory. User needs to inform whether it is necessary to assign values to the edge of drug-drug association network and which feature should be used. Three drug-drug similarities(`ATCsim`, `STsim`, `SEsim`) together with integrated pharmacological score (`integrated_score`) are provided as options.<br>
 
-<span style="font-size:10px;">$\bullet$</span> To update drug-gene association network, gene-gene association network and drug-pathway assocition netwrok, if new drug(s) was taken as input in `drugcandidate`, User must provide drug(s) and their target genes table in `drugtarget` for both **level one** and **level two** models. For **level one** model, `druggene` can be provided to extend the connections between drug and gene or pathways. Here, `druggene` table can be extracted from multiple resources, such as IPA tools and publications. For **level two** model, cancer sample specific expressed gene list and drug induced transcriptome change should be provided. `DComboNet()` gives two options: if the cell line and drug(s) are in our provided datasets (which is generated from LINCS database and CCLE database), user can put in `cellline`, `dataset` and `treatment_time` to create network. Differentially expressed genes were selected by functions `lmFIt()` and `eBayes()` in the `Limma` package. Differential regulated pathways (DEpathway) were obtained by the `GSVA` algorithm. Note that gene expression filtering criteria (`foldchange` and `pvalue`) provides a detailed customizing solution. If cell line or drugs are not in provided dataset, you can simply provided your own cancer sample/cell line specific expressed gene list and drug-induced differentially expressed gene list in `cancergene` and `drugDEG`.<br>
+<span style="font-size:10px;">$\bullet$</span> To update drug-gene association network, gene-gene association network and drug-pathway assocition netwrok, if newly input drug(s) are not in provided drug network, User should provide drug(s) and their target genes table in `drugtarget` for both **level-one** and **level-two** models. `druggene` is also used to extend the connections between drug and gene or pathways. Here, `druggene` table can be extracted from multiple resources, such as IPA tool. For **level-two** model, cancer sample specific expressed gene list and drug induced transcriptome change should be provided. `DComboNet()` gives two options: if the cell line and drug(s) are in our provided datasets (which is generated from LINCS database and CCLE database), user can put in ` cellline`, `dataset` and `treatment_time` to create network. Differentially expressed genes were selected by functions ` lmFIt()` and  `eBayes()` in the ` Limma` package. Note that gene expression filtering criteria (`foldchange` and `pvalue`) provides a detailed customizing solution. Differential regulated pathways (DEpathway) were obtained using gene-mapping strategy (describe in manuscript). 
+The defaule setting is mapping induced DEGs to KEGG pathways to create drug-gene associations. User can also input their own drug-DEP table generate directly from gene expression profile (e.g ` GSVA` algorithm).  If cell line or drugs are not in provided dataset, you can simply provided your own cancer sample/cell line specific expressed gene list, drug-induced DEG list and pathway list in ` cancergene`, ` drugDEG` and ` drugDEP`.<br>
 
 
-<span style="font-size:10px;">$\bullet$</span> Other then weight method for drug-drug assocaition network described above, for drug-gene association, drug-pathway association and gene-pathway association, different edge weight strategies are made as parameters. For **level one** model, the default weights are:<br>
-
+<span style="font-size:10px;">$\bullet$</span> Edge weight strategies:
+For **level-one** model, the default weights are:<br>
 <p style="text-indent:16px;">$\cdot$ `dtweight = 2`: the edge weight of drug-target gene associations sets as 2.</p>
 <p style="text-indent:16px;">$\cdot$ `dgweight = 1`: the edge weight of drug-related gene associations sets as 1.</p>
 <p style="text-indent:16px;">$\cdot$ `dgpweight = 1`: the edge weight of drug-pathway associations sets as 1.</p>
 
-<p style="text-indent:32px;">For **level two** model, drug-targeted gene association will be weighted with the value set to `dtweight`, and drug-DEG association will be weighted according to the foldchange between drug-induced gene expression profile and control; the associations between drugs and their differentially regulated pathways will be weighted by parameter `dDEpWeight`.</p>
+<p style="text-indent:32px;">For **level-two** model, drug-targeted gene association will be weighted with the value set to `dtweight`, and drug-DEG association will be weighted according to the foldchange between drug-induced gene expression profile and control; the associations between drugs and their differentially regulated pathways will be weighted by the number of genes mapped on pathway.</p>
 
 <span style="font-size:10px;">$\bullet$</span> Parameters `x`, `y`, `z`, `A` and `B` denote the jumping probability in different subnetworks) and these jumping probabilities are not independent ($x=1-A$, $y=1-A$, $B=1-x$):<br>
 
@@ -124,7 +125,7 @@ DComboNet(load_dir,
 <p style="text-indent:16px;">$\cdot$ `A` denotes the jumping probability in drug-drug association network (when the inter-network crossing events between drug and gene nodes and between drug and pathway nodes are neither existing).</p>
 <p style="text-indent:16px;">$\cdot$ `B` denotes the jumping probability in gene-gene assocaition network (when the inter-network crossing events between drug and gene nodes and between gene and pathway nodes are neither existing).</p>
 
-<span style="font-size:10px;">$\bullet$</span> Numeric parameter `eta` is to controls the probability of restarting in the corresponding network. in `DComboNet()`, it always starts from drug seed in drug-drug association network, therefore `eta` sets to be 1.<br>
+<span style="font-size:10px;">$\bullet$</span> Numeric parameter `eta` is to controls the probability of restarting in the corresponding network. in `DComboNet()`, it always starts from drug seed in drug-drug association network, therefore the default `eta` is equal to 1.<br>
 
 <span style="font-size:10px;">$\bullet$</span> Numeric parameter `r` denotes global restart probability. It can be set as any value from 0 to 1, but according to previous researches and our tuning result, 0.7 shows the best prediction power.<br>
 
@@ -138,15 +139,16 @@ DComboNet(load_dir,
 </div>
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;">Before start any prediction assignment, please make sure `data` folder is fully downloaded and put in a fetchable path. `data` folder contains data files for construct networks as well as testing datasets used in our publication.</p>
+<p style="text-indent:16px;">Before start any prediction assignment, please make sure `data` folder is fully downloaded and put in fetchable path. `data` folder contains data files for construct networks as well as testing datasets used in our publication.</p>
 
 ```{r, eval=T}
 # 1. Make sure the path of `data` folder assign to variable correctly
 ## Here is an example path, you should switch to your own
-load_dir = "G:/lab/Projects/p1_DComboNet/Rpackage/input_data/"
+load_dir = 'G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/DComboNet-master/OCI_LY3/'
 # 2. Specify the path to save result files
 ## Here is an example path, you should switch to your own
-resultdir = "G:/lab/Projects/p1_DComboNet/Rpackage/tryout_result/"
+resultdir = "G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/test_tutorial/"
+dir.create(resultdir)
 ```
 
 </div>
@@ -164,27 +166,27 @@ resultdir = "G:/lab/Projects/p1_DComboNet/Rpackage/tryout_result/"
 <!-- ``` -->
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;">As we introduced in session 3, `DComboNet()` function incorporate two level models, you can choose level one model which is a generalized anti-cancer drug combination model and level two model which is a cancer-sample specific drug combination prediction model.</p>
+<p style="text-indent:16px;">As we introduced in session 3, `DComboNet()` function incorporate two level models, you can choose level-one model which is a generalized anti-cancer drug combination model and level-two model which is a cancer-sample specific drug combination prediction model.</p>
 </div>
 
-## Level one model
+## level-one model
 
 <div style = "width:120%; height:auto; margin: auto;">
 
 <p style="text-indent:16px;">To start generalized prediction assignment, you should choose `L1` in parameter `model`. Then drug that you are interested in predict combinable drugs should be input. Here, we provide two possible solutions to input the drug you are interested in `DComboNet`: </p>
 <p style="text-indent:16px;">1\) Input one or more drug name(s) together with their drugbank ID in a `data.frame`. In this case, you should shield manual input by `manual_input = FALSE`.</p>
 
-```{r, eval=FALSE}
-# runing level one model (L1)
+```{r, eval = TRUE}
+# runing level-one model (L1)
 drugcandidate = data.frame(drug = "Sorafenib", drugbankID = "DB00398")
 
 DComboNet(load_dir = load_dir, 
           resultdir = resultdir, 
-          model = "L1", # To choose level one model
+          model = "L1", # To choose level-one model
           manual_input = FALSE, # To shield manually input drug name
           drugcandidate = drugcandidate, 
           drugnetWeight = TRUE, # Confirm if drug network should be weighted
-          featuretype = 'integrated_score') # Select which drug-drug similarity should be use
+          featuretype = 'integrated_score2') # Select which drug-drug similarity should be use
 
 ```
 
@@ -192,7 +194,7 @@ DComboNet(load_dir = load_dir,
 
 <p style="text-indent:16px;">2\) Submit the name of drug in an interactive manner. Drug for prediction can be entered interactively after the question 'Please type in the drug you are interested: ' pop out. Note that, if `manual_input = TRUE`, even with input `drugcandidate`, the final result will be generates for the manually input drug.</p>
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
 
 DComboNet(load_dir = load_dir, 
           resultdir = resultdir, 
@@ -250,7 +252,7 @@ DT::datatable(pathwayrank, options = list(pageLength = 5))
 ```
 
 
-## Level two model
+## level-two model
 
 <div style = "width:120%; height:auto; margin: auto;">
 <p style="text-indent:16px;">To run cancer sample specific model requires more input parameters, especially to define cancer cell line and drug treatment related variables. Drug induced gene expression changes are from LINCS database where two datasets (`GSE70138` and `GSE92742`) are provided from GEO database. Multiple cancer cell lines together with different treatment time are also included in the two datasets. Depends on the specific purpose, you can choose cell line, treatment time and filtering criteria to generate your own gene set.</p>
@@ -259,25 +261,20 @@ DT::datatable(pathwayrank, options = list(pageLength = 5))
 
 <div style = "width:120%; height:auto; margin: auto;">
 
-```{r, eval = FALSE, warning=FALSE}
+```{r, eval = T, warning=FALSE}
 # Prepare input drugseed
 drugcandidate = data.frame(drug = "Sorafenib", drugbankID = "DB00398")
 
-# The setting of other parameters can be the same as how we run level one model
+# The setting of other parameters can be the same as how we run level-one model
 DComboNet(load_dir = load_dir, 
           resultdir = resultdir, 
-          model = "L2", # Choose level two model
-          manual_input = FALSE, # You can use manual input function (see level one model example)
+          model = "L2", # Choose level-two model
           drugcandidate = drugcandidate, 
           drugnetWeight = TRUE,
           featuretype = 'integrated_score', 
           dataset = "92742",
           cellline = "HEPG2",
-          treatment_time = 6,
-          # the absolute value of fold-change between drug-treated group and control group will be above 0.5
-          foldchange = 0.5,
-          # the p-value from the significent test (t.test) between drug-treated group and control group will be below 0.05
-          pvalue = 0.05)
+          treatment_time = 6)
 
 ```
 
@@ -287,7 +284,7 @@ DComboNet(load_dir = load_dir,
 
 <p style="text-indent:16px;">If you have other gene list related to the cancer cell line you are interested in and want to included in drug-gene assocaition network and/or gene-gene association network, you can input drugDEG and cancergene table (in data.frame format) manually.</p>
 
-<p style="text-indent:16px;">Similar to level one model, three results will be generated and saved under the folder `drugrank`, `generank` and `pathwayrank` in `resultdir` path. Prediction result for drug candidates is saved in `drugrank` folder. The name of result file indicate `drugseed` and inside the file, drug candidates within network is ranked based on global similarity.</p>
+<p style="text-indent:16px;">Similar to level-one model, three results will be generated and saved under the folder `drugrank`, `generank` and `pathwayrank` in `resultdir` path. Prediction result for drug candidates is saved in `drugrank` folder. The name of result file indicate `drugseed` and inside the file, drug candidates within network is ranked based on global similarity.</p>
 
 ```{r eval = T, results='hide'}
 # Take Sorafenib as an example
@@ -422,11 +419,11 @@ DT::datatable(druglist, options = list(pageLength = 5))
 
 
 ```{r, warning = FALSE, error=FALSE, eval=FALSE}
-# For level one model
+# For level-one model
 cellline = NULL
 model = "L1"
 
-# For level two model
+# For level-two model
 # cellline = "HEPG2"
 # model = "L2"
 # feature will saved under the name of cell line
@@ -449,7 +446,7 @@ drugnet_feature = DComboNet::DrugNetFeature(druglist = druglist,
 ### Drug-gene associations
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;">For level one model, drug-target gene associations and drug-related gene associations contribute to drug-gene association network:</p>
+<p style="text-indent:16px;">For level-one model, drug-target gene associations and drug-related gene associations contribute to drug-gene association network:</p>
 
 ```{r eval = T}
 drugtarget = read.table(paste0(load_dir,'data/drugtarget.csv'), sep =',', header = TRUE, stringsAsFactors = FALSE)
@@ -477,7 +474,7 @@ DT::datatable(druggene[1:20,], options = list(pageLength = 5))
 ```
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;">For level two model, drug-related gene associations will be replaced by drug induced differentially expressed genes(DEG):</p>
+<p style="text-indent:16px;">For level-two model, drug-related gene associations will be replaced by drug induced differentially expressed genes(DEG):</p>
 
 ```{r eval = T}
 cellline = 'HEPG2'
@@ -530,14 +527,14 @@ drugDEG_preparation(cellline = cellline,
 ### Gene-gene associations
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;">Gene-gene association network contains both cancer-related and drug-related genes. For level one model, cancers related genes were extracted from KEGG cancer related pathway including ‘pathway in cancer’:</p>
+<p style="text-indent:16px;">Gene-gene association network contains both cancer-related and drug-related genes. For level-one model, cancers related genes were extracted from KEGG cancer related pathway including ‘pathway in cancer’:</p>
 
 ```{r eval = T}
 cancer_gene = read.csv(paste0(load_dir,'data/network/protein-coding cancer genes name.csv'),header = F, stringsAsFactors = F)
 head(cancer_gene[,1],10)
 ```
 
-<p style="text-indent:16px;">For level two model, cancer sample/cell line specific expressed gene list extracted from CCLE database is provided:</p>
+<p style="text-indent:16px;">For level-two model, cancer sample/cell line specific expressed gene list extracted from CCLE database is provided:</p>
 
 ```{r eval = T}
 cellline = "HEPG2"
@@ -559,8 +556,8 @@ cancer_gene = cancerGene(cellline = cellline,
 ### Drug-pathway associations
 <div style = "width:120%; height:auto; margin: auto;">
 
-<p style="text-indent:16px;">For level one model, the associations between drugs and pathways are via a target-pathway mapping solution, that is, the drug-pathway association exists if the target gene(s) of a drug in drug-drug association network can be mapped to pathway(s). This process is packed in function `drugGeneNet.L1()` when construct drug-gene association network adjacency matrix. If new drugs are inputed, in this step, drug-target genes table should be provided.</p>
-<p style="text-indent:16px;">For level two model, pathways(DEpathway) that differentially regulated by drugs was added. Drug-DEpathway associations are obtained by `gsva()` function. The process can be done via function `DEG_DEP_preparation()` and then use certain filter criteria to select pathways through `drugDEP_preparation()`:</p>
+<p style="text-indent:16px;">For level-one model, the associations between drugs and pathways are via a target-pathway mapping solution, that is, the drug-pathway association exists if the target gene(s) of a drug in drug-drug association network can be mapped to pathway(s). This process is packed in function `drugGeneNet.L1()` when construct drug-gene association network adjacency matrix. If new drugs are inputed, in this step, drug-target genes table should be provided.</p>
+<p style="text-indent:16px;">For level-two model, pathways(DEpathway) that differentially regulated by drugs was added. Drug-DEpathway associations are obtained by `gsva()` function. The process can be done via function `DEG_DEP_preparation()` and then use certain filter criteria to select pathways through `drugDEP_preparation()`:</p>
 
 ```{r eval = FALSE}
 druglist = read.csv(paste0(load_dir, "/druglist_example.csv"), sep = ",", header = T, stringsAsFactors = F)
@@ -610,10 +607,10 @@ DT::datatable(drugDEP[1:20,], options = list(pageLength = 5))
 
 <div style = "width:120%; height:auto; margin: auto;">
 <p style="text-indent:16px;">After learning the pre-prepared network data files, let's try some more prediction task. In session 4, we tried some basic usage of prediction function `DComboNet` with drug that is within our provided dataset. We provided some more ways to personalized models for your dataset. </p>
-<p style="text-indent:16px;">The first kind is a simple extension for drug within provided dataset. Let's continue taking "Sorafenib" as example. If there are new targeted genes or related gene got discovered (those genes that is not from Drugbank or IPA tools, or new interesting genes from publications), you can prepare your interested drug-targeted gene table (or drug-related gene table). For level one model, the prediction task can be as follow:</p>
+<p style="text-indent:16px;">The first kind is a simple extension for drug within provided dataset. Let's continue taking "Sorafenib" as example. If there are new targeted genes or related gene got discovered (those genes that is not from Drugbank or IPA tools, or new interesting genes from publications), you can prepare your interested drug-targeted gene table (or drug-related gene table). For level-one model, the prediction task can be as follow:</p>
 
 ```{r, eval=FALSE}
-# runing level one model (L1)
+# runing level-one model (L1)
 drugcandidate = data.frame(drug = "Sorafenib", drugbankID = "DB00398")
 
 # only as example
@@ -622,7 +619,7 @@ dt_table = data.frame(drug = 'Sorafenib', target  = 'RAF1')
 dg_table = data.frame(drug = 'Sorafenib', gene  = 'RAF1')
 DComboNet(load_dir = load_dir, 
           resultdir = resultdir, 
-          model = "L1", # To choose level one model
+          model = "L1", # To choose level-one model
           manual_input = FALSE, # To shield manually input drug name
           drugcandidate = drugcandidate, 
           drugnetWeight = TRUE, # Confirm if drug network should be weighted
@@ -635,18 +632,18 @@ DComboNet(load_dir = load_dir,
 </div>
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;">Similarly, level two model can be run as:</p>
+<p style="text-indent:16px;">Similarly, level-two model can be run as:</p>
 </div>
 
 <div style = "width:120%; height:auto; margin: auto;">
 
 ```{r, eval=FALSE, warning=FALSE}
 
-# The setting of other parameters can be the same as how we run level one model
+# The setting of other parameters can be the same as how we run level-one model
 DComboNet(load_dir = load_dir, 
           resultdir = resultdir, 
-          model = "L2", # Choose level two model
-          manual_input = FALSE, # You can use manual input function (see level one model example)
+          model = "L2", # Choose level-two model
+          manual_input = FALSE, # You can use manual input function (see level-one model example)
           drugcandidate = drugcandidate, 
           drugnetWeight = TRUE,
           featuretype = 'integrated_score', 
@@ -665,7 +662,7 @@ DComboNet(load_dir = load_dir,
 </div>
 
 <div style = "width:120%; height:auto; margin: auto;">
-<p style="text-indent:16px;"> For level two model, if you have other processed drug-DEG table and drug-DEP for cell line 'HEPG2' and/or HEPG2 specific expressed gene list, you can also provided them in the model:</p>
+<p style="text-indent:16px;"> For level-two model, if you have other processed drug-DEG table and drug-DEP for cell line 'HEPG2' and/or HEPG2 specific expressed gene list, you can also provided them in the model:</p>
 </div>
 
 <div style = "width:120%; height:auto; margin: auto;">
@@ -678,11 +675,11 @@ drugDEG = read.table(paste0(load_dir, '/test/Sorafenib_DEG_test.txt'), sep = '\t
 drugDEP = read.table(paste0(load_dir, '/test/Sorafenib_DEP_test.txt'), sep = '\t', header = T, stringsAsFactors = F)
 cancergene = read.table(paste0(load_dir, '/test/HEPG2_genelist.csv'), sep = ',', header = T, stringsAsFactors = F)
 
-# The setting of other parameters can be the same as how we run level one model
+# The setting of other parameters can be the same as how we run level-one model
 DComboNet(load_dir = load_dir, 
           resultdir = resultdir, 
-          model = "L2", # Choose level two model
-          manual_input = FALSE, # You can use manual input function (see level one model example)
+          model = "L2", # Choose level-two model
+          manual_input = FALSE, # You can use manual input function (see level-one model example)
           drugcandidate = drugcandidate, 
           drugnetWeight = TRUE,
           featuretype = 'integrated_score', 
@@ -809,9 +806,9 @@ DT::datatable(drugtarget, options = list(pageLength = 3))
 
 <div style = "width:120%; height:auto; margin: auto;">
 
-4\) Extra information preparation for level two model
+4\) Extra information preparation for level-two model
 
-<p style="text-indent:16px;">For level two model, you can first input `NULL` to parameters `drugDEG`, `drugDEP` and ` cancergene`, if gene expression profiles before and after drug treatment of interested cancer cell line are not provided in LINCS and CCLE database, the function will reture an ERROR information. Then you should prepare your own tables for these three parameters. Here we provide examples for your preparation: </p>
+<p style="text-indent:16px;">For level-two model, you can first input `NULL` to parameters `drugDEG`, `drugDEP` and ` cancergene`, if gene expression profiles before and after drug treatment of interested cancer cell line are not provided in LINCS and CCLE database, the function will reture an ERROR information. Then you should prepare your own tables for these three parameters. Here we provide examples for your preparation: </p>
 </div>
 
 <div style = "width:120%; height:auto; margin: auto;">
@@ -862,22 +859,30 @@ DT::datatable(cancergene, options = list(pageLength = 3))
 
 ```{r, eval=F, warning=FALSE}
 
-DComboNet(load_dir = load_dir,
-          resultdir = resultdir,
+DComboNet(load_dir = outputdir,
+          resultdir = resultdir_overlap,
           model = 'L2',
-          manual_input = FALSE,
           drugcandidate=drugcandidate,
-          CDK_FP = CDK_FP,
-          pubchemFP = pubchemFP,
-          MACCS_FP = MACCS_FP,
+          CDK_FP = NULL,
+          pubchemFP = NULL,
+          MACCS_FP = NULL,
           drugnetWeight = TRUE,
-          featuretype = "integrated_score",
+          featuretype = featuretype,
           drugtarget = drugtarget,
+          druggene = NULL,
+          dataset = NULL,
           cellline = 'OCILY3',
+          treatment_time = NULL,
           drugDEG = drugDEG,
-          drugDEG = drugDEP,
-          cancergene = cancergene
-         )
+          drugDEP = NULL,
+          cancergene = cancergene,
+          dtweight = 2,
+          dgweight = 1,
+          dDEGweight = 1,
+          dgpweight = 1,
+          dDEpweight = 1,
+          eta=1,
+          r=0.7)
 
 ```
 
