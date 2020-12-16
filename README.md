@@ -76,9 +76,9 @@ Data under `/inst/extdata/` folder includes:
 ` DComboNet` is developed in R version 3.5.1. For running the test code in Instruction, you can check the "sessionInfo" chapter for more detailed session information.
 
 ## Citation
-<!-- <div style = "width:120%; height:auto; margin: auto;"> -->
 
-<!-- <p style="text-indent:16px;">If you use `DComboNet` in your publication(s), please cite:</p> -->
-<!-- </div> -->
+We have been submit our manuscript to bioaxiv, if you use `DComboNet` in your publication(s), please cite:
+Feng F, Zhang Z, Ding G, et al. Personalized anti-cancer drug combination prediction by an Integrated Multi-level Network[J]. bioRxiv, 2020.
+
 
 ## Acknowledgement

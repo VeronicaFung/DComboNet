@@ -338,6 +338,7 @@ DrugPathwayMatrix.L2 <- function(dt = NULL,
       names(dDEG_pw) = c('Drug','Pathway','Target')
       dDEG_pw$Target = 1
       dDEG_pw = unique(dDEG_pw)
+
     }else{
 
       if(is.null(drugDEP)){
@@ -371,6 +372,7 @@ DrugPathwayMatrix.L2 <- function(dt = NULL,
 
     druglist = data.frame(Drug = unique(dt$Drug))
     # druglist = data.frame(Drug=colnames(drugAdj))# unique(dt[1])
+    
     if(is.null(dDEG)){
 
 
