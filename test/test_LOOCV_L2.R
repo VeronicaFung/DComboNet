@@ -1,9 +1,8 @@
 library(DComboNet)
 options(stringsAsFactors = F)
 
-# druggene = NULL
 drugnetWeight = T
-featuretype = "integrated_score2"
+featuretype = "integrated_score"
 
 essentialgene = NULL
 drugDEG = NULL
