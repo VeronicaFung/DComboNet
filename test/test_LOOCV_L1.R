@@ -1,31 +1,5 @@
-library(igraph)
-library(data.table)
-library(compiler)
-library(Matrix)
-library(reshape2)
-library(Hmisc)
 library(DComboNet)
-
-outputdir = "/picb/bigdata/project/FengFYM/DComboNetV2/OCL_LY3/"
-setwd(outputdir)
 options(stringsAsFactors = F)
-
-
-#outputdir = "C:/Users/fengf/Documents/Veronica_files/DCcomboNet/Rpackage/OCL_LY3/"
-suppressPackageStartupMessages(library(data.table))
-
-drugpair = read.csv(paste0(outputdir,"data/drugpair.csv"),stringsAsFactors = F)[-3]
-drugcandidate <-  NULL #read.csv(paste0(outputdir,"data/druglist.csv"), sep = ",", header = T, stringsAsFactors = F)
-candidateFP1 <- read.csv(paste0(outputdir,"data/fingerprints/fingerprints.csv"), sep = ",",header = T, stringsAsFactors = F)
-candidateFP2 <- read.csv(paste0(outputdir,"data/fingerprints/pubchem_fingerprints.csv"), sep = ",",header = T, stringsAsFactors = F)
-candidateFP3 <- read.csv(paste0(outputdir,"data/fingerprints/MACCS_fingerprints.csv"), sep = ",",header = T, stringsAsFactors = F)
-drugtarget = read.csv(paste0(outputdir,"data/drugtarget.csv"), sep = ",",header = T, stringsAsFactors = F)
-druggene = NULL
-dt_lib = read.csv(paste0(outputdir,"data/drugtarget.csv"))
-druggene = read.csv(paste0(outputdir,"data/drug_gene/drug_ipa.inPPI.csv"), sep = ",",header = T, stringsAsFactors = F)
-# druggene = druggene[druggene$Relationship.Type != 'expression',]
-druggene = druggene[-2]
-
 
 model = "L1"
 dataset = NULL
@@ -55,7 +29,7 @@ C = 0
 eta=1
 
 
-# resultdir = "/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/"
+# please exchange to where you want to save the result files
 resultdir = "G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/test_LOOCV/"
 
 dir.create(resultdir)
@@ -83,8 +57,6 @@ L1.LOCOCV(load_dir,
 
 
 
-outputdir = "/picb/bigdata/project/FengFYM/DComboNetV2/OCL_LY3/"
-# setwd(outputdir)
 options(stringsAsFactors = F)
 library(reshape2)
 library(ROCR)
@@ -103,6 +75,7 @@ dataset = NULL
 treatment_time = NULL
 cellline = NULL
 
+# Please change to the path where you save the files
 drugnet_feature = read.csv('G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/DComboNet-master/inst/extdata/drug_net/features.csv',stringsAsFactors = F)
 drugnet_feature = drugnet_feature[drugnet_feature$integrated_score2 >=0.2,]
 drugnet_feature2=drugnet_feature
@@ -115,12 +88,10 @@ drugnet_feature2[drugnet_feature2$TAG=='P'| drugnet_feature2$TAG=='0',]$integrat
 drugnet_feature2[drugnet_feature2$TAG=='P',]$integrated_score =1
 
 drugnet_feature = drugnet_feature2[drugnet_feature2$integrated_score2 >= 0.2, ]
-source("/picb/bigdata/project/FengFYM/DComboNetV2/scripts/DComboNet/R/DrugNet.R")
-drugnetWeight = T
-featuretype = "integrated_score"
+
 drugnet_adj = AdjMatrix_drugs(x = drugnet_feature,
-                              weighted = drugnetWeight,
-                              weight.type= featuretype)
+                              weighted = T,
+                              weight.type= "integrated_score")
 
 drugnet_adj[drugnet_adj==0] = -1
 drugnet_adj[lower.tri(drugnet_adj)]=0
@@ -130,15 +101,15 @@ feature = feature[feature$value != 0, ]
 negativeset = feature[feature$value != 1, ][c(1,2)]
 names(negativeset) = c('A', 'B')
 
-library(ROCR)
+
 # positive set
 resultdir_positive <- paste0(resultdir,model,"_positive/")
 filepath <- list.files(resultdir_positive)
 
 drugpair <- drugnet_feature[drugnet_feature$TAG == "P", ][c(1, 2)]
 names(drugpair) <- c("A", "B")
-drugpair$A <- capitalize(drugpair$A)
-drugpair$B <- capitalize(drugpair$B)
+# drugpair$A <- capitalize(drugpair$A)
+# drugpair$B <- capitalize(drugpair$B)
 filepath <- paste(drugpair$A, drugpair$B, sep = "_")
 length(filepath)
 filepath2 <- as.list(filepath)
@@ -226,8 +197,8 @@ result$Score_ABplusBA <- result$Score_AB + result$Score_BA
 result = result[order(result$Score_ABplusBA,decreasing = T),]
 result$Rank_ABplusBA = 1:nrow(result)
 result$Label = factor(result$Label, levels = c(1,0))
-write.csv(result, paste0(resultdir, "result_all.csv"), quote=F, row.names = F)
-
+# write.csv(result, paste0(resultdir, "result_all.csv"), quote=F, row.names = F)
+library(ROCR)
 pred <- prediction( result$Score_ABplusBA, result$Label)
 perf <- performance( pred, "tpr", "fpr" )
 aucPerf <- performance( pred, "auc" )
@@ -247,7 +218,7 @@ plot(perf, col = "black", main = paste0("L1_ROC", sep = ""))
 text(0.8,0.2,paste("AUC=",AucValue,sep=""),col="black")
 dev.off()
 
-library(pROC) #加载pROC包
+library(pROC) 
 roc1<-roc( result$Label, result$Score_ABplusBA)
 pdf(file = paste0(resultdir, model,"_model/ROC_pROC.pdf"))
 plot(roc1, print.auc=TRUE, auc.polygon=TRUE, grid=c(0.1, 0.2),

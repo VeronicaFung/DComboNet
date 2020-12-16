@@ -1,29 +1,5 @@
-
-#resultdir = paste0("C:/Users/fengf/Documents/Veronica_files/DCcomboNet/Rpackage/wwin_LOOCV12/L1_model13/x_",x,"_y_",y,"_z_",z,"_a_",A,"_b_",B,"_c_",C,"/")
-dir.create("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/")
-dir.create(paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/",cellline,"_model13/"))
-resultdir_positive = paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/",cellline,"_model13/x_",x,"_y_",y,"_z_",z,"_a_",A,"_b_",B,"_c_",C,"/")
-
-dir.create("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/")
-dir.create(paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/", model, "_negativeset_tuning/"))
-resultdir_negative = paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/", model, "_negativeset_tuning/x_",x,"_y_",y,"_z_",z,"_a_",A,"_b_",B,"_c_",C,"_r_",r,"/")
-dir.create(resultdir_negative)
-
-
 library(DComboNet)
 options(stringsAsFactors = F)
-
-outputdir = "G:/lab/Projects/p1_DComboNet/药物组合/DrugCombinations_Old_files/DComboNet/OCL_LY3/"
-suppressPackageStartupMessages(library(data.table))
-
-drugpair = read.csv(paste0(outputdir,"data/drugpair.csv"),stringsAsFactors = F)[-3]
-drugcandidate <-  NULL #read.csv(paste0(outputdir,"data/druglist.csv"), sep = ",", header = T, stringsAsFactors = F)
-candidateFP1 <- read.csv(paste0(outputdir,"data/fingerprints/fingerprints.csv"), sep = ",",header = T, stringsAsFactors = F)
-candidateFP2 <- read.csv(paste0(outputdir,"data/fingerprints/pubchem_fingerprints.csv"), sep = ",",header = T, stringsAsFactors = F)
-candidateFP3 <- read.csv(paste0(outputdir,"data/fingerprints/MACCS_fingerprints.csv"), sep = ",",header = T, stringsAsFactors = F)
-drugtarget = read.csv(paste0(outputdir,"data/drugtarget.csv"), sep = ",",header = T, stringsAsFactors = F)
-dt_lib = read.csv(paste0(outputdir,"data/drugtarget.csv"))
-druggene = read.csv(paste0(outputdir,"data/drug_gene/drug_ipa.inPPI.csv"), sep = ",",header = T, stringsAsFactors = F)[-2]
 
 # druggene = NULL
 drugnetWeight = T
@@ -42,8 +18,9 @@ gpWeight = 1
 eta=1
 r=0.7
 
+# Please change to the path where you save the files
 outputdir = 'G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/DComboNet-master/OCI_LY3/'
-
+# please exchange to where you want to save the result files
 resultdir = "G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/test_LOOCV/"
 
 dir.create(resultdir)
@@ -54,8 +31,6 @@ L2.LOCOCV(load_dir = outputdir,
           drugcandidate = NULL,
           drugnetWeight = drugnetWeight,
           featuretype = featuretype,
-          drugtarget = drugtarget,
-          druggene = druggene,
           cancergene = NULL,
           dataset = '92742',
           cellline = 'HEPG2',
@@ -64,8 +39,6 @@ L2.LOCOCV(load_dir = outputdir,
 
 
 
-resultdir = "G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/test_LOOCV/"
-setwd(outputdir)
 options(stringsAsFactors = F)
 library(reshape2)
 library(ROCR)
@@ -81,6 +54,7 @@ C = 0
 model = "L2"
 cellline = "HEPG2"
 
+# Please change to the path where you save the files
 drugnet_feature = read.csv(paste0('G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/DComboNet-master/inst/extdata/drug_net/features_', cellline,'.csv'),stringsAsFactors = F)
 drugnet_feature = drugnet_feature[drugnet_feature$integrated_score2 >= 0.2,]
 drugnet_feature2 = drugnet_feature
@@ -109,8 +83,7 @@ negativeset = feature[feature$value != 1, ][c(1,2)]
 names(negativeset) = c('A', 'B')
 
 # positive set
-# resultdir = paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/",cellline,"_model11/x_0.5_y_0.5_z_0_a_0.5_b_0.5_c_0/",model,"_result/drugrank/")
-resultdir = "G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/test_LOOCV/L2_positive/drugrank/"
+resultdir = paste0(resultdir, "L2_positive/drugrank/")
 filepath <- list.files(resultdir)
 
 drugpair <- drugnet_feature[drugnet_feature$TAG == "0", ][c(1, 2)]
@@ -157,8 +130,7 @@ result_p <- lapply(filepath2, function(f) {
 result_p <- do.call(rbind, result_p)
 result_p <- unique(result_p)
 
-
-resultdir = "G:/lab/Projects/p1_DComboNet/DComboNet_improve/Rpackage/test_LOOCV/L2_negative/drugrank/"
+resultdir = paste0(resultdir, "L2_negative/drugrank/")
 a <- list.files(resultdir)
 dir <- paste0(resultdir, a)
 n <- length(dir);n
@@ -214,11 +186,6 @@ AUCValue <- aucPerf@y.values[[1]]
 AucValue <- round(AUCValue,3)
 print(AucValue)
 
-# performance(pred, "sens")@y.values[[1]][2412]
-# performance(pred, "spec")@y.values[[1]][2412]
-# cutoffs = perf@alpha.values[[1]]
-
-write.csv(result, paste0(resultdir, cellline,"_result_all.csv"), quote=F, row.names = F)
 
 pdf(file = paste0(resultdir,cellline,"_ROC_ROCR.pdf"))
 par(mfrow = c(1,1))
@@ -234,35 +201,5 @@ plot(roc1, print.auc=TRUE, auc.polygon=TRUE, grid=c(0.1, 0.2),
      auc.polygon.col="skyblue", print.thres=TRUE)
 dev.off()
 
-
-
-result_L1 <- read.csv(paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/L1_model3/x_0.5_y_0.5_z_0_a_0.5_b_0.5_c_0/result_all.csv"))
-result_L1 <- result_L1[order(result_L1$Score_ABplusBA, decreasing = T), ]
-result_L1$Rank_ABplusBA <- 1:nrow(result_L1)
-result_p2 = result[result$Label == 1, ]
-result_p2 = result_p2[-9]
-names(result_p2) = c('A','B',"Score_AB_L2","Rank_AB_L2","Score_BA_L2","Rank_BA_L2","Label","Score_ABplusBA_L2","Rank_ABplusBA_L2")
-names(result_L1) = c('A','B',"Score_AB_L1","Rank_AB_L1","Score_BA_L1","Rank_BA_L1","Label","Score_ABplusBA_L1","Rank_ABplusBA_L1")
-tmp <- merge(result_p2, result_L1, by = c("A", "B", "Label"))
-tmp2 <- tmp[c("A", "B", "Score_AB_L1", "Rank_AB_L1", "Score_BA_L1", "Rank_BA_L1", "Label", "Score_ABplusBA_L1", "Rank_ABplusBA_L1")]
-names(tmp2) <- names(result_L1)
-result_L1_2 <- rbind(tmp2, result_L1[result_L1$Label == 0, ])
-
-
-pred <- prediction( result_L1_2$Score_ABplusBA, result_L1_2$Label)
-perf <- performance( pred, "tpr", "fpr" )
-aucPerf <- performance( pred, "auc" )
-AUCValue <- aucPerf@y.values[[1]]
-AucValue <- round(AUCValue,3)
-print(AucValue)
-
-write.csv(tmp, paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/", cellline, "_model11/", cellline, "_L1_L2_p.csv"), quote = F, row.names = F)
-tmp$Rank_ABplusBA_L1 - tmp$Rank_ABplusBA_L2
-tmp[c("Rank_ABplusBA_L1", "Rank_ABplusBA_L2")]
-pdf(file = paste0("/picb/bigdata/project/FengFYM/DComboNetV2/wwin_LOOCV12/",cellline,"_model11/x_0.5_y_0.5_z_0_a_0.5_b_0.5_c_0/",cellline,"_ROC_ROCR_L1.pdf"))
-par(mfrow = c(1,1))
-plot(perf, col = "black", main = paste0("L1_ROC", sep = ""))
-text(0.8,0.2,paste("AUC=",AucValue,sep=""),col="black")
-dev.off()
 
 
