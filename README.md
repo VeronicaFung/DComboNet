@@ -69,7 +69,7 @@ Data under `/inst/extdata/` folder includes:
    `/LINCS_data/`: Differentially expressed genes of HepG2 (under the folder `GSE92742`), OCI-LY3 (under the folder `OCI-LY3`) and MCF7  (under the folder `GSE70138`) cell lines.
 
 `OCI-LY3.zip` provided other necessary data for testing model on OCI-LY3 cancer cell line.
-
+`results_figures_manuscripts.zip` contains results and figures files used in manuscript.
 
 ## Environment
 
